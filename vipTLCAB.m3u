@@ -121,30 +121,12 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3:aa58646c0ecd7b78c4082a345afa4b5f
 https://vmttv.dpdns.org/tv360/?id=tv360-15
+#EXTINF:-1 group-title="TV360" tvg-logo="https://vtv.gov.vn/uploads/ketnoi/352/vtvnet/2024/thang-1/tv360-logo.png", TV360 Bóng Chuyền
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=9965
 #EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
-
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
-https://liveh12vng.vtvprime.vn/hls/ONSPORT2/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
-https://liveh12vng.vtvprime.vn/hls/ONSPORT3/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
-https://liveh12vng.vtvprime.vn/hls/ONSPORT4/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
-https://liveh12vng.vtvprime.vn/hls/ONSPORT5/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
-https://liveh12vng.vtvprime.vn/hls/ONSPORT6/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
-https://liveh12vng.vtvprime.vn/hls/ONSPORT7/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
-https://liveh12vng.vtvprime.vn/hls/ONSPORT8/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
-https://liveh12vng.vtvprime.vn/hls/ONSPORT9/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
-https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
 
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
@@ -550,6 +532,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10036
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
 #EXTINF:-1 tvg-id="voh925" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 92,5 mhz
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
+#EXTINF:-1 tvg-id="joyfm" tvg-name="fm" tvg-logo="" group-title="FM Radio",Joy FM
+https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1 tvg-id="xonefm" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xone FM
+https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
 #EXTINF:-1 tvg-id="clvn" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:-1 tvg-id="CRNT" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cherry Radio Nhạc Trẻ

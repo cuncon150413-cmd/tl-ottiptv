@@ -1,0 +1,135 @@
+https://lab.scratch.mit.edu/widget-text/
+https://www.adacraft.org/studio/
+https://playground.raise.mit.edu/create/
+https://bricklife.com/scratch-gui/
+https://nitrobolt.org/editor/
+https://ide.mblock.cc/
+https://scratch.mit.edu/projects/editor/
+https://turbowarp.org/editor/
+https://studio.penguinmod.com/editor/
+https://www.cocrea.world/gandi/
+https://snail-ide.js.org/editor.html
+https://openclassroom.edu.vn/scratch/
+https://stretch3.champierre.com/
+https://labs-scratch.arduino.cc/
+https://sheeptester.github.io/scratch-gui/
+https://xcratch.github.io/editor/
+https://pictoblox.ai/
+https://scratchfoundation.github.io/scratch-gui/
+https://learningml.org/lml-scratch/
+https://scratch.progkids.com/
+https://scratch.photon.education/
+https://scratch.theroboboproject.com/
+https://school.thinkland.ai/scratch/ (english & china language only)
+https://scratch.techpark.jp/
+https://www.cl.cam.ac.uk/~jp622/reactive-scratch/create/
+https://scratch.fim.uni-passau.de/scratch-tutorials/
+https://khanning.github.io/scratch-gui/ (old beta preview scratch 3)
+https://www.scratch.genibot.pl/
+https://scratch.ugent.be/blink/editor/
+https://blog.katiebroida.com/scratch-gui/
+https://scratch-front.kodland.org/ (load & save file and change language has hided)
+https://lukesys.co.jp/scratchrobot/
+https://scratch.educg.net/
+https://scratch.poppy-project.org/ (ERR_CONNECTION_CLOSED)
+http://luochun.wang/scrash/ (not secure)
+https://www.sanzhi.com/scratch/
+https://scratch.edu-sense.com/
+https://sc.chocopi.org/
+https://scratch.mathix.org/
+https://nbtv.vn/giao-duc/thuc-hanh/scratch-gui/ (vcl đài ninh bình)
+https://www.codingwithkids.com/scratch/
+https://scratch.dgpad.net/index.php
+https://scratch.phippyai.com/
+https://fun.codelearn.cat/scratch_inner/ (load & save file and change language has hided)
+https://scratch.codle.io/ (blue screen can't load scratch)
+https://scratch.learnwonderly.com/
+https://dinosaurmod.github.io/editor.html
+https://dinosaurmod.github.io/replacement/editor.html
+https://cuncon150413-cmd.github.io/tldigital-ott1/scratch/ (by me)
+https://cuncon150413-cmd.github.io/tldigital-ott1/turbowarp/ (by me)
+https://scratch.ohstem.vn/
+https://codejr.org/ (scratch jr)
+https://www.ftscratch3.com/
+https://mantiscode.azurewebsites.net/app/scratch3/
+https://scratch.rlbot.org/
+https://scratch.uolo.com/ (login to use)
+https://scratch.thecodezone.co.uk/ (load & save file and change language has hided)
+https://genirobot.co.kr/scratch/
+https://www.scratch.codeyoung.com/ (register to use)
+https://scratch.codingfirst.org/
+https://www.poliglotiki.ru/scratch3/
+https://www.coding61.com/scratch3/ (login to use)
+https://scratch.robotical.io/ (select block bar is corrupted)
+https://scratch.samlabs.com/ (enter a valid token to use, to bypass use https://scratch.samlabs.com/player.html and click button "see inside" to editor)
+https://www.programmingbasics.org/en/downloads/scratchgames/scratch/
+https://scratch.leaplearner.com/
+http://www.scratch3ros.com/
+https://sb3.fryingpain.com/main/
+https://scratch.learnosteam.com/ (change language button has hided)
+http://scratch.skaole.com (ERR_CONNECTION_TIMED_OUT)
+https://scratch.twinscience.com/ (only english, all hided, only choose block bar)
+https://scratch.oezdag.io/
+https://scratch.rex.academy/ (ERR_CONNECTION_TIMED_OUT)
+https://scratch.digitaleducationsafety.org/
+https://scratch.soniclogicacademy.com/
+https://kurikit.ux-xu.com/play/ (english & china & japan language only)
+https://swjy.com/scratch/ (slow can't load)
+https://scratch.dolphincoding.io/
+https://scratch-cyx.vercel.app/
+https://scratch.xiaomaigi.com/ (slow can't load)
+https://scratch.earlystemer.com/gui-no-copy/
+https://www.kodik.eu/ (slow can't load)
+https://penguinmod.github.io/editor.html
+https://morantsur.github.io/scratch-gui/ (scratch 3 prototype)
+https://websim.com/@Segual/scratch-3-0-gui (with comment bar)
+https://griffpatch.github.io/scratch-gui/
+https://yarikiru.github.io/scratch-gui/
+https://champierre.github.io/ml2scratch/
+https://anaorodrigues.github.io/scratch-gui/
+https://thebrokenrail.github.io/scratch-gui/ (scratch 3 prototype)
+https://scratch3beta.robotical.io/ (scratch 3 beta)
+https://mybearworld.github.io/anplpr/ (scratch 3 prototype)
+https://wscratch.github.io/
+https://manaviva.github.io/scratch-gui/ (scratch 3 beta)
+https://harbaum.github.io/scratch-gui/
+https://rodrigo-mintin.github.io/scratch-gui/
+https://mssbgc.github.io/scratch/
+https://scratch.ohbot.co.uk/
+https://sansil.github.io/scratch-gui/
+https://ericrosenbaum.github.io/scratch-gui/ (scratch 3 beta, assest image broken)
+https://kenny2github.github.io/scratch-gui/
+https://www.icodeba.com/Scratch/ (custom to much, only english & 1 portion chinese)
+https://geolonia.github.io/x-geo-scratch/
+https://www.ytani.net/scratch/
+https://jaafreitas.github.io/scratch/gui/
+https://scratch.merakilearn.org/project/new/ (login to use & broken engine)
+https://aicode101.com/scratch/ (ERR_CONNECTION_TIMED_OUT)
+https://scratch.poulstar.org/ (Error 504 | Gateway Timeout)
+https://www.zircher.net/
+http://www.scratch3ros.com/ (not secure)
+https://novars-jp.github.io/scratch-gui/
+https://kristianpedersen.github.io/
+https://mobsya.github.io/scratch-gui/ (scratch 3 beta)
+https://tynanseltzer.github.io/scratch-gui/
+https://sfederici.github.io/scratch-gui/
+https://myscratchdesktop.github.io/scratch-gui/
+https://choi-laboratory.github.io/scratch-gui/
+https://scratch.brightchamps.com/
+https://ueki-kazuki.github.io/scratch-gui/
+https://scratchers.cn/editor/
+https://scratch.star-kids.info/
+https://ichiroc.github.io/chatgpt2scratch/
+https://www.nmgnoi.com/scratch-www/
+http://scratch.aisoy.com/ (not secure)
+https://mryslab.github.io/s3onegpio/
+https://takecx.github.io/scratch-gui/1-12-2/
+https://takecx.github.io/scratch-gui/1-16-5/
+https://ai-scratch.cocorobo.hk/
+https://scratch.xyxcode.com/ (not secure ERR_CERT_AUTHORITY_INVALID)
+https://rlp.schule/scratch/
+https://editor.scratchex.cn/ (not secure ERR_CERT_DATE_INVALID) (white screen can"t load)
+https://manaviva.github.io/scratch-gui/
+https://scratch.edbot.co.uk/
+https://ide-scratch.dpcode.lk/
+https://scratch.juicemind.com/

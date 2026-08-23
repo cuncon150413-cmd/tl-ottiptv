@@ -32,14 +32,11 @@ qhd=960x540 540p qhd
 
 canthotv.vn
 can tho 1 hd
-https://live.canthotv.vn/live/tv/playlist.m3u8
-https://live.canthotv.vn/live/tv/chunklist_w1678737227.m3u8
+https://live.canthotv.vn/live/tv/chunklist_w.m3u8
 can tho 2 hd
-https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
-https://live.canthotv.vn/cs2/live.stream/chunklist_w1500967801.m3u8
+https://live.canthotv.vn/cs2/live.stream/chunklist_w.m3u8
 can tho 3 hd
-https://live.canthotv.vn/cs3/tv/playlist.m3u8
-https://live.canthotv.vn/cs3/tv/chunklist_w1370529937.m3u8
+https://live.canthotv.vn/cs3/tv/chunklist_w.m3u8
 
 hd.xemtv.net
 vtv5 hd
@@ -100,7 +97,6 @@ hn1 sd
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b1800000.m3u8
 hn1 hd
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
-hn2
 qngtv1 quangngai hd
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
@@ -246,7 +242,7 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 trt1 canli 1440p
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
-cinemaworldtv (korea) hd
+cinemaworldtv hd
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
 
@@ -437,14 +433,6 @@ ttv 720p
 https://luuchieu.truyenhinhso.vn/media/live/3F95C34B9C32223E48CFA12D/index.m3u8
 radiottv
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
-
-thst.vn
-can tho 3 hd
-https://live.canthotv.vn/cs3/tv/chunklist.m3u8
-https://live.canthotv.vn/cs3/tv/playlist.m3u8
-can tho radio
-https://live.canthotv.vn/live/radio/chunklist.m3u8
-https://live.canthotv.vn/live/radio/playlist.m3u8
 
 vov.vn
 vov1
@@ -753,6 +741,8 @@ ktv khanh hoa 720p
 https://stream1.freetv.fun/60dc277f4ec0f8f564f8a71f5cc9336e0fcd8a50dc7f34ccb2d303612e77af20.m3u8
 
 t.freetv.fun
+dnnrtv1 dong nai 720p
+https://t.freetv.fun/live/dong-nai-tv-1.m3u8
 dnnrtv2 dong nai 720p
 https://t.freetv.fun/live/dong-nai-tv-2.m3u8
 
@@ -1670,7 +1660,7 @@ dongnai radio
 https://stream.thingnet.vn/radio/dongnai_aac/playlist.m3u8
 
 125hvt.ddns.net:21585
-vtv2 576p
+vtv2 hd
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 vtv6 576p
 http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
@@ -1684,7 +1674,7 @@ thvl1 576p
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 
 live247.freem3u.xyz:21585
-vtv2 576p
+vtv2 hd
 http://live247.freem3u.xyz:21585/vtv2/playlist.m3u8
 vtv6 576p
 http://live247.freem3u.xyz:21585/vtv6/playlist.m3u8
@@ -2055,6 +2045,13 @@ qtv1 quang ninh 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_480p.m3u8
 qtv1 quang ninh 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_360p.m3u8
+qtv3 quang ninh 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh3tv/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_720p.m3u8
+qtv3 quang ninh 480p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_480p.m3u8
+qtv3 quang ninh 360p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_360p.m3u8
 tn tay ninh 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-tayninhtv/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-tayninhtv/playlist_720p.m3u8
@@ -2076,6 +2073,13 @@ qngtv1 quang ngai 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_480p.m3u8
 qngtv1 quang ngai 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_360p.m3u8
+lstv lang son 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
+lstv lang son 480p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_480p.m3u8
+lstv lang son 360p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_360p.m3u8
 
 vtvgolive-ssaimh.vtvdigital.vn
 vtv1 720p
@@ -2281,6 +2285,13 @@ qtv1 quang ninh 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_480p.m3u8
 qtv1 quang ninh 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_360p.m3u8
+qtv3 quang ninh 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh3tv/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_720p.m3u8
+qtv3 quang ninh 480p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_480p.m3u8
+qtv3 quang ninh 360p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_360p.m3u8
 tn tay ninh 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-tayninhtv/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-tayninhtv/playlist_720p.m3u8
@@ -2302,6 +2313,13 @@ qngtv1 quang ngai 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_480p.m3u8
 qngtv1 quang ngai 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_360p.m3u8
+lstv lang son 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
+lstv lang son 480p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_480p.m3u8
+lstv lang son 360p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_360p.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
 hanoitv1 720p
@@ -3042,44 +3060,14 @@ QPVN 480p
 https://liveh12.vtvprime.vn/hls/QPTV/02.m3u8
 QPVN 360p
 https://liveh12.vtvprime.vn/hls/QPTV/01.m3u8
+ANTV hd
+https://liveh12.vtvprime.vn/hls/ANNINHTV/04.m3u8
 ANTV 720p
 https://liveh12.vtvprime.vn/hls/ANNINHTV/03.m3u8
 ANTV 480p
 https://liveh12.vtvprime.vn/hls/ANNINHTV/02.m3u8
 ANTV 360p
 https://liveh12.vtvprime.vn/hls/ANNINHTV/01.m3u8
-NHK WORLD 720p
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-NHK WORLD 480p
-https://liveh12.vtvprime.vn/hls/NHKWORLD/02.m3u8
-NHK WORLD 360p
-https://liveh12.vtvprime.vn/hls/NHKWORLD/01.m3u8
-hgtv hau giang 720p
-https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
-hgtv hau giang 480p
-https://liveh34.vtvprime.vn/hls/HGTV/02.m3u8
-hgtv hau giang 360p
-https://liveh34.vtvprime.vn/hls/HGTV/01.m3u8
-sctv2 720p
-https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-sctv2 480p
-https://liveh12.vtvprime.vn/hls/SCTV2/02.m3u8
-sctv2 360p
-https://liveh12.vtvprime.vn/hls/SCTV2/01.m3u8
-sctv5 720p
-https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8
-sctv5 480p
-https://liveh34.vtvprime.vn/hls/SCTV5/02.m3u8
-sctv5 360p
-https://liveh34.vtvprime.vn/hls/SCTV5/03.m3u8
-on football hd
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
-on football 720p
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/03.m3u8
-on football 480p
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/02.m3u8
-on football 360p
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/01.m3u8
 
 fptplay.vn
 vtv1 hd
