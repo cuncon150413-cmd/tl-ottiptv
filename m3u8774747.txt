@@ -824,29 +824,53 @@ https://live.baoquangninh.com.vn/qtvlive/qnr2.m3u8
 
 truyenhinh.vnptvas.vn
 dtv dien bien 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
 dtv dien bien 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv36&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=sd&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=sd&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=sd&type=tv&location=NA&pkg=pkg11.hni
 ttv thanh hoa 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg12.hni
 ttv thanh hoa 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&type=tv&location=NA&pkg=pkg11.hni
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+drt dak lak 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
+drt dak lak 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv372&q=sd&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv202&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ntv nghe an 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
+ntv nghe an 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv221&q=sd&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv227&q=sd&type=tv&location=NA&pkg=pkg11.hni
+vtv3 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&type=tv&location=NA&pkg=pkg12.hni
+vtv3 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=sd&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv480&q=high&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 720p
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv480&q=sd&type=tv&location=NA&pkg=pkg12.hni
 
 123.31.36.68
 dtv dien bien 720x406
@@ -856,7 +880,7 @@ http://123.31.36.68/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720x406
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720p
-http://123.31.36.68/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg11.hni
+http://123.31.36.68/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg31.hni
 thd hai duong 720x406
 http://123.31.36.68/live.m3u8?c=vstv369&q=hig&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720p
@@ -870,9 +894,35 @@ http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720p
 http://123.31.36.68/live.m3u8?c=vstv365&q=sd&type=tv&location=NA&pkg=pkg11.hni
 ttv thanh hoa 720x406
-http://123.31.36.68/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg11.hni
+http://123.31.36.68/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg12.hni
+http://123.31.36.68/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
 ttv thanh hoa 720p
-http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg11.hni
+http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+http://123.31.36.68/live.m3u8?c=vstv208&q=sd&type=tv&location=NA&pkg=pkg11.hni
+drt dak lak 720x406
+http://123.31.36.68/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
+drt dak lak 720p
+http://123.31.36.68/live.m3u8?c=vstv372&q=sd&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 720x406
+http://123.31.36.68/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 720p
+http://123.31.36.68/live.m3u8?c=vstv202&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ntv nghe an 720x406
+http://123.31.36.68/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
+ntv nghe an 720p
+http://123.31.36.68/live.m3u8?c=vstv221&q=sd&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 720x406
+http://123.31.36.68/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 720p
+http://123.31.36.68/live.m3u8?c=vstv227&q=sd&type=tv&location=NA&pkg=pkg11.hni
+vtv3 720x406
+http://123.31.36.68/live.m3u8?c=vstv262&q=high&type=tv&location=NA&pkg=pkg12.hni
+vtv3 720p
+http://123.31.36.68/live.m3u8?c=vstv262&q=sd&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 720x406
+http://123.31.36.68/live.m3u8?c=vstv480&q=high&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 720p
+http://123.31.36.68/live.m3u8?c=vstv480&q=sd&type=tv&location=NA&pkg=pkg12.hni
 
 live.mediatech.vn
 stv son la hd
@@ -4583,8 +4633,6 @@ voh 87,7mhz hd
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
 voh 92,5mhz hd
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
-sctv2 720p
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 test
 https://freem3u.xyz/static/no-signal/low.m3u8
 
