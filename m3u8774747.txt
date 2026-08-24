@@ -211,7 +211,7 @@ https://natv.vncdn.vn/natvlive/tv1live.m3u8
 nbtv ninh bình hd
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-tbk bac kan sd720x406(da ket thuc luong)
+tbk bac kan sd720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 ptv phu tho hd
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
@@ -2665,13 +2665,6 @@ crtv cao bang 480p
 https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
 https://vtvgolive-ott4.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
-vietnam today 720p
-https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/playlist.m3u8
-https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_2.m3u8
-vietnam today 480p
-https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_1.m3u8
-vietnam today 360p
-https://vtvgolive-ott4.vtvdigital.vn/live/hanamtv/chunklist_0.m3u8
 
 ott3.nethubtv.vn
 btv bac ninh 480p
@@ -2811,13 +2804,6 @@ https://ott4.nethubtv.vn/live/caobangtv/playlist.m3u8
 https://ott4.nethubtv.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
 https://ott4.nethubtv.vn/live/caobangtv/chunklist_0.m3u8
-vietnam today 720p
-https://ott4.nethubtv.vn/live/hanamtv/playlist.m3u8
-https://ott4.nethubtv.vn/live/hanamtv/chunklist_2.m3u8
-vietnam today 480p
-https://ott4.nethubtv.vn/live/hanamtv/chunklist_1.m3u8
-vietnam today 360p
-https://ott4.nethubtv.vn/live/hanamtv/chunklist_0.m3u8
 
 cmcdp.vtvdigital.vn
 btv bac ninh 480p
@@ -2957,13 +2943,6 @@ https://cmcdp1.vtvdigital.vn/live/caobangtv/playlist.m3u8
 https://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
 https://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
-vietnam today 720p
-https://cmcdp1.vtvdigital.vn/live/hanamtv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/hanamtv/chunklist_2.m3u8
-vietnam today 480p
-https://cmcdp1.vtvdigital.vn/live/hanamtv/chunklist_1.m3u8
-vietnam today 360p
-https://cmcdp1.vtvdigital.vn/live/hanamtv/chunklist_0.m3u8
 
 vtvprime.vn
 hanoitv1 720p
@@ -3008,6 +2987,12 @@ ktv khanh hoa 480p
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/02.m3u8
 ktv khanh hoa 360p
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/01.m3u8
+ktv khanh hoa 720p
+https://liveh34.vtvprime.vn/hls/KHANHHOA1/03.m3u8
+ktv khanh hoa 480p
+https://liveh34.vtvprime.vn/hls/KHANHHOA1/02.m3u8
+ktv khanh hoa 360p
+https://liveh34.vtvprime.vn/hls/KHANHHOA1/01.m3u8
 qtv1 quang ninh 720p
 https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
 qtv1 quang ninh 480p

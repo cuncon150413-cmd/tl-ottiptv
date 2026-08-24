@@ -647,8 +647,8 @@ https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình 
 https://tldigital-ott1.s.gy/285391a08f01f83458793b293c5e9517265-henxui.m3u8
-#EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="Thử Nghiệm",Ninh Bình  
-https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="daklak" tvg-name="PTP Phú Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest/scale-to-width-down/1000?cb=20211202141521&path-prefix=vi" group-title="Địa Phương",PTP Phú Yên
+https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/phuyen/ptp-tnbh2018.m3u8
 #EXTINF:-1 tvg-id="tv360plus16" tvg-name="tv360 16" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/07/17/178341886042/8212b6f0ea56_480_270.png" group-title="Thử Nghiệm",TV360+16
 https://cdn.jsdelivr.net/gh/cuncon150413-cmd/tl-ottiptv@main/Mr%20Beast%20Stole%20The%20Precious%20Windows%20XP%20Crazy%20Error!%20-%20(480p).mp4
 #EXTINF:-1 tvg-id="tv360plus17" tvg-name="tv360 17" tvg-logo="https://images.genius.com/20d8156ea21ba5f31dcc09769e279117.1000x1000x1.png" group-title="Thử Nghiệm",TV360+17
