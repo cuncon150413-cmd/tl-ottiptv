@@ -453,6 +453,8 @@ https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 m3u8 khac
 vtv1 360p
 https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
+vtv1 720p
+https://cdn-live.vtv.vn/ls8KPlzF6g-CINMhXowH4A/1787666823/live/vtv1/vtv1-720p.m3u8
 bhttv ha tinh 720p
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 ctv ca mau 720p
@@ -2797,10 +2799,14 @@ https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv1 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-manifest.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-720p.m3u8
 vtv1 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-480p.m3u8
 vtv1 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-360p.m3u8
 vtv2 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
@@ -2953,10 +2959,14 @@ https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv1 720p
 https://events.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
+https://events.vtvdigital.vn/livestream/digital_04-manifest.m3u8
+https://events.vtvdigital.vn/livestream/digital_04-720p.m3u8
 vtv1 480p
 https://events.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
+https://events.vtvdigital.vn/livestream/digital_04-480p.m3u8
 vtv1 360p
 https://events.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
+https://events.vtvdigital.vn/livestream/digital_04-360p.m3u8
 vtv2 720p
 https://events.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
@@ -3109,10 +3119,14 @@ https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv1 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-manifest.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-720p.m3u8
 vtv1 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-480p.m3u8
 vtv1 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-360p.m3u8
 vtv2 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
@@ -3564,8 +3578,6 @@ vtv5 480p
 https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
 vtv5 360p
 https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
-
-
 
 cmcdp1.vtvdigital.vn
 dnnrtv1 720p
