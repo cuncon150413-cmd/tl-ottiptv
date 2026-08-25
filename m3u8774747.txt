@@ -2519,6 +2519,169 @@ vtv10 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-480p.m3u8
 vtv10 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-360p.m3u8
+vietnam today 720p
+https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
+vietnam today 480p
+https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
+vietnam today 360p
+https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
+
+events.vtvdigital.vn
+hanoitv1 720p
+https://events.vtvdigital.vn/kenhdp/hanoi1-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/hanoi1-720p.m3u8
+hanoitv1 480p
+https://events.vtvdigital.vn/kenhdp/hanoi1-480p.m3u8
+hanoitv1 360p
+https://events.vtvdigital.vn/kenhdp/hanoi1-360p.m3u8
+hanoitv2 720p
+https://events.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
+hanoitv2 480p
+https://events.vtvdigital.vn/kenhdp/hanoi2-480p.m3u8
+hanoitv2 360p
+https://events.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
+ctv ca mau 720p
+https://events.vtvdigital.vn/kenhdp/camau-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/camau-720p.m3u8
+ctv ca mau 480p
+https://events.vtvdigital.vn/kenhdp/camau-480p.m3u8
+ctv ca mau 360p
+https://events.vtvdigital.vn/kenhdp/camau-360p.m3u8
+thp hai phong 720p
+https://events.vtvdigital.vn/kenhdp/haiphongtv-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/haiphongtv-720p.m3u8
+thp hai phong 480p
+https://events.vtvdigital.vn/kenhdp/haiphongtv-480p.m3u8
+thp hai phong 360p
+https://events.vtvdigital.vn/kenhdp/haiphongtv-360p.m3u8
+dtv dien bien 720p
+https://events.vtvdigital.vn/kenhdp/dienbientv-720p.m3u8
+https://events.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
+dtv dien bien 480p
+https://events.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
+dtv dien bien 360p
+https://events.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
+can tho 1 720p
+https://events.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
+can tho 1 480p
+https://events.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
+can tho 1 360p
+https://events.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
+can tho 2 720p
+https://events.vtvdigital.vn/kenhdp/cantho2-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
+can tho 2 480p
+https://events.vtvdigital.vn/kenhdp/cantho2-480p.m3u8
+can tho 2 360p
+https://events.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
+can tho 3 720p
+https://events.vtvdigital.vn/kenhdp/cantho3-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
+can tho 3 480p
+https://events.vtvdigital.vn/kenhdp/cantho3-480p.m3u8
+can tho 3 360p
+https://events.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
+stv son la 720p
+https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+stv son la 480p
+https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtv1 720p
+https://events.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
+vtv1 480p
+https://events.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
+vtv1 360p
+https://events.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
+vtv2 720p
+https://events.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
+vtv2 480p
+https://events.vtvdigital.vn/vtvgo/vtv2-480p.m3u8
+vtv2 360p
+https://events.vtvdigital.vn/vtvgo/vtv2-360p.m3u8
+vtv3 720p
+https://events.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv3-720p.m3u8
+vtv3 480p
+https://events.vtvdigital.vn/vtvgo/vtv3-480p.m3u8
+vtv3 360p
+https://events.vtvdigital.vn/vtvgo/vtv3-360p.m3u8
+vtv4 720p
+https://events.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
+vtv4 480p
+https://events.vtvdigital.vn/vtvgo/vtv4-480p.m3u8
+vtv4 360p
+https://events.vtvdigital.vn/vtvgo/vtv4-360p.m3u8
+vtv5 720p
+https://events.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
+vtv5 480p
+https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
+vtv5 360p
+https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
+vtv5 tnb 720p
+https://events.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv5tnb-720p.m3u8
+vtv5 tnb 480p
+https://events.vtvdigital.vn/vtvgo/vtv5tnb-480p.m3u8
+vtv5 tnb 360p
+https://events.vtvdigital.vn/vtvgo/vtv5tnb-360p.m3u8
+vtv5 tn 720p
+https://events.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv5tn-720p.m3u8
+vtv5 tn 480p
+https://events.vtvdigital.vn/vtvgo/vtv5tn-480p.m3u8
+vtv5 tn 360p
+https://events.vtvdigital.vn/vtvgo/vtv5tn-360p.m3u8
+vtv6 720p
+https://events.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv6tt-720p.m3u8
+vtv6 480p
+https://events.vtvdigital.vn/vtvgo/vtv6tt-480p.m3u8
+vtv6 360p
+https://events.vtvdigital.vn/vtvgo/vtv6tt-360p.m3u8
+vtv7 720p
+https://events.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv7-720p.m3u8
+vtv7 480p
+https://events.vtvdigital.vn/vtvgo/vtv7-480p.m3u8
+vtv7 360p
+https://events.vtvdigital.vn/vtvgo/vtv7-360p.m3u8
+vtv8 720p
+https://events.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv8-720p.m3u8
+vtv8 480p
+https://events.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
+vtv8 360p
+https://events.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
+vtv9 720p
+https://events.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv9-720p.m3u8
+vtv9 480p
+https://events.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
+vtv9 360p
+https://events.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
+vtv10 720p
+https://events.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vtv6-720p.m3u8
+vtv10 480p
+https://events.vtvdigital.vn/vtvgo/vtv6-480p.m3u8
+vtv10 360p
+https://events.vtvdigital.vn/vtvgo/vtv6-360p.m3u8
+vietnam today 720p
+https://events.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
+https://events.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
+vietnam today 480p
+https://events.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
+vietnam today 360p
+https://events.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
