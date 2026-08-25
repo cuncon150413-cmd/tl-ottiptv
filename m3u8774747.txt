@@ -2796,6 +2796,8 @@ stv son la 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtv1 hd
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-1080p.m3u8
 vtv1 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
@@ -2956,6 +2958,8 @@ stv son la 480p
 https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtv1 hd
+https://events.vtvdigital.vn/livestream/digital_04-1080p.m3u8
 vtv1 720p
 https://events.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
@@ -3116,6 +3120,8 @@ stv son la 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtv1 hd
+https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-1080p.m3u8
 vtv1 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
@@ -4141,8 +4147,6 @@ ttv tuyen quang 720p
 https://vtvgolive-vtclc.vtvdigital.vn/g0hbnVBBm-amyiUv7pAoEw/1787672460/media/live/3F95C34B9C32223E48CFA12D/index.m3u8
 stv son la 720p
 https://vtvgolive-vtclc.vtvdigital.vn/g0hbnVBBm-amyiUv7pAoEw/1787672460/media/live/A8341460A6E325278B3B528C/index.m3u8
-dtv dien bien 720p
-https://vtvgolive-vtclc.vtvdigital.vn/g0hbnVBBm-amyiUv7pAoEw/1787672460/media/live/E12415C4CD89789834C7C475/index.m3u8
 qttv quang tri 720p
 https://vtvgolive-vtclc.vtvdigital.vn/g0hbnVBBm-amyiUv7pAoEw/1787672460/media/live/07F4162EA25E7311C230CA00/index.m3u8
 thlc lao cai 720p
@@ -4491,8 +4495,6 @@ ttv tuyen quang 720p
 https://luuchieu.truyenhinhso.vn/media/live/3F95C34B9C32223E48CFA12D/index.m3u8
 stv son la 720p
 https://luuchieu.truyenhinhso.vn/media/live/A8341460A6E325278B3B528C/index.m3u8
-dtv dien bien 720p
-https://luuchieu.truyenhinhso.vn/media/live/E12415C4CD89789834C7C475/index.m3u8
 qttv quang tri 720p
 https://luuchieu.truyenhinhso.vn/media/live/07F4162EA25E7311C230CA00/index.m3u8
 thlc lao cai 720p
@@ -5756,7 +5758,5 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 other
 lo am nhac tiktok sd
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/vidgap-com-hoanganhtvisme_123-7642897158471044373-(non-wm).mp4
-tuyet doi khong duoc xem sd
-https://v7.slv525627.com/20260103/XM5A00Vh/index.m3u8
 lo toan hoc 360p
 https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/videoplayback%20(13).mp4
