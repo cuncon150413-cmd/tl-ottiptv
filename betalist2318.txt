@@ -316,39 +316,39 @@ https://github.com/cuncon150413-cmd/test/raw/refs/heads/main/0611.mp4
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/meme-cam-mom-6.mp4
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HTV2_logo_ph%E1%BB%A5_12-2022.png/revision/latest/scale-to-width-down/1000?cb=20260511043728&path-prefix=vi" group-title="HTV",HTV2
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTV3_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043044&path-prefix=vi" group-title="HTV",HTV3
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260424031742&path-prefix=vi" group-title="HTV",HTV4
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" tvg-name="HTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/HTV5_logo_02-2026.png/revision/latest?cb=20260510082557&path-prefix=vi" group-title="HTV",HTV5
-
+https://cdn.jsdelivr.net/gh/cuncon150413-cmd/tl-ottiptv@main/Mr%20Beast%20Stole%20The%20Precious%20Windows%20XP%20Crazy%20Error!%20-%20(480p).mp4
 #EXTINF:-1 tvg-id="htv1" tvg-name="BTV1 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/BTV1_logo_02-09-2025_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20250903080711&path-prefix=vi" group-title="HTV",BTV1 Bình Dương
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7" tvg-name="HTV7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest?cb=20250507023141&path-prefix=vi" group-title="HTV",HTV Thể Thao
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9" tvg-name="HTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_31-12-2024_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260414043029&path-prefix=vi" group-title="HTV",HTV9
 http://125hvt.ddns.net:21585/htv9/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="BRT Bà Rịa Vũng Tàu" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/BRT_HD_V%C5%A9ng_T%C3%A0u_2024.png/revision/latest/scale-to-width-down/1000?cb=20240107030031&path-prefix=vi" group-title="HTV",BRT Bà Rịa Vũng Tàu
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" tvg-name="BTV2 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/BTV2_HD_logo_28-11-2024_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20241128092858&path-prefix=vi" group-title="HTV",BTV2 Bình Dương
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/HTVC_Gia_%C4%91%C3%ACnh_2018.png/revision/latest?cb=20241219124842&path-prefix=vi" group-title="HTVC",HTVC Gia Đình
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ Nữ
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="HTVC",HTVC Thuần Việt
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim" tvg-logo="https://htvc.vn/uploads/channel/2024/03/08/3409130-091-htvc-phim.png" group-title="HTVC",HTVC Phim
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc" tvg-logo="https://img.hplus.com.vn/728x409/banner/2022/08/23/812019-CA-NHAC-LOGO.png" group-title="HTVC",HTVC Ca Nhạc
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-name="HTVC Plus" tvg-logo="https://img.hplus.com.vn/728x409/banner/2022/08/23/377632-HTVC-PLUS-LOGO.png" group-title="HTVC",HTVC Plus
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/HTVC_DLCS_2016-2020.png/revision/latest?cb=20220609030426&path-prefix=vi" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
-
+https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1436?cb=20220410232326&path-prefix=vi" group-title="THVL",THVL1
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
@@ -394,7 +394,7 @@ https://liveh12.vtvprime.vn/hls/DANANGTV/01.m3u8
 #EXTINF:-1 tvg-id="danang2" tvg-name="DNRT2 Đà Nẵng" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/DNRT2_logo.png/revision/latest?cb=20260212223711&path-prefix=vi" group-title="Địa Phương",DNRT2 Đà Nẵng
 https://liveh34.vtvprime.vn/hls/DANANG2/01.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-name="ĐRT Đắk Lắk" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Logo_DRT_HD_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2022.png/revision/latest/scale-to-width-down/1000?cb=20240210071409&path-prefix=vi" group-title="Địa Phương",ĐRT Đắk Lắk
-https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b1800000.m3u8
+http://123.31.36.68/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="dienbien" tvg-name="ĐTV Điện Biên" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/%C4%90TV_logo_2019.png/revision/latest?cb=20220225073050&path-prefix=vi" group-title="Địa Phương",ĐTV Điện Biên
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
 #EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐNNRTV1 Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest/scale-to-width-down/1508?cb=20250902053416&path-prefix=vi" group-title="Địa Phương",ĐNNRTV1 Đồng Nai
@@ -422,7 +422,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-hatinhtv/playlist_360p.m3u8
 #EXTINF:-1 tvg-id="haiphong3" tvg-name="THD Hải Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/HDTV_2023-2025.png/revision/latest/scale-to-width-down/1000?cb=20230925025249&path-prefix=vi" group-title="Địa Phương Cũ",THD Hải Dương
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/quangcac.mp4
 #EXTINF:-1 tvg-id="haiphong" tvg-name="THP Hải Phòng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/500px-THP_logo.svg.png" group-title="Địa Phương",THP Hải Phòng
-https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
+http://123.31.36.68/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="haiphong3" tvg-name="THP3 Hải Phòng" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest/scale-to-width-down/1000?cb=20260101113817&path-prefix=vi" group-title="Địa Phương",THP3 Hải Phòng
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/01.m3u8
 #EXTINF:-1 tvg-id="hue" tvg-name="HuếTV Huế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png" group-title="Địa Phương",HuếTV Huế
@@ -452,7 +452,7 @@ https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
 #EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV3 Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/LTV3_Lam_Dong_logo.png/revision/latest?cb=20251030040159&path-prefix=vi" group-title="Địa Phương Cũ",LTV3 Lâm Đồng
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b964000_sleng.m3u8
 #EXTINF:-1 tvg-id="nghean" tvg-name="NTV Nghệ An" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/NTV_Ngh%E1%BB%87_An.png/revision/latest/scale-to-width-down/1055?cb=20250529155910&path-prefix=vi" group-title="Địa Phương",NTV Nghệ An
-https://liveh12.vtvprime.vn/hls/NGHEANTV/01.m3u8
+http://123.31.36.68/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa Phương",NBTV Ninh Bình
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="phutho" tvg-name="PTV Phú Thọ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/PTV_Ph%C3%BA_Th%E1%BB%8D.png/revision/latest?cb=20231214124447&path-prefix=vi" group-title="Địa Phương",PTV Phú Thọ
@@ -468,7 +468,7 @@ https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="quangtri" tvg-name="QTTV Quảng Trị" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi" group-title="Địa Phương",QTTV Quảng Trị
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/meme-cam-mom-6.mp4
 #EXTINF:-1 tvg-id="quangninh1" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu1.png" group-title="Địa Phương",QTV1 Quảng Ninh
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_360p.m3u8
+http://123.31.36.68/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="quangninh3" tvg-name="QTV3 Quảng Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/QTV3.png/revision/latest?cb=20230527102016&path-prefix=vi" group-title="Địa Phương",QTV3 Quảng Ninh
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh3tv/playlist_360p.m3u8
 #EXTINF:-1 tvg-id="cantho3" tvg-name="STV1 Sóc Trăng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/STV1_HD_logo_2016-2025.png/revision/latest/scale-to-width-down/1000?cb=20230306104611&path-prefix=vi" group-title="Địa Phương Cũ",STV1 Sóc Trăng
