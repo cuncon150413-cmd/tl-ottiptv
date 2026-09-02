@@ -891,6 +891,11 @@ ltv1 lam dong 720p
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv238&q=sd&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 720x406
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv238&q=high&type=tv&location=NA&pkg=pkg11.hni
+vnews 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv396&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv1 720x406
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv002&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 
 123.31.36.68
 htv2 720x406
@@ -958,6 +963,10 @@ ltv1 lam dong 720p
 http://123.31.36.68/live.m3u8?c=vstv238&q=sd&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 406p
 http://123.31.36.68/live.m3u8?c=vstv238&q=high&type=tv&location=NA&pkg=pkg11.hni
+vnews 720x406
+http://123.31.36.68/live.m3u8?c=vstv396&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv1 720x406
+http://123.31.36.68/live.m3u8?c=vstv002&q=high&type=tv&location=NA&pkg=pkg11.hni
 
 live.mediatech.vn
 stv son la hd
@@ -3761,37 +3770,43 @@ https://liveh34vng.vtvprime.vn/hls/LAICHAU/01.m3u8
 
 fptplay.vn
 vtv1 hd
-https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv2 hd
-https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv3 hd
-https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv4 hd
-https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv5 hd
-https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+vtv5 tay nam bo hd
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+vtv5 tay nguyen hd
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 vtv6 hd
-https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv7 hd
-https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+vtv8 hd
+https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 vtv9 hd
-https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vtv10 hd
-https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vietnam today hd
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 htv7 hd
-https://live-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 htv9 hd
-https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 htv the thao hd
-https://live-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 thvl1 hd
-https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 thvl2 hd
-https://live-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 thvl3 hd
-https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 thvl4 hd
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 htv5 hd
@@ -3808,9 +3823,9 @@ ctv ca mau hd
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 htv2 vie channel hd
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-htv4 hd
+htv4 720p
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-htv5 hd
+htv5 720p
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 htv9 hd
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
@@ -3846,6 +3861,8 @@ qpvn quoc phong hd
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 antv an ninh hd
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/antv/live-hls-avc/index.m3u8
+https://live.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_140800_vie=20001.m3u8
 thvl5 hd
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 atv1 an giang 720p
@@ -3889,11 +3906,14 @@ https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 dnnrtv3 dong nai 720p
 https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 thdt1 dong thap hd
-https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
 bhttv ha tinh 720p
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
 thp hai phong hd
-https://vips-livecdn.fptplay.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/haiphong/live-hls-avc/index.m3u8
+thp hai phong 720p
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 thp3 hai phong 720p
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
 huetv hue 720p
@@ -3942,27 +3962,29 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
 hanoitv2 hd
 https://live-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
 sctv6 hd
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 fpt play channel 
-https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+login hd
+https://live.fptplay53.net/event/ttlogin/playlist.m3u8
 kbs world hd
-https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist.m3u8
 nhk world hd
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-tv5 hd
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-CNA hd
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
-CNBC hd
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+tv5 720p
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+CNA 720p
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+CNBC 720p
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 KIX hd
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 Outdoor hd
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 Davinci hd
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 AFC HD
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 qpvn.vn
 qpvn hd
@@ -4107,7 +4129,93 @@ https://luuchieu.truyenhinhso.vn/media/live/C8A57BB400170C263E73A5E1/index.m3u8
 vov3
 https://luuchieu.truyenhinhso.vn/media/live/243410071B24D57B0C280184/index.m3u8
 
-vpsttt.vietanhtv.top
+vietanhtv.id.vn
+viet nam 360 hd
+https://vietanhtv.id.vn/sctv/viet-nam-360/index.m3u8
+the thao 247 hd
+https://vietanhtv.id.vn/sctv/the-thao-24-7/index.m3u8
+phim viet 247 hd
+https://vietanhtv.id.vn/sctv/man-anh-viet/index.m3u8
+vu tru hai hd
+https://vietanhtv.id.vn/sctv/cuoi-lien-luc-dia/index.m3u8
+vtv1 hd
+https://vietanhtv.id.vn/sctv/vtv1-hd-72574f3e/index.m3u8
+vtv5 hd
+https://vietanhtv.id.vn/sctv/vtv5-truyen-hinh-dan-toc/index.m3u8
+vietnam today hd
+https://vietanhtv.id.vn/sctv/kenh-truyen-hinh-doi-ngoai-quoc-gia-vietnam-today/index.m3u8
+antv hd
+https://vietanhtv.id.vn/sctv/antv-1debf072/index.m3u8
+qpvn hd
+https://vietanhtv.id.vn/sctv/qpvn-fea05134/index.m3u8
+sctv1 hd
+https://vietanhtv.id.vn/sctv/sctv1-hd-7f2aafec/index.m3u8
+sctv2 hd
+https://vietanhtv.id.vn/sctv/sctv2-57c3884d/index.m3u8
+sctv3 hd
+https://vietanhtv.id.vn/sctv/sctv3-hd-cf3adaca/index.m3u8
+sctv4 hd
+https://vietanhtv.id.vn/sctv/sctv4-ae779f7e/index.m3u8
+sctv5 hd
+https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
+sctv6 hd
+https://vietanhtv.id.vn/sctv/sctv6-202e4566/index.m3u8
+sctv7 hd
+https://vietanhtv.id.vn/sctv/sctv7-ef7e259a/index.m3u8
+sctv8 hd
+https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8
+sctv9 hd
+https://vietanhtv.id.vn/sctv/sctv9-cdd19ab2/index.m3u8
+sctv10 hd
+https://vietanhtv.id.vn/sctv/sctv10-0faf313b/index.m3u8
+sctv11 hd
+https://vietanhtv.id.vn/sctv/sctv11-1d565c47/index.m3u8
+sctv12 hd
+https://vietanhtv.id.vn/sctv/sctv12-b0d6c023/index.m3u8
+sctv13 hd
+https://vietanhtv.id.vn/sctv/sctv13-67f88fcb/index.m3u8
+sctv14 hd
+https://vietanhtv.id.vn/sctv/sctv14-789c9f45/index.m3u8
+sctv16 hd
+https://vietanhtv.id.vn/sctv/sctv16-dd1535e8/index.m3u8
+sctv18 hd
+https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8
+sctv19 hd
+https://vietanhtv.id.vn/sctv/sctv19-bf00bd02/index.m3u8
+sctv20 hd
+https://vietanhtv.id.vn/sctv/sctv19-cb98949a/index.m3u8
+sctv21 hd
+https://vietanhtv.id.vn/sctv/sctv-21-57de221a/index.m3u8
+sctv phim tong hop hd
+https://vietanhtv.id.vn/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8
+sctv 4k
+https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+on kids hd
+https://vietanhtv.id.vn/sctv/vtvcab-on-kids/index.m3u8
+htv7 hd
+https://vietanhtv.id.vn/sctv/htv7-96634500/index.m3u8
+htv9 hd
+https://vietanhtv.id.vn/sctv/htv9-c6c29fcd/index.m3u8
+thdt1 dong thap hd
+https://vietanhtv.id.vn/sctv/th-dong-thap-1-8f098772/index.m3u8
+thdt2 dong thap hd
+https://vietanhtv.id.vn/sctv/truyen-hinh-dong-thap-2-mien-tay-thdt2/index.m3u8
+drt dak lak hd
+https://vietanhtv.id.vn/sctv/dai-phat-thanh-va-truyen-hinh-dak-lak/index.m3u8
+ltv3 lam dong hd
+https://vietanhtv.id.vn/sctv/bao-va-pt-th-lam-dong-ltv3/index.m3u8
+qngtv1 quang ngai hd
+https://vietanhtv.id.vn/sctv/bao-va-pt-th-quang-ngai/index.m3u8
+ltv2 lam dong
+https://vietanhtv.id.vn/sctv/dai-pt-th-binh-thuan/index.m3u8
+ctv ca mau hd
+https://vietanhtv.id.vn/sctv/dai-pt-th-ca-mau/index.m3u8
+can tho 2 
+https://vietanhtv.id.vn/sctv/th-hau-giang-ac0ec36d/index.m3u8
+atv2 an giang
+https://vietanhtv.id.vn/sctv/th-an-giang-e2b64bbf/index.m3u8
+
+vmttv.dpdns.org
 vtv1 hd
 https://vmttv.dpdns.org/tv360/?id=2
 vtv2 hd
