@@ -327,7 +327,7 @@ https://vietanhtv.id.vn/sctv/sctv16-dd1535e8/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 #EXTINF:-1 tvg-id="sctv18" tvg-name="SCTV18" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/985?cb=20220223142129&path-prefix=vi" group-title="SCTV",SCTV18
 https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8
 #EXTINF:-1 tvg-id="sctv19" tvg-name="SCTV19" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/1200?cb=20240131141543&path-prefix=vi" group-title="SCTV",SCTV19
