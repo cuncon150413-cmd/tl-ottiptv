@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://lichphatsong.io.vn/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://vnepg.site/epgu.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
+#EXTM3U tvg-url="https://lichphatsong.io.vn/epg.xml,https://epg.io.vn/epg.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="VTV",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -589,10 +589,10 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="daklak" tvg-name="PTP Phú Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest/scale-to-width-down/1000?cb=20211202141521&path-prefix=vi" group-title="Địa Phương Cũ",PTP Phú Yên
 http://123.31.36.68/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-id="danang2" tvg-name="QRT Quảng Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/QRT_logo_01-11-2019.png/revision/latest/scale-to-width-down/4365?cb=20250509181258&path-prefix=vi" group-title="Địa Phương Cũ",QRT Quảng Nam
-https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="quangtri" tvg-name="QBTV Quảng Bình" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/75/QBTV_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20241006012530&path-prefix=vi" group-title="Địa Phương Cũ",QBTV Quảng Bình
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-name="QRT Quảng Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/QRT_logo_01-11-2019.png/revision/latest/scale-to-width-down/4365?cb=20250509181258&path-prefix=vi" group-title="Địa Phương Cũ",QRT Quảng Nam
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="quangngai" tvg-name="QNGTV1 Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi" group-title="Địa Phương",QNGTV1 Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangngai2" tvg-name="QNGTV2 Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest/scale-to-width-down/200?cb=20260114143705&path-prefix=vi" group-title="Địa Phương",QNGTV2 Quảng Ngãi
