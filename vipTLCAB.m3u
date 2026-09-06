@@ -501,7 +501,7 @@ https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u
 http://123.31.36.68/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="BRT Bà Rịa Vũng Tàu" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/BRT_HD_V%C5%A9ng_T%C3%A0u_2024.png/revision/latest/scale-to-width-down/1000?cb=20240107030031&path-prefix=vi" group-title="Địa Phương Cũ",BRT Bà Rịa Vũng Tàu
 https://tv.vietanhtv.top/vieon/vieon.php?id=ba-ria-vung-tau-1
-#EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20251214065005&path-prefix=vi" group-title="Địa Phương Cũ",BTV Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20251214065005&path-prefix=vi" group-title="Địa Phương",BTV Bắc Ninh
 https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="BTV1 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/BTV1_logo_02-09-2025_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20250903080711&path-prefix=vi" group-title="Địa Phương Cũ",BTV1 Bình Dương
 https://tv.vietanhtv.top/vieon/vieon.php?id=binh-duong-1
