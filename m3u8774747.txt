@@ -4026,6 +4026,23 @@ https://liveh34byt.vtvprime.vn/hls/LAICHAU/02.m3u8
 ltv lai chau 360p
 https://liveh34byt.vtvprime.vn/hls/LAICHAU/01.m3u8
 
+livevlisctcdnw.seenow.vn
+vtv1 hd
+https://livevlisctcdnw.seenow.vn/mean/VTV1_HD/index.m3u8
+on home shopping hd
+https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/index.m3u8
+
+cdnet-cdn-01.onsports.vn
+vtv1 hd
+https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/index.m3u8
+https://cdnet-cdn-01.onsports.vn/mean/VTV1_HD/index.m3u8
+vtv8 hd
+https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/index.m3u8
+antv hd
+https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
+qpvn 540p
+https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
+
 fptplay.vn
 vtv1 hd
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -4376,6 +4393,8 @@ ltv1 lam dong 720p
 https://luuchieu.truyenhinhso.vn/media/live/60142775E3B8083AB9D76E29/index.m3u8
 ltv2 lam dong 720p
 https://luuchieu.truyenhinhso.vn/media/live/5609ACBAE41E5281B3F67282/index.m3u8
+nbtv ninh binh 720p
+https://luuchieu.truyenhinhso.vn/media/live/D6A82F31D0034F787043EBA9/index.m3u8
 antv 720p
 https://luuchieu.truyenhinhso.vn/media/live/74CE8EB8C9F813053E704DE6/index.m3u8
 qpvn 720p
@@ -4630,11 +4649,11 @@ hanoitv2 hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=ha-noi-2-2021
 atv2 an giang hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=an-giang-1
-brt ba ria vung tau 720p
+brt ba ria vung tau hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=ba-ria-vung-tau-1
 btv bac ninh 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=bac-ninh-1
-btv1 binh duong 720p
+btv1 binh duong hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=binh-duong-1
 can tho 1 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=can-tho-1
@@ -4728,6 +4747,8 @@ fm96 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=fm96-thoi-su-ha-noi
 htv1 720p
 https://tv.vietanhtv.top/htv/htv.php?id=2631
+htv2 720p
+https://tv.vietanhtv.top/htv/htv.php?id=2669
 htv3 720p
 https://tv.vietanhtv.top/htv/htv.php?id=2535
 htv4 720p
@@ -5731,6 +5752,8 @@ fm90 hd
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 fm96 hd
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
+vietnam today hd
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
 btv6 binh thuan
 https://freem3u.xyz/api/live/play.m3u8?vid=9838
 voh 99,9mhz hd
