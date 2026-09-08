@@ -2122,6 +2122,14 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vietnamtoday 360p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday__vtv360p-h264/index.m3u8
 
+vtvgoliveapp1-aws-plus-tn.vtvdigital.vn
+vtv1 hd h265
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv1_paid/playlist.m3u8
+vtv3 hd h265
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv3_paid/playlist.m3u8
+vtv6 hd h265
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/playlist.m3u8
+
 vtvgolive-sctvdrm.vtvdigital.vn
 vtv1 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
@@ -2312,13 +2320,6 @@ sctv phim tong hop 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
 sctv phim tong hop 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
-bhttv ha tinh 720p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-hatinhtv/master.m3u8
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-hatinhtv/playlist_720p.m3u8
-bhttv ha tinh 480p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-hatinhtv/playlist_480p.m3u8
-bhttv ha tinh 360p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-hatinhtv/playlist_360p.m3u8
 qtv1 quang ninh 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_720p.m3u8
@@ -2566,13 +2567,6 @@ sctv phim tong hop 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
 sctv phim tong hop 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
-bhttv ha tinh 720p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-hatinhtv/master.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-hatinhtv/playlist_720p.m3u8
-bhttv ha tinh 480p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-hatinhtv/playlist_480p.m3u8
-bhttv ha tinh 360p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-hatinhtv/playlist_360p.m3u8
 qtv1 quang ninh 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh1tv/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh1tv/playlist_720p.m3u8
@@ -4107,6 +4101,8 @@ htv4 720p
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 htv5 720p
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+htv7 hd
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 htv9 hd
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 htv3 hd
@@ -4617,17 +4613,17 @@ htv9 hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv9-hd
 htv the theo hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv-the-thao
-htvc thuan viet hd
+htvc thuan viet 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-thuan-viet-hd
 htvc plus hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-plus
-htvc du lich & cuoc song
+htvc du lich & cuoc song 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-du-lich-cuoc-song
 htvc ca nhac hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-ca-nhac
 htvc phim hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-phim
-htvc gia dinh hd
+htvc gia dinh 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-gia-dinh
 htvc phu nu hd
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-phu-nu
@@ -4663,15 +4659,15 @@ can tho 3 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=soc-trang-1
 ctv ca mau 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=ca-mau-1
-dnrt1 da nang
+dnrt1 da nang 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=da-nang-1
-dnrt2 da nang
+dnrt2 da nang 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=da-nang-2
 drt dak lak 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dak-lak
 thdt1 dong thap 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-thap-1
-mien tay thdt2 720p
+mien tay thdt2 dong thap 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-thap-2
 dnnrtv1 dong nai 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-1
@@ -4679,7 +4675,7 @@ dnnrtv2 dong nai 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-2
 dnnrtv3 dong nai 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
-dtv dien bien 720p
+dtv dien bien 480p
 https://tv.vietanhtv.top/vieon/vieon.php?id=dien-bien-20
 gtv gia lai 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=gia-lai-1
@@ -4713,7 +4709,7 @@ ptv phu tho 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=phu-tho
 qtv1 quang ninh 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=quang-ninh-1
-qtv3 quang ninh 720p
+qtv3 quang ninh 480p
 https://tv.vietanhtv.top/vieon/vieon.php?id=quang-ninh-3
 qngtv1 quang ngai 720p
 https://tv.vietanhtv.top/vieon/vieon.php?id=quang-ngai-1
