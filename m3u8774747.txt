@@ -707,7 +707,7 @@ cctv 8k 8k
 http://198.204.240.250:82/live/cctv8k.m3u8
 
 dvrfl05.bozztv.com
-viettoday tv (cali) 720p
+vietoday tv (cali) 720p
 http://dvrfl05.bozztv.com/vch_vchannel1/index.m3u8
 saigonTV (cali) 720p
 http://dvrfl05.bozztv.com/vch_vchannel2/index.m3u8
@@ -721,9 +721,9 @@ on style tv (audio-aac)
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 testcard 720p
 http://dvrfl05.bozztv.com/vch_vchannel13/index.m3u8
-cali channel 2 unknown name 720p
+viet channel 720p
 http://dvrfl05.bozztv.com/vch_vchannel15/index.m3u8
-vietoday
+ 720p
 http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
 on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
@@ -815,119 +815,6 @@ qnr1 quang ninh 240p
 https://qtv.vncdn.vn/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
 https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
-
-natv.vncdn.vn
-qtv1 quang ninh hd
-https://natv.vncdn.vn/qtvlive/tv1live.m3u8
-qtv3 quang ninh hd
-https://natv.vncdn.vn/tvlive/tv3live.m3u8
-qnr1 quang ninh 240p
-https://natv.vncdn.vn/qtvlive/qnr1.m3u8
-qnr2 quang ninh 240p
-https://natv.vncdn.vn/qtvlive/qnr2.m3u8
-
-live.bacgiangtv.vn
-qtv1 quang ninh hd
-https://live.bacgiangtv.vn/qtvlive/tv1live.m3u8
-qtv3 quang ninh hd
-https://live.bacgiangtv.vn/tvlive/tv3live.m3u8
-qnr1 quang ninh 240p
-https://live.bacgiangtv.vn/qtvlive/qnr1.m3u8
-qnr2 quang ninh 240p
-https://live.bacgiangtv.vn/qtvlive/qnr2.m3u8
-
-live.baobinhphuoc.com.vn
-qtv1 quang ninh hd
-https://live.baobinhphuoc.com.vn/qtvlive/tv1live.m3u8
-qtv3 quang ninh hd
-https://live.baobinhphuoc.com.vn/tvlive/tv3live.m3u8
-qnr1 quang ninh 240p
-https://live.baobinhphuoc.com.vn/qtvlive/qnr1.m3u8
-qnr2 quang ninh 240p
-https://live.baobinhphuoc.com.vn/qtvlive/qnr2.m3u8
-
-live.baobinhphuoc.com.vn
-qtv1 quang ninh hd
-https://live.baoquangninh.com.vn/qtvlive/tv1live.m3u8
-qtv3 quang ninh hd
-https://live.baoquangninh.com.vn/tvlive/tv3live.m3u8
-qnr1 quang ninh 240p
-https://live.baoquangninh.com.vn/qtvlive/qnr1.m3u8
-qnr2 quang ninh 240p
-https://live.baoquangninh.com.vn/qtvlive/qnr2.m3u8
-
-truyenhinh.vnptvas.vn
-
-htv2 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv001&q=high&type=tv&location=NA&pkg=pkg11.hni
-vtc7 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv003&q=high&type=tv&location=NA&pkg=pkg11.hni
-htv9 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv009&q=high&type=tv&location=NA&pkg=pkg11.hni
-hanoitv1 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv011&q=high&type=tv&location=NA&pkg=pkg11.hni
-hanoitv2 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv012&q=high&type=tv&location=NA&pkg=pkg11.hni
-htv7 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv015&q=high&type=tv&location=NA&pkg=pkg11.hni
-dtv dien bien 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
-dtv dien bien 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
-ltv lai chau 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
-ltv lai chau 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg31.hni
-thd hai duong 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=hig&type=tv&location=NA&pkg=pkg11.hni
-thd hai duong 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=sd&type=tv&location=NA&pkg=pkg11.hni
-tbk bac kan 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
-tbk bac kan 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=sd&type=tv&location=NA&pkg=pkg11.hni
-hgtv ha giang 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
-hgtv ha giang 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=sd&type=tv&location=NA&pkg=pkg11.hni
-ttv thanh hoa 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg12.hni
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
-ttv thanh hoa 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
-ptp phu yen 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
-thp hai phong 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
-ntv nghe an 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
-qtv1 quang ninh 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
-vtv3 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&type=tv&location=NA&pkg=pkg12.hni
-vtv3 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=sd&type=tv&location=NA&pkg=pkg12.hni
-tn thai nguyen 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv480&q=high&type=tv&location=NA&pkg=pkg12.hni
-tn thai nguyen 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv480&q=sd&type=tv&location=NA&pkg=pkg12.hni
-antv 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv053&q=high&type=tv&location=NA&pkg=pkg11.hni
-antv 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv053&q=sd&type=tv&location=NA&pkg=pkg11.hni
-nbtv ninh binh 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv257&q=sd&type=tv&location=NA&pkg=pkg33.hni 
-nbtv ninh binh 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv257&q=high&type=tv&location=NA&pkg=pkg33.hni
-ltv1 lam dong 720p
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv238&q=sd&type=tv&location=NA&pkg=pkg33.hni
-ltv1 lam dong 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv238&q=high&type=tv&location=NA&pkg=pkg11.hni
-vnews 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv396&q=high&type=tv&location=NA&pkg=pkg11.hni
-vtv1 720x406
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv002&q=high&type=tv&location=NA&pkg=pkg11.hni
-
 
 123.31.36.68
 htv2 720x406
@@ -1728,43 +1615,115 @@ hai duong radio
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/chunklist.m3u8
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
 
+cdn.la34.com.vn
+stv son la hd
+https://cdn.la34.com.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+https://cdn.la34.com.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+hytv hung yen hd
+https://cdn.la34.com.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+https://cdn.la34.com.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+btv bac ninh hd
+https://cdn.la34.com.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+https://cdn.la34.com.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
+https://cdn.la34.com.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
+https://cdn.la34.com.vn/live/285983d45f5bdab43ebb4cab75573adeda1/playlist.m3u8
+thp hai phong hd
+https://cdn.la34.com.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+https://cdn.la34.com.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+nbtv ninh binh hd
+https://cdn.la34.com.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+https://cdn.la34.com.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+nbtv ninh binh radio
+https://cdn.la34.com.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
+https://cdn.la34.com.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
+ntv nghe an hd
+https://cdn.la34.com.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
+https://cdn.la34.com.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
+von nghe an radio
+https://cdn.la34.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.la34.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+lstv lang son hd
+https://cdn.la34.com.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+https://cdn.la34.com.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+lang son radio
+https://cdn.la34.com.vn/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u8
+https://cdn.la34.com.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
+tn tay ninh 720p
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+stv son la radio
+https://cdn.la34.com.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
+https://cdn.la34.com.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
+thp3 hai phong 720p
+https://cdn.la34.com.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+https://cdn.la34.com.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+fm93,7
+https://cdn.la34.com.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
+https://cdn.la34.com.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+fm102,2
+https://cdn.la34.com.vn/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u8
+https://cdn.la34.com.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
+dtv dien bien hd
+https://cdn.la34.com.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+https://cdn.la34.com.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8
+dtv dien bien radio
+https://cdn.la34.com.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
+https://cdn.la34.com.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
+dnrt1 da nang hd
+https://cdn.la34.com.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+https://cdn.la34.com.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+dnrt2 da nang hd
+https://cdn.la34.com.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
+https://cdn.la34.com.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+dnrt da nang radio
+https://cdn.la34.com.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
+https://cdn.la34.com.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
+drt dak lak hd
+https://cdn.la34.com.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+https://cdn.la34.com.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+drt dak lak radio
+https://cdn.la34.com.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
+https://cdn.la34.com.vn/live/285054c4567dea54b3fb14bfd60d61230b5/playlist.m3u8
+qngtv1 quang ngai hd
+https://cdn.la34.com.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+https://cdn.la34.com.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+phát thanh quảng ngãi
+https://cdn.la34.com.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
+https://cdn.la34.com.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
+ltv1 lam dong hd
+https://cdn.la34.com.vn/live/285eb380a290dab40af8eafb1b05abce703/chunklist.m3u8
+https://cdn.la34.com.vn/live/285eb380a290dab40af8eafb1b05abce703/playlist.m3u8
+hbtv hoa binh hd
+https://cdn.la34.com.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8
+https://cdn.la34.com.vn/live/2856e81d201c99b4649b5c62f3cddad3881/playlist.m3u8
+hytv hung yen radio
+https://cdn.la34.com.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
+https://cdn.la34.com.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
+tn tay ninh radio
+https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
+https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
+hai duong radio
+https://cdn.la34.com.vn/live/2858f932f24fa494996afb93ae0a7896ef9/chunklist.m3u8
+https://cdn.la34.com.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
+
 118.107.85.4:1935
 dnnrtv1 dong nai 480p
-https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_1384000.m3u8
-https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_1384000.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 dnnrtv1 dong nai 360p
-https://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b584000.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b584000.m3u8
 ltv1 lam dong sd
-https://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-https://118.107.85.4:1935/live/smil:LTV.smil/chunklist.m3u8
+http://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+http://118.107.85.4:1935/live/smil:LTV.smil/chunklist.m3u8
 ltv1 lam dong 360p
-https://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b584000.m3u8
+http://118.107.85.4:1935/live/smil:LTV.smil/chunklist_b584000.m3u8
 crtv cao bang sd
-https://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-https://118.107.85.4:1935/live/smil:CRTV.smil/chunklist.m3u8
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist.m3u8
 crtv cao bang 360p
-https://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b584000.m3u8
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b584000.m3u8
 dongnai radio
-https://118.107.85.4:1935/radio/dongnai_aac/playlist.m3u8
-
-118.107.85.5:1935
-dnnrtv1 dong nai sd
-https://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
-https://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist.m3u8
-dnnrtv1 dong nai 360p
-https://118.107.85.5:1935/live/smil:DNTV1.smil/chunklist_b584000.m3u8
-ltv1 lam dong sd
-https://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-https://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
-ltv1 lam dong 360p
-https://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b584000.m3u8
-crtv cao bang sd
-https://118.107.85.5:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-https://118.107.85.5:1935/live/smil:CRTV.smil/chunklist.m3u8
-crtv cao bang 360p
-https://118.107.85.5:1935/live/smil:CRTV.smil/chunklist_b584000.m3u8
-dongnai radio
-https://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+http://118.107.85.4:1935/radio/dongnai_aac/playlist.m3u8
 
 stream.thingnet.vn
 dnnrtv1 dong nai sd
@@ -2688,33 +2647,6 @@ stv son la 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtv1 hd
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-720p.m3u8
-vtv1 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-480p.m3u8
-vtv1 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-360p.m3u8
-vtv2 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
-vtv2 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-480p.m3u8
-vtv2 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv2-360p.m3u8
-vtv3 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv3-720p.m3u8
-vtv3 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv3-480p.m3u8
-vtv3 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv3-360p.m3u8
 vtv4 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2729,27 +2661,6 @@ vtv5 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv5 tnb 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tnb-720p.m3u8
-vtv5 tnb 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tnb-480p.m3u8
-vtv5 tnb 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tnb-360p.m3u8
-vtv5 tn 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tn-720p.m3u8
-vtv5 tn 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tn-480p.m3u8
-vtv5 tn 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5tn-360p.m3u8
-vtv6 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6tt-720p.m3u8
-vtv6 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6tt-480p.m3u8
-vtv6 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6tt-360p.m3u8
 vtv7 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv7-720p.m3u8
@@ -2771,13 +2682,6 @@ vtv9 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
 vtv9 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
-vtv10 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-720p.m3u8
-vtv10 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-480p.m3u8
-vtv10 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv6-360p.m3u8
 vietnam today 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
@@ -2850,33 +2754,6 @@ stv son la 480p
 https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtv1 hd
-https://events.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://events.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
-https://events.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://events.vtvdigital.vn/livestream/digital_04-720p.m3u8
-vtv1 480p
-https://events.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
-https://events.vtvdigital.vn/livestream/digital_04-480p.m3u8
-vtv1 360p
-https://events.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
-https://events.vtvdigital.vn/livestream/digital_04-360p.m3u8
-vtv2 720p
-https://events.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
-vtv2 480p
-https://events.vtvdigital.vn/vtvgo/vtv2-480p.m3u8
-vtv2 360p
-https://events.vtvdigital.vn/vtvgo/vtv2-360p.m3u8
-vtv3 720p
-https://events.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv3-720p.m3u8
-vtv3 480p
-https://events.vtvdigital.vn/vtvgo/vtv3-480p.m3u8
-vtv3 360p
-https://events.vtvdigital.vn/vtvgo/vtv3-360p.m3u8
 vtv4 720p
 https://events.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2891,27 +2768,6 @@ vtv5 480p
 https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv5 tnb 720p
-https://events.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv5tnb-720p.m3u8
-vtv5 tnb 480p
-https://events.vtvdigital.vn/vtvgo/vtv5tnb-480p.m3u8
-vtv5 tnb 360p
-https://events.vtvdigital.vn/vtvgo/vtv5tnb-360p.m3u8
-vtv5 tn 720p
-https://events.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv5tn-720p.m3u8
-vtv5 tn 480p
-https://events.vtvdigital.vn/vtvgo/vtv5tn-480p.m3u8
-vtv5 tn 360p
-https://events.vtvdigital.vn/vtvgo/vtv5tn-360p.m3u8
-vtv6 720p
-https://events.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv6tt-720p.m3u8
-vtv6 480p
-https://events.vtvdigital.vn/vtvgo/vtv6tt-480p.m3u8
-vtv6 360p
-https://events.vtvdigital.vn/vtvgo/vtv6tt-360p.m3u8
 vtv7 720p
 https://events.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv7-720p.m3u8
@@ -2933,13 +2789,6 @@ vtv9 480p
 https://events.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
 vtv9 360p
 https://events.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
-vtv10 720p
-https://events.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv6-720p.m3u8
-vtv10 480p
-https://events.vtvdigital.vn/vtvgo/vtv6-480p.m3u8
-vtv10 360p
-https://events.vtvdigital.vn/vtvgo/vtv6-360p.m3u8
 vietnam today 720p
 https://events.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
@@ -3012,33 +2861,6 @@ stv son la 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtv1 hd
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-720p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-720p.m3u8
-vtv1 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-480p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-480p.m3u8
-vtv1 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv1-360p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-360p.m3u8
-vtv2 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-720p.m3u8
-vtv2 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-480p.m3u8
-vtv2 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv2-360p.m3u8
-vtv3 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv3-720p.m3u8
-vtv3 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv3-480p.m3u8
-vtv3 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv3-360p.m3u8
 vtv4 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -3053,27 +2875,6 @@ vtv5 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv5 tnb 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tnb-720p.m3u8
-vtv5 tnb 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tnb-480p.m3u8
-vtv5 tnb 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tnb-360p.m3u8
-vtv5 tn 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tn-720p.m3u8
-vtv5 tn 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tn-480p.m3u8
-vtv5 tn 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5tn-360p.m3u8
-vtv6 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-720p.m3u8
-vtv6 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-480p.m3u8
-vtv6 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-360p.m3u8
 vtv7 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv7-720p.m3u8
@@ -3095,13 +2896,6 @@ vtv9 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
 vtv9 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
-vtv10 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6-720p.m3u8
-vtv10 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6-480p.m3u8
-vtv10 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6-360p.m3u8
 vietnam today 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
@@ -4026,6 +3820,12 @@ https://livevlisctcdnw.seenow.vn/mean/VTV1_HD/index.m3u8
 on home shopping hd
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/index.m3u8
 
+vtvgolive-onevtv.vtvdigital.vn
+vtv1 hd
+https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV1_HD/index.m3u8
+on home shopping hd
+https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/index.m3u8
+
 cdnet-cdn-01.onsports.vn
 vtv1 hd
 https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/index.m3u8
@@ -4034,8 +3834,23 @@ vtv8 hd
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/index.m3u8
 antv hd
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
 qpvn 540p
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/QPTV/index.m3u8
+
+vtvgolive-vtvcab.vtvdigital.vn
+vtv1 hd
+https://vtvgolive-vtvcab.vtvdigital.vn/onplus/VTV1_HD/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV1_HD/index.m3u8
+vtv8 hd
+https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/index.m3u8
+antv hd
+https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+qpvn 540p
+https://vtvgolive-vtvcab.vtvdigital.vn/mean/QPTV/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/QPTV/index.m3u8
 
 fptplay.vn
 vtv1 hd
@@ -4051,6 +3866,11 @@ https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=100
 vtv5 tay nam bo hd
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+vtv5 tay nam bo 720p
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b2500000.m3u8
+vtv5 tay nam bo 480p
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
 vtv5 tay nguyen hd
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 vtv6 hd
@@ -4060,12 +3880,28 @@ https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=100
 vtv8 hd
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+vtv8 720p
+https://live.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b2500000.m3u8
+vtv8 480p
+https://live.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b1800000.m3u8
 vtv9 hd
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+vtv9 720p
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+vtv9 480p
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b1800000.m3u8
 vtv10 hd
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 vietnam today hd
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+vietnam today 720p
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b2500000.m3u8
+vietnam today 480p
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
 htv7 hd
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 htv9 hd
@@ -4075,14 +3911,27 @@ https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1
 thvl1 hd
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+thvl1 720p
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
+thvl1 480p
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b1800000.m3u8
 thvl2 hd
 https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+thvl2 720p
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
+thvl2 480p
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b1800000.m3u8
 thvl3 hd
 https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-thvl4 hd
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+thvl3 720p
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b2500000.m3u8
+thvl3 480p
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b1800000.m3u8
 htv5 hd
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 thlc lao cai hd
@@ -4157,7 +4006,7 @@ https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 ltv2 lam dong 720p
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist.m3u8
-ctv ca mau 480p
+ctv ca mau hd
 https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
 can tho 1 hd
 https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8
@@ -4197,7 +4046,7 @@ thp3 hai phong 720p
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
 huetv hue 720p
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
-hung yen 720p
+hytv hung yen 720p
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 ktv khanh hoa 720p
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
@@ -4233,6 +4082,9 @@ tn thai nguyen 720p
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
 ttv thanh hoa 576p
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+ttv thanh hoa 480p
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b1800000.m3u8
 ttv tuyen quang 720p
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 hanoitv1 hd
