@@ -581,6 +581,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV3 Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/LTV3_Lam_Dong_logo.png/revision/latest?cb=20251030040159&path-prefix=vi" group-title="Địa Phương Cũ",LTV3 Lâm Đồng
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NTV Nam Định" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/NTV_HD_Nam_%C4%90%E1%BB%8Bnh_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20221216095224&path-prefix=vi" group-title="Địa Phương Cũ",NTV Nam Định
+https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/ninhbinh/tothanhdz-live-12h-22-12-2024.m3u8
 #EXTINF:-1 tvg-id="nghean" tvg-name="NTV Nghệ An" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/NTV_Ngh%E1%BB%87_An.png/revision/latest/scale-to-width-down/1055?cb=20250529155910&path-prefix=vi" group-title="Địa Phương",NTV Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa Phương",NBTV Ninh Bình
