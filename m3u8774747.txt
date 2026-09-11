@@ -1782,6 +1782,8 @@ htv9 576p
 http://125hvt.ddns.net:21585/htv9/playlist.m3u8
 thvl1 576p
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
+hanoitv1 576p
+http://125hvt.ddns.net:21585/hanoi1/playlist.m3u8
 
 live247.freem3u.xyz:21585
 vtv2 hd
@@ -1796,6 +1798,8 @@ htv9 576p
 http://live247.freem3u.xyz:21585/htv9/playlist.m3u8
 thvl1 576p
 http://live247.freem3u.xyz:21585/thvl1/playlist.m3u8
+hanoitv1 576p
+http://live247.freem3u.xyz:21585/hanoi1/playlist.m3u8
 
 s3.ttvmax.com:21585
 sctv1 576p
@@ -1834,6 +1838,8 @@ antv 576p
 http://s3.ttvmax.com:21585/antv/playlist.m3u8
 thvl1 576p
 http://s3.ttvmax.com:21585/thvl1/playlist.m3u8
+hanoitv1 576p
+http://s3.ttvmax.com:21585/hanoi1/playlist.m3u8
 
 dethich.pw
 vtv1 hd
@@ -2632,13 +2638,6 @@ ctv ca mau 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-480p.m3u8
 ctv ca mau 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-360p.m3u8
-thp hai phong 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/haiphongtv-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/haiphongtv-720p.m3u8
-thp hai phong 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/haiphongtv-480p.m3u8
-thp hai phong 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/haiphongtv-360p.m3u8
 dtv dien bien 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-720p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
@@ -2646,34 +2645,6 @@ dtv dien bien 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-can tho 1 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-can tho 2 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
-can tho 2 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-480p.m3u8
-can tho 2 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
-can tho 3 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
-can tho 3 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-480p.m3u8
-can tho 3 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
-stv son la 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-stv son la 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv4 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2702,13 +2673,6 @@ vtv8 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
 vtv8 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vtv9 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-720p.m3u8
-vtv9 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
-vtv9 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
 vietnam today 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
@@ -2739,13 +2703,6 @@ ctv ca mau 480p
 https://events.vtvdigital.vn/kenhdp/camau-480p.m3u8
 ctv ca mau 360p
 https://events.vtvdigital.vn/kenhdp/camau-360p.m3u8
-thp hai phong 720p
-https://events.vtvdigital.vn/kenhdp/haiphongtv-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/haiphongtv-720p.m3u8
-thp hai phong 480p
-https://events.vtvdigital.vn/kenhdp/haiphongtv-480p.m3u8
-thp hai phong 360p
-https://events.vtvdigital.vn/kenhdp/haiphongtv-360p.m3u8
 dtv dien bien 720p
 https://events.vtvdigital.vn/kenhdp/dienbientv-720p.m3u8
 https://events.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
@@ -2753,34 +2710,6 @@ dtv dien bien 480p
 https://events.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://events.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://events.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-can tho 1 480p
-https://events.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://events.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-can tho 2 720p
-https://events.vtvdigital.vn/kenhdp/cantho2-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
-can tho 2 480p
-https://events.vtvdigital.vn/kenhdp/cantho2-480p.m3u8
-can tho 2 360p
-https://events.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
-can tho 3 720p
-https://events.vtvdigital.vn/kenhdp/cantho3-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
-can tho 3 480p
-https://events.vtvdigital.vn/kenhdp/cantho3-480p.m3u8
-can tho 3 360p
-https://events.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
-stv son la 720p
-https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-stv son la 480p
-https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv4 720p
 https://events.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2809,13 +2738,6 @@ vtv8 480p
 https://events.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
 vtv8 360p
 https://events.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vtv9 720p
-https://events.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv9-720p.m3u8
-vtv9 480p
-https://events.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
-vtv9 360p
-https://events.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
 vietnam today 720p
 https://events.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
@@ -2846,13 +2768,6 @@ ctv ca mau 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/camau-480p.m3u8
 ctv ca mau 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/camau-360p.m3u8
-thp hai phong 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/haiphongtv-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/haiphongtv-720p.m3u8
-thp hai phong 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/haiphongtv-480p.m3u8
-thp hai phong 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/haiphongtv-360p.m3u8
 dtv dien bien 720p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-720p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
@@ -2860,34 +2775,6 @@ dtv dien bien 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-can tho 1 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-can tho 2 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho2-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
-can tho 2 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho2-480p.m3u8
-can tho 2 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho2-360p.m3u8
-can tho 3 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho3-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
-can tho 3 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho3-480p.m3u8
-can tho 3 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho3-360p.m3u8
-stv son la 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-stv son la 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtv4 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2916,13 +2803,6 @@ vtv8 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
 vtv8 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vtv9 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-720p.m3u8
-vtv9 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-480p.m3u8
-vtv9 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv9-360p.m3u8
 vietnam today 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
