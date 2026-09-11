@@ -778,6 +778,22 @@ http://pk79.io.vn/vieon/play.php?id=d2cd26d7-06a7-44cc-8038-03442df58baa
 thvl5 720p
 http://pk79.io.vn/vieon/play.php?id=30633b83-7885-4372-b65a-0688d2b7175a
 
+live.canthotv.vn
+can tho 1 hd
+https://live.canthotv.vn/live/tv/chunklist_w9439.m3u8
+can tho 2 hd
+https://live.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
+can tho 3 hd
+https://live.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
+
+tv.canthotv.vn
+can tho 1 hd
+https://tv.canthotv.vn/live/tv/chunklist_w9439.m3u8
+can tho 2 hd
+https://tv.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
+can tho 3 hd
+https://tv.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
+
 HaNoiIPTV.short.gy
 sctv2 hd
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV2_HD
@@ -3294,6 +3310,15 @@ ANTV 480p
 https://liveh12.vtvprime.vn/hls/ANNINHTV/02.m3u8
 ANTV 360p
 https://liveh12.vtvprime.vn/hls/ANNINHTV/01.m3u8
+ltv1 lam dong hd
+https://liveh12.vtvprime.vn/hls/LTV1/index.m3u8
+https://liveh12.vtvprime.vn/hls/LTV1/04.m3u8
+ltv1 lam dong 720p
+https://liveh12.vtvprime.vn/hls/LTV1/03.m3u8
+ltv1 lam dong 480p
+https://liveh12.vtvprime.vn/hls/LTV1/02.m3u8
+ltv1 lam dong 360p
+https://liveh12.vtvprime.vn/hls/LTV1/01.m3u8
 
 liveh34.vtvprime.vn
 hanoitv1 720p
@@ -3482,6 +3507,15 @@ ANTV 480p
 https://liveh12vng.vtvprime.vn/hls/ANNINHTV/02.m3u8
 ANTV 360p
 https://liveh12vng.vtvprime.vn/hls/ANNINHTV/01.m3u8
+ltv1 lam dong hd
+https://liveh12vng.vtvprime.vn/hls/LTV1/index.m3u8
+https://liveh12vng.vtvprime.vn/hls/LTV1/04.m3u8
+ltv1 lam dong 720p
+https://liveh12vng.vtvprime.vn/hls/LTV1/03.m3u8
+ltv1 lam dong 480p
+https://liveh12vng.vtvprime.vn/hls/LTV1/02.m3u8
+ltv1 lam dong 360p
+https://liveh12vng.vtvprime.vn/hls/LTV1/01.m3u8
 
 liveh34vng.vtvprime.vn
 hanoitv1 720p
@@ -3670,6 +3704,15 @@ ANTV 480p
 https://liveh12byt.vtvprime.vn/hls/ANNINHTV/02.m3u8
 ANTV 360p
 https://liveh12byt.vtvprime.vn/hls/ANNINHTV/01.m3u8
+ltv1 lam dong hd
+https://liveh12byt.vtvprime.vn/hls/LTV1/index.m3u8
+https://liveh12byt.vtvprime.vn/hls/LTV1/04.m3u8
+ltv1 lam dong 720p
+https://liveh12byt.vtvprime.vn/hls/LTV1/03.m3u8
+ltv1 lam dong 480p
+https://liveh12byt.vtvprime.vn/hls/LTV1/02.m3u8
+ltv1 lam dong 360p
+https://liveh12byt.vtvprime.vn/hls/LTV1/01.m3u8
 
 liveh34byt.vtvprime.vn
 hanoitv1 720p
@@ -5198,6 +5241,687 @@ afn 720p
 https://live-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 afn 480p
 https://live-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b1800000.m3u8
+
+event-a.fptplay53.net
+vtv1 hd
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv1 720p
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv1 480p
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv2 hd
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv2 720p
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv2 480p
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv3 hd
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv3 720p
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv3 480p
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv4 hd
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv4 720p
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv4 480p
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv5 hd
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv5 720p
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv5 480p
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv5 tay nam bo hd
+https://event-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+vtv5 tay nam bo 720p
+https://event-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_2000000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b2500000.m3u8
+vtv5 tay nam bo 480p
+https://event-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_1499968=10002-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
+vtv5 tay nguyen hd
+https://event-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
+vtv5 tay nguyen 720p
+https://event-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_2000000=10001-mp4a_140800_vie=20000.m3u8
+vtv5 tay nguyen 480p
+https://event-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_1499968=10002-mp4a_140800_vie=20000.m3u8
+vtv6 hd
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv6 720p
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv6 480p
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv7 hd
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv7 720p
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv7 480p
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vtv8 hd
+https://event-a.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+vtv8 720p
+https://event-a.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_2000000=10001-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b2500000.m3u8
+vtv8 480p
+https://event-a.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_1499968=10002-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b1800000.m3u8
+vtv9 hd
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+vtv9 720p
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+vtv9 480p
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b1800000.m3u8
+vtv10 hd
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+vtv10 720p
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+vtv10 480p
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+vietnam today hd
+https://event-a.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+vietnam today 720p
+https://event-a.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b2500000.m3u8
+vietnam today 480p
+https://event-a.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
+htv7 hd
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+htv7 720p
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+htv7 480p
+https://event-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+htv9 hd
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+htv9 720p
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+htv9 480p
+https://event-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+htv the thao hd
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+htv the thao 720p
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+htv the thao 480p
+https://event-a.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+thvl1 hd
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+thvl1 720p
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
+thvl1 480p
+https://event-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b1800000.m3u8
+thvl2 hd
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+thvl2 720p
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
+thvl2 480p
+https://event-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b1800000.m3u8
+thvl3 hd
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+thvl3 720p
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_1000000=10003-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_1800000=10002-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b2500000.m3u8
+thvl3 480p
+https://event-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b1800000.m3u8
+thlc lao cai 720p
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+thlc lao cai 480p
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b1800000.m3u8
+ptv phu tho 720p
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+ptv phu tho 480p
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
+ktv khanh hoa 720p
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+ktv khanh hoa 480p
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b1800000.m3u8
+ktv1 khanh hoa 720p
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
+ktv1 khanh hoa 480p
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b1800000.m3u8
+ctv ca mau hd
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
+ctv ca mau 720p
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b2500000.m3u8
+ctv ca mau 480p
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8.m3u8
+htv2 vie channel hd
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+htv2 vie channel 720p
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
+htv2 vie channel 480p
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
+htv4 720p
+https://event-a.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+htv4 480p
+https://event-a.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b1800000.m3u8
+htv5 720p
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+htv5 480p
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b1800000.m3u8
+htv7 hd
+https://event-a.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
+htv5 720p
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+htv5 720p
+https://event-a.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b1800000.m3u8
+htv3 hd
+https://event-a.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b5000000.m3u8
+htv3 720p
+https://event-a.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+htv3 480p
+https://event-a.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b1800000.m3u8
+htvc gia dinh hd
+https://event-a.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+htvc gia dinh 720p
+https://event-a.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b2500000.m3u8
+htvc gia dinh 480p
+https://event-a.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b1800000.m3u8
+htvc phu nu hd
+https://event-a.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+htvc phu nu 720p
+https://event-a.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b2500000.m3u8
+htvc phu nu 480p
+https://event-a.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b1800000.m3u8
+htvc music hd
+https://event-a.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+htvc music 720p
+https://event-a.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b2500000.m3u8
+htvc music 480p
+https://event-a.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b1800000.m3u8
+htvc plus hd
+https://event-a.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+htvc plus 720p
+https://event-a.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b2500000.m3u8
+htvc plus 480p
+https://event-a.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b1800000.m3u8
+htvc movie hd
+https://event-a.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+htvc movie 720p
+https://event-a.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b2500000.m3u8
+htvc movie 480p
+https://event-a.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b1800000.m3u8
+htvc thuan viet hd
+https://event-a.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+htvc thuan viet 720p
+https://event-a.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b2500000.m3u8
+htvc thuan viet 480p
+https://event-a.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b1800000.m3u8
+htvc du lich hd
+https://event-a.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+htvc du lich 720p
+https://event-a.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b2500000.m3u8
+htvc du lich 480p
+https://event-a.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b1800000.m3u8
+htv2 hd
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+htv2 720p
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
+htv2 480p
+https://event-a.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
+htv1 hd
+https://event-a.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b5000000.m3u8
+htv1 720p
+https://event-a.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+htv1 480p
+https://event-a.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b1800000.m3u8
+htv the thao hd
+https://event-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+htvc the thao 720p
+https://event-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b2500000.m3u8
+htvc the thao 480p
+https://event-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b1800000.m3u8
+qpvn quoc phong hd
+https://event-a.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+qpvn quoc phong 720p
+https://event-a.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
+qpvn quoc phong 480p
+https://event-a.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
+antv an ninh hd
+https://event-a.fptplay53.net/live/media/antv/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+antv an ninh 720p
+https://event-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_2000000=10001-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
+antv an ninh 480p
+https://event-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_1499968=10002-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+thvl4 hd
+https://event-a.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
+thvl4 720p
+https://event-a.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b2500000.m3u8
+thvl4 480p
+https://event-a.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b1800000.m3u8
+thvl5 hd
+https://event-a.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+thvl5 720p
+https://event-a.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b2500000.m3u8
+thvl5 480p
+https://event-a.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b1800000.m3u8
+atv1 an giang 720p
+https://event-a.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+atv1 an giang 480p
+https://event-a.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b1800000.m3u8
+atv2 an giang hd
+https://event-a.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
+atv2 an giang 720p
+https://event-a.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b2500000.m3u8
+atv2 an giang 480p
+https://event-a.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b1800000.m3u8
+atv3 an giang 720p
+https://event-a.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+atv3 an giang 480p
+https://event-a.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b1800000.m3u8
+btv bac ninh 720p
+https://event-a.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
+btv bac ninh 480p
+https://event-a.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b1800000.m3u8
+gtv gia lai 720p
+https://event-a.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
+gtv gia lai 480p
+https://event-a.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b1800000.m3u8
+ltv1 lam dong 720p
+https://event-a.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+ltv1 lam dong 480p
+https://event-a.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b1800000.m3u8
+ltv2 lam dong 720p
+https://event-a.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
+https://event-a.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b2500000.m3u8
+ltv2 lam dong 480p
+https://event-a.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b1800000.m3u8
+https://event-a.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b1800000.m3u8
+ctv ca mau hd
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
+ctv ca mau 720p
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b2500000.m3u8
+ctv ca mau 480p
+https://event-a.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8
+can tho 1 hd
+https://event-a.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
+can tho 1 720p
+https://event-a.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b2500000.m3u8
+can tho 1 480p
+https://event-a.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b1800000.m3u8
+can tho 2 hd
+https://event-a.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
+can tho 2 720p
+https://event-a.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b2500000.m3u8
+can tho 2 480p
+https://event-a.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b1800000.m3u8
+can tho 3 720p
+https://event-a.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/cantho01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+https://event-a.fptplay53.net/epzsd1/cantho01_hls.smil/chunklist_b2500000.m3u8
+can tho 3 480p
+https://event-a.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b1800000.m3u8
+https://event-a.fptplay53.net/epzsd1/cantho01_hls.smil/chunklist_b1800000.m3u8
+crtv cao bang 720p
+https://event-a.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+crtv cao bang 480p
+https://event-a.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b1800000.m3u8
+dnrt1 da nang 720p
+https://event-a.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+dnrt1 da nang 480p
+https://event-a.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b1800000.m3u8
+dnrt2 da nang 720p
+https://event-a.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+dnrt2 da nang 480p
+https://event-a.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b1800000.m3u8
+drt dak lak 720p
+https://event-a.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+drt dak lak 480p
+https://event-a.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b1800000.m3u8
+dtv dien bien 720p
+https://event-a.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+dtv dien bien 480p
+https://event-a.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b1800000.m3u8
+dnnrtv1 dong nai 720p
+https://event-a.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+dnnrtv1 dong nai 480p
+https://event-a.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b1800000.m3u8
+dnnrtv2 dong nai 720p
+https://event-a.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+dnnrtv2 dong nai 480p
+https://event-a.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b1800000.m3u8
+dnnrtv3 dong nai 720p
+https://event-a.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist_b2500000.m3u8
+dnnrtv3 dong nai 480p
+https://event-a.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist_b1800000.m3u8
+thdt1 dong thap hd
+https://event-a.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
+thdt1 dong thap 720p
+https://event-a.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b2500000.m3u8
+thdt1 dong thap 480p
+https://event-a.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b1800000.m3u8
+thdt2 dong thap hd
+https://event-a.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
+thdt2 dong thap 720p
+https://event-a.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b2500000.m3u8
+thdt2 dong thap 480p
+https://event-a.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b1800000.m3u8
+bhttv ha tinh 720p
+https://event-a.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+bhttv ha tinh 480p
+https://event-a.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b1800000.m3u8
+thp hai phong hd
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
+thp hai phong 720p
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_2000000=10001-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+thp hai phong 480p
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_1499968=10002-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b1800000.m3u8
+thp3 hai phong 720p
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+thp3 hai phong 480p
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b1800000.m3u8
+huetv hue 720p
+https://event-a.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+huetv hue 480p
+https://event-a.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b1800000.m3u8
+hytv hung yen 720p
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+hytv hung yen 480p
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b1800000.m3u8
+ktv khanh hoa 720p
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+ktv khanh hoa 480p
+https://event-a.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b1800000.m3u8
+ktv1 khanh hoa 720p
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
+ktv1 khanh hoa 480p
+https://event-a.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b1800000.m3u8
+ltv lai chau 720p
+https://event-a.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+ltv lai chau 480p
+https://event-a.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b1800000.m3u8
+lstv lang son 720p
+https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+lstv lang son 480p
+https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b1800000.m3u8
+thlc lao cai 720p
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+thlc lao cai 480p
+https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b1800000.m3u8
+tn tay ninh 720p
+https://event-a.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
+tn tay ninh 480p
+https://event-a.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
+ntv nghe an 720p
+https://event-a.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+ntv nghe an 480p
+https://event-a.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b1800000.m3u8
+nbtv ninh binh 720p
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+nbtv ninh binh 480p
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b1800000.m3u8
+ptv phu tho 720p
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+ptv phu tho 480p
+https://event-a.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
+qngtv1 quang ngai 720p
+https://event-a.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+qngtv1 quang ngai 480p
+https://event-a.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
+qngtv2 quang ngai 720p
+https://event-a.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
+qngtv2 quang ngai 480p
+https://event-a.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b1800000.m3u8
+qtv1 quang ninh 720p
+https://event-a.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+qtv1 quang ninh 480p
+https://event-a.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b1800000.m3u8
+qtv3 quang ninh 720p
+https://event-a.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+qtv3 quang ninh 480p
+https://event-a.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b1800000.m3u8
+qttv quang tri 720p
+https://event-a.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+qttv quang tri 480p
+https://event-a.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b1800000.m3u8
+stv son la 720p
+https://event-a.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+stv son la 480p
+https://event-a.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b1800000.m3u8
+tn thai nguyen 720p
+https://event-a.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+tn thai nguyen 480p
+https://event-a.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b1800000.m3u8
+ttv thanh hoa 576p
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+ttv thanh hoa 480p
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b1800000.m3u8
+ttv tuyen quang 720p
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+ttv tuyen quang 480p
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b1800000.m3u8
+hanoitv1 hd
+https://event-a.fptplay53.net/live/media/hanoitv1/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b5000000.m3u8
+hanoitv1 720p
+https://event-a.fptplay53.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_2000000=10001-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+hanoitv1 480p
+https://event-a.fptplay53.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_1499968=10002-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b1800000.m3u8
+hanoitv2 hd
+https://event-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
+hanoitv2 720p
+https://event-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_2000000=10001-mp4a_140800=20000.m3u8
+hanoitv2 480p
+https://event-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_1499968=10002-mp4a_140800=20000.m3u8
+sctv6 hd
+https://event-a.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+sctv6 720p
+https://event-a.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b2500000.m3u8
+sctv6 480p
+https://event-a.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b1800000.m3u8
+fpt play channel hd
+https://event-a.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+fpt play channel 720p
+https://event-a.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b2500000.m3u8
+fpt play channel 480p
+https://event-a.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b1800000.m3u8
+kbs world hd
+https://event-a.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
+kbs world 720p
+https://event-a.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b2500000.m3u8
+kbs world 480p
+https://event-a.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b1800000.m3u8
+nhk world hd
+https://event-a.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+nhk world 720p
+https://event-a.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
+nhk world 480p
+https://event-a.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b1800000.m3u8
+tv5 720p
+https://event-a.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
+tv5 480p
+https://event-a.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b1800000.m3u8
+cns 720p
+https://event-a.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
+cna 480p
+https://event-a.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b1800000.m3u8
+cna 720p
+https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
+cnbc 480p
+https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
+kix hd
+https://event-a.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+kix 720p
+https://event-a.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
+kix 480p
+https://event-a.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b1800000.m3u8
+outdoor hd
+https://event-a.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+outdoor 720p
+https://event-a.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
+outdoor 480p
+https://event-a.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b1800000.m3u8
+davinci hd
+https://event-a.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+davinci 720p
+https://event-a.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b2500000.m3u8
+davinci 480p
+https://event-a.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b1800000.m3u8
+afn hd
+https://event-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+afn 720p
+https://event-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
+afn 480p
+https://event-a.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b1800000.m3u8
 
 vips-livecdn.fptplay.net
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
