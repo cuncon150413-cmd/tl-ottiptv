@@ -2370,13 +2370,13 @@ lstv lang son 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_480p.m3u8
 lstv lang son 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_360p.m3u8
-htv7 720p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv7tv/master.m3u8
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv7tv/playlist_720p.m3u8
-htv7 480p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv7tv/playlist_480p.m3u8
-htv7 360p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv7tv/playlist_360p.m3u8
+htv9 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv9tv/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv9tv/playlist_720p.m3u8
+htv9 480p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv9tv/playlist_480p.m3u8
+htv9 360p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv9tv/playlist_360p.m3u8
 thvl1 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_720p.m3u8
@@ -2617,13 +2617,13 @@ lstv lang son 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_480p.m3u8
 lstv lang son 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_360p.m3u8
-htv7 720p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv7tv/master.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv7tv/playlist_720p.m3u8
-htv7 480p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv7tv/playlist_480p.m3u8
-htv7 360p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv7tv/playlist_360p.m3u8
+htv9 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv9tv/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv9tv/playlist_720p.m3u8
+htv9 480p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv9tv/playlist_480p.m3u8
+htv9 360p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-htv9tv/playlist_360p.m3u8
 thvl1 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-vinhlong1tv/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_720p.m3u8
@@ -2661,6 +2661,13 @@ dtv dien bien 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
+can tho1 720p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
+can tho1 480p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
+can tho1 360p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
 vtv4 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2726,6 +2733,13 @@ dtv dien bien 480p
 https://events.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://events.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
+can tho1 720p
+https://events.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
+https://events.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
+can tho1 480p
+https://events.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
+can tho1 360p
+https://events.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
 vtv4 720p
 https://events.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
@@ -2791,6 +2805,13 @@ dtv dien bien 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
+can tho1 720p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
+can tho1 480p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
+can tho1 360p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
 vtv4 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
