@@ -472,7 +472,7 @@ tn1 thai nguyen 720p
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 ntv nghe an hd
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-ttv tuyen quang
+ttv tuyen quang 720p
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 vietnam today
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
@@ -777,6 +777,12 @@ thvl4 hd
 http://pk79.io.vn/vieon/play.php?id=d2cd26d7-06a7-44cc-8038-03442df58baa
 thvl5 720p
 http://pk79.io.vn/vieon/play.php?id=30633b83-7885-4372-b65a-0688d2b7175a
+ 
+ctrl.laotv.la
+vtv4 hd
+https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
+vietnam today hd
+https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
 
 live.canthotv.vn
 can tho 1 hd
