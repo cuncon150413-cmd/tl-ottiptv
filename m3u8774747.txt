@@ -6658,23 +6658,23 @@ sctv 4k
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 on kids hd
 https://vietanhtv.id.vn/sctv/vtvcab-on-kids/index.m3u8
-htv7 hd
+htv7 720p
 https://vietanhtv.id.vn/sctv/htv7-96634500/index.m3u8
 htv9 hd
 https://vietanhtv.id.vn/sctv/htv9-c6c29fcd/index.m3u8
 thdt1 dong thap hd
 https://vietanhtv.id.vn/sctv/th-dong-thap-1-8f098772/index.m3u8
-thdt2 dong thap hd
+thdt2 dong thap 720p
 https://vietanhtv.id.vn/sctv/truyen-hinh-dong-thap-2-mien-tay-thdt2/index.m3u8
-drt dak lak hd
+drt dak lak 720p
 https://vietanhtv.id.vn/sctv/dai-phat-thanh-va-truyen-hinh-dak-lak/index.m3u8
-ltv3 lam dong hd
+ltv3 lam dong 720p
 https://vietanhtv.id.vn/sctv/bao-va-pt-th-lam-dong-ltv3/index.m3u8
-qngtv1 quang ngai hd
+qngtv1 quang ngai 720p
 https://vietanhtv.id.vn/sctv/bao-va-pt-th-quang-ngai/index.m3u8
 ltv2 lam dong 576p
 https://vietanhtv.id.vn/sctv/dai-pt-th-binh-thuan/index.m3u8
-ctv ca mau hd
+ctv ca mau 576p
 https://vietanhtv.id.vn/sctv/dai-pt-th-ca-mau/index.m3u8
 can tho 2 576p
 https://vietanhtv.id.vn/sctv/th-hau-giang-ac0ec36d/index.m3u8
@@ -6744,23 +6744,23 @@ sctv 4k
 https://tv.vietanhtv.top/sctv/tv.php?id=sctv-4k
 on kids hd
 https://tv.vietanhtv.top/sctv/tv.php?id=vtvcab-on-kids
-htv7 hd
+htv7 576p
 https://tv.vietanhtv.top/sctv/tv.php?id=htv7-96634500
 htv9 hd
 https://tv.vietanhtv.top/sctv/tv.php?id=htv9-c6c29fcd
 thdt1 dong thap hd
 https://tv.vietanhtv.top/sctv/tv.php?id=th-dong-thap-1-8f098772
-thdt2 dong thap hd
+thdt2 dong thap 720p
 https://tv.vietanhtv.top/sctv/tv.php?id=truyen-hinh-dong-thap-2-mien-tay-thdt2
-drt dak lak hd
+drt dak lak 720p
 https://tv.vietanhtv.top/sctv/tv.php?id=dai-phat-thanh-va-truyen-hinh-dak-lak
-ltv3 lam dong hd
+ltv3 lam dong 720p
 https://tv.vietanhtv.top/sctv/tv.php?id=bao-va-pt-th-lam-dong-ltv3
-qngtv1 quang ngai hd
+qngtv1 quang ngai 720p
 https://tv.vietanhtv.top/sctv/tv.php?id=bao-va-pt-th-quang-ngai
 ltv2 lam dong 576p
 https://tv.vietanhtv.top/sctv/tv.php?id=dai-pt-th-binh-thuan
-ctv ca mau hd
+ctv ca mau 576p
 https://tv.vietanhtv.top/sctv/tv.php?id=dai-pt-th-ca-mau
 can tho 2 576p
 https://tv.vietanhtv.top/sctv/tv.php?id=th-hau-giang-ac0ec36d
