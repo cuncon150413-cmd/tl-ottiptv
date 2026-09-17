@@ -917,7 +917,6 @@ https://dethich.pw/thvlaudio/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HTV2_logo_ph%E1%BB%A5_12-2022.png/revision/latest/scale-to-width-down/1000?cb=20260511043728&path-prefix=vi" group-title="Thử Nghiệm",HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sdtv.vn/
-#EXTHTTP:{"Accept-Language":"vi","sec-ch-ua":"\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\""}
 https://hplus.com.vn/iframe?content_id=2265&w=1000&h=541
 #EXTINF:-1 tvg-id="cantho3" tvg-name="Cần Thơ 3 " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest/scale-to-width-down/1000?cb=20250912112412&path-prefix=vi" group-title="Thử Nghiệm",Cần Thơ 3 
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
