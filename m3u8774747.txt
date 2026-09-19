@@ -800,12 +800,6 @@ https://tv.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
 can tho 3 hd
 https://tv.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
 
-HaNoiIPTV.short.gy
-sctv2 hd
-https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV2_HD
-sctv6 hd
-https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV6_HD
-
 live.baoquangninh.vn
 qtv1 quang ninh hd
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
@@ -824,17 +818,7 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
 http://103.90.220.236/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
-http://103.90.220.236/qtvlive/qnr2.m3u8
-
-qtv.vncdn.vn
-qtv1 quang ninh hd
-https://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-qtv3 quang ninh 720p
-https://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-qnr1 quang ninh 240p
-https://qtv.vncdn.vn/qtvlive/qnr1.m3u8
-qnr2 quang ninh 240p
-https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
+http://103.90.220.236/qtvlive/qnr2.m3u8\
 
 123.31.36.68
 htv2 720x406
@@ -2724,13 +2708,6 @@ thvl1 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_360p.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
-hanoitv1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi1-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi1-720p.m3u8
-hanoitv1 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi1-480p.m3u8
-hanoitv1 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi1-360p.m3u8
 hanoitv2 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
@@ -2796,13 +2773,6 @@ vietnam today 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 
 events.vtvdigital.vn
-hanoitv1 720p
-https://events.vtvdigital.vn/kenhdp/hanoi1-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/hanoi1-720p.m3u8
-hanoitv1 480p
-https://events.vtvdigital.vn/kenhdp/hanoi1-480p.m3u8
-hanoitv1 360p
-https://events.vtvdigital.vn/kenhdp/hanoi1-360p.m3u8
 hanoitv2 720p
 https://events.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
 https://events.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
@@ -2868,13 +2838,6 @@ vietnam today 360p
 https://events.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
-hanoitv1 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi1-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi1-720p.m3u8
-hanoitv1 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi1-480p.m3u8
-hanoitv1 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi1-360p.m3u8
 hanoitv2 720p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
@@ -6410,7 +6373,6 @@ https://livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_14999
 fpt login hd
 https://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
-
 
 qpvn.vn
 qpvn hd
