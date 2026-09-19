@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <script>
+        fetch('https://danet.vn/api/movies/1558368097/episodes/1558371317/locations?chapters=true')
+            .then(res => res.json())
+            .then(data => {
+                const streamUrl = data?.streams?.[0]?.file_location;
+                if (streamUrl) {
+                    // Chuyển hướng ngay lập tức
+                    window.location.replace(streamUrl);
+                }
+            })
+            .catch(err => console.error(err));
+    </script>
+</body>
+</html>
