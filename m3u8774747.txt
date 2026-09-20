@@ -8603,6 +8603,66 @@ sctv21 hd
 https://vmttv.dpdns.org/VTVGo/?sctv21
 sctv phim tong hop hd
 https://vmttv.dpdns.org/VTVGo/?sctvphim
+atv1 an giang 720p
+https://vmttv.dpdns.org/VTVGo/?an-giang
+btv bac ninh 720p
+https://vmttv.dpdns.org/VTVGo/?bac-ninh
+ctv ca mau 720p
+https://vmttv.dpdns.org/VTVGo/?ca-mau
+can tho 1 720p
+https://vmttv.dpdns.org/VTVGo/?can-tho-1
+crtv cao bang 720p
+https://vmttv.dpdns.org/VTVGo/?cao-bang
+drt dak lak hd
+https://vmttv.dpdns.org/VTVGo/?dak-lak
+dnrt1 da nang 720p
+https://vmttv.dpdns.org/VTVGo/?da-nang-1
+dtv dien bien 720p
+https://vmttv.dpdns.org/VTVGo/?dien-bien
+dnnrtv1 dong nai 720p
+https://vmttv.dpdns.org/VTVGo/?dong-nai-1
+thdt1 dong thap 720p
+https://vmttv.dpdns.org/VTVGo/?dong-thap-1
+gtv gia lai 480p
+https://vmttv.dpdns.org/VTVGo/?gia-lai
+bhttv ha tinh 720p
+https://vmttv.dpdns.org/VTVGo/?ha-tinh
+hanoitv2 720p
+https://vmttv.dpdns.org/VTVGo/?ha-noi-1
+thp hai phong 720p
+https://vmttv.dpdns.org/VTVGo/?hai-phong
+huetv 720p
+https://vmttv.dpdns.org/VTVGo/?hue
+hytv hung yen 720p
+https://vmttv.dpdns.org/VTVGo/?hung-yen
+ktv khanh hoa 720p
+https://vmttv.dpdns.org/VTVGo/?khanh-hoa
+ltv lai chau 720p
+https://vmttv.dpdns.org/VTVGo/?lai-chau
+thlc lao cai 720p
+https://vmttv.dpdns.org/VTVGo/?lao-cai
+ntv nghe an 720p
+https://vmttv.dpdns.org/VTVGo/?nghe-an
+nbtv ninh binh 720p
+https://vmttv.dpdns.org/VTVGo/?ninh-binh
+ptv phu tho 720p
+https://vmttv.dpdns.org/VTVGo/?phu-tho
+qngtv1 quang ngai 720p
+https://vmttv.dpdns.org/VTVGo/?quang-ngai-1
+qtv1 quang ninh 720p
+https://vmttv.dpdns.org/VTVGo/?quang-ninh-1
+qttv quang tri 720p
+https://vmttv.dpdns.org/VTVGo/?quang-tri
+stv son la 720p
+https://vmttv.dpdns.org/VTVGo/?son-la
+tn tay ninh 720p
+https://vmttv.dpdns.org/VTVGo/?tay-ninh
+tn thai nguyen 720p
+https://vmttv.dpdns.org/VTVGo/?thai-nguyen
+ttv thanh hoa 720p
+https://vmttv.dpdns.org/VTVGo/?thanh-hoa
+ttv tuyen quang 720p
+https://vmttv.dpdns.org/VTVGo/?tuyen-quang
 
 tpninosaga.duckdns.org
 vtv1 hd
