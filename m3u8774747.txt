@@ -2005,6 +2005,7 @@ vtvgolive-vtv02.vtvdigital.vn
 vtv1 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv1/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv1/premium/master.m3u8
 vtv1 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
 vtv1 480p
@@ -2014,6 +2015,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv2 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2/premium/master.m3u8
 vtv2 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
 vtv2 480p
@@ -2023,6 +2025,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv3 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv3/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv3/premium/master.m3u8
 vtv3 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv3__vtv720p-h264/index.m3u8
 vtv3 480p
@@ -2032,6 +2035,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv4 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv4__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv4/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv4/premium/master.m3u8
 vtv4 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
 vtv4 480p
@@ -2041,6 +2045,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv5 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5/premium/master.m3u8
 vtv5 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
 vtv5 480p
@@ -2050,6 +2055,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv5 tay nam bo hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tnb__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tnb/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tnb/premium/master.m3u8
 vtv5 tay nam bo 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
 vtv5 tay nam bo 480p
@@ -2059,6 +2065,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv5 tay nguyen hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tn__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tn/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tn/premium/master.m3u8
 vtv5 tay nguyen 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
 vtv5 tay nguyen 480p
@@ -2068,6 +2075,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv6 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv6/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv6/premium/master.m3u8
 vtv6 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 vtv6 480p
@@ -2077,6 +2085,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv7 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv7__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv7/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv7/premium/master.m3u8
 vtv7 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
 vtv7 480p
@@ -2086,6 +2095,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv8 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv8__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv8/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv8/premium/master.m3u8
 vtv8 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
 vtv8 480p
@@ -2095,6 +2105,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv9 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv9__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv9/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv9/premium/master.m3u8
 vtv9 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
 vtv9 480p
@@ -2104,6 +2115,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vtv10 hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv10__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv10/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv10/premium/master.m3u8
 vtv10 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 vtv10 480p
@@ -2113,12 +2125,145 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 vietnamtoday hd
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday__vtv1080p-h264/index.m3u8
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday/index.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday/premium/master.m3u8
 vietnamtoday 720p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday__vtv720p-h264/index.m3u8
 vietnamtoday 480p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday__vtv480p-h264/index.m3u8
 vietnamtoday 360p
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vietnamtoday__vtv360p-h264/index.m3u8
+
+vtvgolivepre-vtv02.vtvdigital.vn
+vtv1 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/premium/master.m3u8
+vtv1 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
+vtv1 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv480p-h264/index.m3u8
+vtv1 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv360p-h264/index.m3u8
+vtv2 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/premium/master.m3u8
+vtv2 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
+vtv2 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv480p-h264/index.m3u8
+vtv2 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv360p-h264/index.m3u8
+vtv3 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/premium/master.m3u8
+vtv3 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv720p-h264/index.m3u8
+vtv3 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv480p-h264/index.m3u8
+vtv3 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv360p-h264/index.m3u8
+vtv4 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/premium/master.m3u8
+vtv4 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
+vtv4 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv480p-h264/index.m3u8
+vtv4 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv360p-h264/index.m3u8
+vtv5 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/premium/master.m3u8
+vtv5 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
+vtv5 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv480p-h264/index.m3u8
+vtv5 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv360p-h264/index.m3u8
+vtv5 tay nam bo hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/premium/master.m3u8
+vtv5 tay nam bo 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
+vtv5 tay nam bo 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv480p-h264/index.m3u8
+vtv5 tay nam bo 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv360p-h264/index.m3u8
+vtv5 tay nguyen hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/premium/master.m3u8
+vtv5 tay nguyen 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
+vtv5 tay nguyen 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv480p-h264/index.m3u8
+vtv5 tay nguyen 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv360p-h264/index.m3u8
+vtv6 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/premium/master.m3u8
+vtv6 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+vtv6 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv480p-h264/index.m3u8
+vtv6 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv360p-h264/index.m3u8
+vtv7 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/premium/master.m3u8
+vtv7 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
+vtv7 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv480p-h264/index.m3u8
+vtv7 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv360p-h264/index.m3u8
+vtv8 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/premium/master.m3u8
+vtv8 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
+vtv8 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv480p-h264/index.m3u8
+vtv8 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv360p-h264/index.m3u8
+vtv9 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/premium/master.m3u8
+vtv9 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
+vtv9 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv480p-h264/index.m3u8
+vtv9 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv360p-h264/index.m3u8
+vtv10 hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/premium/master.m3u8
+vtv10 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
+vtv10 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv480p-h264/index.m3u8
+vtv10 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv360p-h264/index.m3u8
+vietnamtoday hd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv1080p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/premium/master.m3u8
+vietnamtoday 720p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv720p-h264/index.m3u8
+vietnamtoday 480p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv480p-h264/index.m3u8
+vietnamtoday 360p
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv360p-h264/index.m3u8
 
 vtvgoliveapp1-aws-plus-tn.vtvdigital.vn
 vtv1 hd
@@ -8856,6 +9001,32 @@ vtv6 hd
 https://vmttv.dpdns.org/tv360/?id=10043
 btv6 binh thuan 576p
 https://vmttv.dpdns.org/tv360/?id=9838
+vtv1 hd
+https://vmttv.dpdns.org/VTVGo/?vtv1-hd
+vtv2 hd
+https://vmttv.dpdns.org/VTVGo/?vtv2-hd
+vtv3 hd
+https://vmttv.dpdns.org/VTVGo/?vtv3-hd
+vtv4 hd
+https://vmttv.dpdns.org/VTVGo/?vtv4-hd
+vtv5 hd
+https://vmttv.dpdns.org/VTVGo/?vtv5-hd
+vtv5 tay nam bo
+https://vmttv.dpdns.org/VTVGo/?vtv5-tay-nam-bo
+vtv5 tay nguyen
+https://vmttv.dpdns.org/VTVGo/?vtv5-tay-nguyen
+vtv6 hd
+https://vmttv.dpdns.org/VTVGo/?vtv6-hd
+vtv7 hd
+https://vmttv.dpdns.org/VTVGo/?vtv7-hd
+vtv8 hd
+https://vmttv.dpdns.org/VTVGo/?vtv8-hd
+vtv9 hd
+https://vmttv.dpdns.org/VTVGo/?vtv9-hd
+vtv10 hd
+https://vmttv.dpdns.org/VTVGo/?vtv10-hd
+antv hd
+https://vmttv.dpdns.org/VTVGo/?antv
 sctv1 hd
 https://vmttv.dpdns.org/VTVGo/?sctv1
 sctv2 720p
