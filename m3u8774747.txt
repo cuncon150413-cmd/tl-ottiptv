@@ -8695,11 +8695,14 @@ htv7 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/chunks.m3u8
 htv9 hd
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/chunks.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/chunks.m3u8
+htv the thao hd
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 htvc ca nhac hd
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/chunks.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-CANHAC-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-CANHAC-HD-1080p/chunks.m3u8
 htvc du lich cuoc song hd
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
@@ -8802,6 +8805,9 @@ https://1011154949.vnns.net/htvc/htv7.1080p.nimble.adm.tms/chunks.m3u8
 htv9 hd
 https://1011154949.vnns.net/htvc/htv9.720p.nimble.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/htv9.720p.nimble.adm.tms/chunks.m3u8
+htv the thao hd
+https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/chunks.m3u8
 thvl1 720p
 https://1011154949.vnns.net/htvc/thvl1hd.720p.nimble.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/thvl1hd.720p.nimble.adm.tms/chunks.m3u8
