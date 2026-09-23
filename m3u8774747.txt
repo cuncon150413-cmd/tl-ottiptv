@@ -8823,12 +8823,18 @@ https://1011154949.vnns.net/htvc/longan.480p.adm.tms/chunks.m3u8
 drt dak lak 720p
 https://1011154949.vnns.net/htvc/daklak.720p.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/daklak.720p.adm.tms/chunks.m3u8
+dnrt1 da nang 720p
+https://1011154949.vnns.net/htvc/danang1sd.720.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/danang1sd.720.adm.tms/chunks.m3u8
 dnrt2 da nang 720p
 https://1011154949.vnns.net/htvc/danang2sd.720.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/danang2sd.720.adm.tms/chunks.m3u8
 ktv khanh hoa 720p
 https://1011154949.vnns.net/htvc/khanhhoa.480p.nb.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/khanhhoa.480p.nb.adm.tms/chunks.m3u8
+bhttv ha tinh 720p
+https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/chunks.m3u8
 
 vtcplay.vn
 vtv1 720p
