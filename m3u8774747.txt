@@ -8835,6 +8835,9 @@ https://1011154949.vnns.net/htvc/khanhhoa.480p.nb.adm.tms/chunks.m3u8
 bhttv ha tinh 720p
 https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/chunks.m3u8
+atv1 an giang 720p
+https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/chunks.m3u8
 
 vtcplay.vn
 vtv1 720p
