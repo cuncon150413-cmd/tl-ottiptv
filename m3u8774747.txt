@@ -3395,339 +3395,339 @@ https://ott.avg.vn/live/binhphuoctv/chunklist_0.m3u8
 
 cmcdp.vtvdigital.vn
 btv bac ninh 480p
-https://cmcdp.vtvdigital.vn/live/bacgiangtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/bacgiangtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/bacgiangtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/bacgiangtv/chunklist_1.m3u8
 btv bac ninh 360p
-https://cmcdp.vtvdigital.vn/live/bacgiangtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/bacgiangtv/chunklist_0.m3u8
 dnnrtv1 720p
-https://cmcdp.vtvdigital.vn/live/dongnai1tv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai1tv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 dnnrtv1 480p
-https://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_1.m3u8
 dnnrtv1 360p
-https://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_0.m3u8
 dnnrtv2 720p
-https://cmcdp.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/phuthotv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
-https://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/phuthotv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_2.m3u8
 dnnrtv2 480p
-https://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_1.m3u8
-https://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_1.m3u8
 dnnrtv2 360p
-https://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_0.m3u8
-https://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_0.m3u8
 qngtv1 quang ngai 720p
-https://cmcdp.vtvdigital.vn/live/quangngaitv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/quangngaitv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_2.m3u8
 qngtv1 quang ngai 480p
-https://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
-https://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
 qngtv2 quang ngai 720p
-https://cmcdp.vtvdigital.vn/live/bentretv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/bentretv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 qngtv2 quang ngai 480p
-https://cmcdp.vtvdigital.vn/live/bentretv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_1.m3u8
 qngtv2 quang ngai 360p
-https://cmcdp.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
-https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
 gtv gia lai 360p
-https://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_0.m3u8
 bhttv ha tinh 720p
-https://cmcdp.vtvdigital.vn/live/hatinhtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/hatinhtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_2.m3u8
 bhttv ha tinh 480p
-https://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_1.m3u8
 bhttv ha tinh 360p
-https://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/hatinhtv/chunklist_0.m3u8
 tn thai nguyen 480p
-https://cmcdp.vtvdigital.vn/live/thainguyentv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/thainguyentv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/thainguyentv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/thainguyentv/chunklist_1.m3u8
 tn thai nguyen 360p
-https://cmcdp.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/thainguyentv/chunklist_0.m3u8
 thp hai phong 720p
-https://cmcdp.vtvdigital.vn/live/haiphongtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/haiphongtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_2.m3u8
 thp hai phong 480p
-https://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_1.m3u8
 thp hai phong 360p
-https://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
-https://cmcdp.vtvdigital.vn/live/ninhbinhtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/ninhbinhtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
 nbtv ninh binh 360p
-https://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
-https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_2.m3u8
 can tho 1 480p
-https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
-https://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
 vtv5 720p
-https://cmcdp.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
+http://cmcdp.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
+http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
 vtv5 480p
-https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
+http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
 vtv5 360p
-https://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
+http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
 
 cmcdp1.vtvdigital.vn
 dnnrtv1 720p
-https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_2.m3u8
 dnnrtv1 480p
-https://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_1.m3u8
 dnnrtv1 360p
-https://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/gialaitv/chunklist_0.m3u8
 huetv hue 720p
-https://cmcdp1.vtvdigital.vn/live/huetv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/huetv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/huetv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/huetv/chunklist_2.m3u8
 huetv hue 480p
-https://cmcdp1.vtvdigital.vn/live/huetv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/huetv/chunklist_1.m3u8
 huetv hue 360p
-https://cmcdp1.vtvdigital.vn/live/huetv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/huetv/chunklist_0.m3u8
 dtv dien bien 720p
-https://cmcdp1.vtvdigital.vn/live/dbientv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/dienbientv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/binhduongtv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_2.m3u8
-https://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_2.m3u8
-https://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/dbientv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/dienbientv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/binhduongtv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_2.m3u8
 dtv dien bien 480p
-https://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_1.m3u8
-https://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_1.m3u8
-https://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_1.m3u8
 dtv dien bien 360p
-https://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_0.m3u8
-https://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_0.m3u8
-https://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/dbientv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/binhduongtv/chunklist_0.m3u8
 hgtv ha giang 720p
-https://cmcdp1.vtvdigital.vn/live/hagiangtv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/hagiangtv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
 hgtv ha giang 480p
-https://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_1.m3u8
 hgtv ha giang 360p
-https://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/hagiangtv/chunklist_0.m3u8
 ltv lai chau 720p
-https://cmcdp1.vtvdigital.vn/live/laichautv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/laichautv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_2.m3u8
 ltv lai chau 480p
-https://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_1.m3u8
 ltv lai chau 360p
-https://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/laichautv/chunklist_0.m3u8
 ktv khanh hoa 720p
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_2.m3u8
+http://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_2.m3u8
 ktv khanh hoa 480p
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_1.m3u8
 ktv khanh hoa 360p
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_0.m3u8
 crtv cao bang 480p
-https://cmcdp1.vtvdigital.vn/live/caobangtv/playlist.m3u8
-https://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
+http://cmcdp1.vtvdigital.vn/live/caobangtv/playlist.m3u8
+http://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_1.m3u8
 crtv cao bang 360p
-https://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
+http://cmcdp1.vtvdigital.vn/live/caobangtv/chunklist_0.m3u8
 
 cmcdp3.vtvdigital.vn
 dnrt1 da nang 720p
-https://cmcdp3.vtvdigital.vn/hls/DANANGTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/DANANGTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/DANANGTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/DANANGTV/03.m3u8
 dnrt1 da nang 480p
-https://cmcdp3.vtvdigital.vn/hls/DANANGTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/DANANGTV/02.m3u8
 dnrt1 da nang 360p
-https://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
 ktv khanh hoa 720p
-https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
 ktv khanh hoa 480p
-https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/02.m3u8
 ktv khanh hoa 360p
-https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/01.m3u8
 qtv1 quang ninh 720p
-https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/03.m3u8
 qtv1 quang ninh 480p
-https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/02.m3u8
 qtv1 quang ninh 360p
-https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/01.m3u8
 hytv hung yen 720p
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/03.m3u8
 hytv hung yen 480p
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/02.m3u8
 hytv hung yen 360p
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/01.m3u8
 ntv nghe an 720p
-https://cmcdp3.vtvdigital.vn/hls/NGHEANTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/NGHEANTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/NGHEANTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/NGHEANTV/03.m3u8
 ntv nghe an 480p
-https://cmcdp3.vtvdigital.vn/hls/NGHEANTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/NGHEANTV/02.m3u8
 ntv nghe an 360p
-https://cmcdp3.vtvdigital.vn/hls/NGHEANTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/NGHEANTV/01.m3u8
 ttv thanh hoa 720p
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/THANHHOATV/03.m3u8
 ttv thanh hoa 480p
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/THANHHOATV/01.m3u8
 QPVN 720p
-https://cmcdp3.vtvdigital.vn/hls/QPTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/QPTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QPTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QPTV/03.m3u8
 QPVN 480p
-https://cmcdp3.vtvdigital.vn/hls/QPTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QPTV/02.m3u8
 QPVN 360p
-https://cmcdp3.vtvdigital.vn/hls/QPTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/QPTV/01.m3u8
 ANTV hd
-https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/04.m3u8
+http://cmcdp3.vtvdigital.vn/hls/ANNINHTV/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/ANNINHTV/04.m3u8
 ANTV 720p
-https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/ANNINHTV/03.m3u8
 ANTV 480p
-https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/ANNINHTV/02.m3u8
 ANTV 360p
-https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/ANNINHTV/01.m3u8
 ltv1 lam dong hd
-https://cmcdp3.vtvdigital.vn/hls/LTV1/index.m3u8
-https://cmcdp3.vtvdigital.vn/hls/LTV1/04.m3u8
+http://cmcdp3.vtvdigital.vn/hls/LTV1/index.m3u8
+http://cmcdp3.vtvdigital.vn/hls/LTV1/04.m3u8
 ltv1 lam dong 720p
-https://cmcdp3.vtvdigital.vn/hls/LTV1/03.m3u8
+http://cmcdp3.vtvdigital.vn/hls/LTV1/03.m3u8
 ltv1 lam dong 480p
-https://cmcdp3.vtvdigital.vn/hls/LTV1/02.m3u8
+http://cmcdp3.vtvdigital.vn/hls/LTV1/02.m3u8
 ltv1 lam dong 360p
-https://cmcdp3.vtvdigital.vn/hls/LTV1/01.m3u8
+http://cmcdp3.vtvdigital.vn/hls/LTV1/01.m3u8
 
 cmcdp2.vtvdigital.vn
 hanoitv1 720p
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI1TV/03.m3u8
 hanoitv1 480p
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI1TV/02.m3u8
 hanoitv1 360p
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI1TV/01.m3u8
 hanoitv2 720p
-https://cmcdp2.vtvdigital.vn/hls/HANOI2/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/HANOI2/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI2/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI2/03.m3u8
 hanoitv2 480p
-https://cmcdp2.vtvdigital.vn/hls/HANOI2/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI2/02.m3u8
 hanoitv2 360p
-https://cmcdp2.vtvdigital.vn/hls/HANOI2/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HANOI2/01.m3u8
 btv bac ninh 720p
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/03.m3u8
 btv bac ninh 480p
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/01.m3u8
 dnrt2 da nang 720p
-https://cmcdp2.vtvdigital.vn/hls/DANANG2/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/DANANG2/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DANANG2/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
-https://cmcdp2.vtvdigital.vn/hls/DANANG2/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DANANG2/02.m3u8
 dnrt2 da nang 360p
-https://cmcdp2.vtvdigital.vn/hls/DANANG2/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DANANG2/01.m3u8
 thdt dong thap 720p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/03.m3u8
 thdt dong thap 480p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/02.m3u8
 thdt dong thap 360p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/01.m3u8
 ktv1 khanh hoa 720p
-https://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/03.m3u8
 ktv1 khanh hoa 480p
-https://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
-https://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/01.m3u8
 qtv3 quang ninh 720p
-https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/03.m3u8
 qtv3 quang ninh 480p
-https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/02.m3u8
 qtv3 quang ninh 360p
-https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/01.m3u8
 thp3 hai phong 720p
-https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
-https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/02.m3u8
 thp3 hai phong 360p
-https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/01.m3u8
 lstv lang son 720p
-https://cmcdp2.vtvdigital.vn/hls/LANGSON/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/LANGSON/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LANGSON/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LANGSON/03.m3u8
 lstv lang son 480p
-https://cmcdp2.vtvdigital.vn/hls/LANGSON/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LANGSON/02.m3u8
 lstv lang son 360p
-https://cmcdp2.vtvdigital.vn/hls/LANGSON/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LANGSON/01.m3u8
 bhttv ha tinh 720p
-https://cmcdp2.vtvdigital.vn/hls/HATINH/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/HATINH/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HATINH/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HATINH/03.m3u8
 bhttv ha tinh 480p
-https://cmcdp2.vtvdigital.vn/hls/HATINH/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HATINH/02.m3u8
 bhttv ha tinh 360p
-https://cmcdp2.vtvdigital.vn/hls/HATINH/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HATINH/01.m3u8
 mien tay thdt 2 720p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/03.m3u8
 mien tay thdt 2 480p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/02.m3u8
 mien tay thdt 2 360p
-https://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/DONGTHAP2/01.m3u8
 ltv2 lam dong 720p
-https://cmcdp2.vtvdigital.vn/hls/LAMDONG/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/LAMDONG/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAMDONG/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAMDONG/03.m3u8
 ltv2 lam dong 480p
-https://cmcdp2.vtvdigital.vn/hls/LAMDONG/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAMDONG/02.m3u8
 ltv2 lam dong 360p
-https://cmcdp2.vtvdigital.vn/hls/LAMDONG/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAMDONG/01.m3u8
 atv1 an giang 720p
-https://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
 atv1 an giang 480p
-https://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/02.m3u8
 atv1 an giang 360p
-https://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
 tn thai nguyen 720p
-https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/03.m3u8
 tn thai nguyen 480p
-https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/02.m3u8
 tn thai nguyen 360p
-https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/01.m3u8
 huetv 720p
-https://cmcdp2.vtvdigital.vn/hls/HUE/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/HUE/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HUE/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HUE/03.m3u8
 huetv 480p
-https://cmcdp2.vtvdigital.vn/hls/HUE/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HUE/02.m3u8
 huetv 360p
-https://cmcdp2.vtvdigital.vn/hls/HUE/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/HUE/01.m3u8
 nbtv ninh binh 720p
-https://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/03.m3u8
 nbtv ninh binh 480p
-https://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/02.m3u8
 nbtv ninh binh 360p
-https://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/01.m3u8
 ptv phu tho 720p
-https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/03.m3u8
 ptv phu tho 480p
-https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/02.m3u8
 ptv phu tho 360p
-https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/01.m3u8
 ltv lai chau 720p
-https://cmcdp2.vtvdigital.vn/hls/LAICHAU/index.m3u8
-https://cmcdp2.vtvdigital.vn/hls/LAICHAU/03.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAICHAU/index.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAICHAU/03.m3u8
 ltv lai chau 480p
-https://cmcdp2.vtvdigital.vn/hls/LAICHAU/02.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAICHAU/02.m3u8
 ltv lai chau 360p
-https://cmcdp2.vtvdigital.vn/hls/LAICHAU/01.m3u8
+http://cmcdp2.vtvdigital.vn/hls/LAICHAU/01.m3u8
 
 liveh12.seenow.vn
 dnrt1 da nang 720p
