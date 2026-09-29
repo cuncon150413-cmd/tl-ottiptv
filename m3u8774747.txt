@@ -487,16 +487,12 @@ http://hoatv001.ddns.net/kfucx2
 fm khac
 quang nam radio
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
-hue radio
-http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 thai nguyen radio
 https://radio.thainguyentv.vn/hls/livestream.m3u8
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
 gia lai radio
 http://14.224.130.186:8000/binhdinh
-vov giao thong
-https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 vov giao thong ha noi
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8
 http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
@@ -508,7 +504,6 @@ vov giao thong me kong
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 vov giao tohng duyen hai
-https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 vov1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
@@ -548,6 +543,7 @@ http://14.162.146.90:8000/HANOI90
 hanoi96
 http://222.252.21.96:8000/HANOI96
 
+media01.dxtgroup.vn:8000
 quang ngai
 http://media01.dxtgroup.vn:8000/quangngai
 vov1
@@ -566,8 +562,8 @@ thvl audio
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 binh duong radio
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-lao cai radio
-http://sohoa.truyenthanhthongminh.vn/sohoatinhlaocai
+ha nam radio
+http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam
 binh phuoc radio
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
 nam dinh radio
@@ -784,6 +780,52 @@ https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446
 vietnam today hd
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
 
+trtlive.f77de468.cdnviet.com
+hue radio
+http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
+http://trtlive.f77de468.cdnviet.com/Radio-online/chunklist.m3u8
+huetv
+http://trtlive.f77de468.cdnviet.com/TRT-online/playlist.m3u8
+http://trtlive.f77de468.cdnviet.com/TRT-online/chunklist.m3u8
+
+live.trt.com.vn
+hue radio
+http://live.trt.com.vn/Radio-online/playlist.m3u8
+http://live.trt.com.vn/Radio-online/chunklist.m3u8
+huetv
+http://live.trt.com.vn/TRT-online/playlist.m3u8
+http://live.trt.com.vn/TRT-online/chunklist.m3u8
+
+live.huetv.com.vn
+hue radio
+https://live.huetv.com.vn/Radio-online/playlist.m3u8
+https://live.huetv.com.vn/Radio-online/chunklist.m3u8
+huetv
+https://live.huetv.com.vn/TRT-online/playlist.m3u8
+https://live.huetv.com.vn/TRT-online/chunklist.m3u8
+
+64d0d74b76158.streamlock.net
+thdt1 720p
+https://64d0d74b76158.streamlock.net/THDT/thdttv/chunklist_w281265982.m3u8
+https://64d0d74b76158.streamlock.net/THDT/thdttv/playlist.m3u8
+thdt2 qhd 960x540
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w1481168679.m3u8
+thdt radio
+https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
+https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
+
+618b88f69e53b.streamlock.net
+thdt1 720p
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w281265982.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+thdt2 qhd 960x540
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1481168679.m3u8
+thdt radio
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
+
 live.canthotv.vn
 can tho 1 hd
 https://live.canthotv.vn/live/tv/chunklist_w9439.m3u8
@@ -818,7 +860,7 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
 http://103.90.220.236/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
-http://103.90.220.236/qtvlive/qnr2.m3u8\
+http://103.90.220.236/qtvlive/qnr2.m3u8
 
 123.31.36.68
 htv2 720x406
@@ -7630,6 +7672,21 @@ https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/chunks.m3u8
 atv1 an giang 720p
 https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/chunks.m3u8
+voh 99,9 mhz
+https://1011154949.vnns.net/htvc/VOH-FM99.9.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/VOH-FM99.9.adm.tms/chunks.m3u8
+voh 95,6 mhz
+https://1011154949.vnns.net/htvc/VOH-FM95.6.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/VOH-FM95.6.adm.tms/chunks.m3u8
+voh 92,5 mhz
+https://1011154949.vnns.net/htvc/VOH-FM92.5.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/VOH-FM92.5.adm.tms/chunks.m3u8
+voh 87,7 mhz
+https://1011154949.vnns.net/htvc/VOH-FM87.7.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/VOH-FM87.7.adm.tms/chunks.m3u8
+voh 610 khz
+https://1011154949.vnns.net/htvc/VOH-AM610.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/VOH-AM610.adm.tms/chunks.m3u8
 
 vtcplay.vn
 vtv1 720p
