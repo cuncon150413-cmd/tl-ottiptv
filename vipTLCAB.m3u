@@ -596,9 +596,9 @@ https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob1348695669
 #EXTINF:-1 tvg-id="danang2" tvg-name="QRT Quảng Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/QRT_logo_01-11-2019.png/revision/latest/scale-to-width-down/4365?cb=20250509181258&path-prefix=vi" group-title="Địa Phương Cũ",QRT Quảng Nam
 https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="quangngai" tvg-name="QNGTV1 Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi" group-title="Địa Phương",QNGTV1 Quảng Ngãi
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/BONGDATV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="quangngai2" tvg-name="QNGTV2 Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest/scale-to-width-down/200?cb=20260114143705&path-prefix=vi" group-title="Địa Phương",QNGTV2 Quảng Ngãi
-https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
+https://1011154949.vnns.net/CDN-FPT02/BONGDATV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="quangtri" tvg-name="QTTV Quảng Trị" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi" group-title="Địa Phương",QTTV Quảng Trị
 https://freem3u.xyz/api/live/play.m3u8?vid=83
 #EXTINF:-1 tvg-id="quangninh1" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu1.png" group-title="Địa Phương",QTV1 Quảng Ninh
