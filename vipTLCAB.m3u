@@ -363,7 +363,7 @@ https://vtvgolive-ott3.vtvdigital.vn/live/bacgiangtv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="BTV1 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/BTV1_logo_02-09-2025_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20250903080711&path-prefix=vi" group-title="Địa Phương Cũ",BTV1 Bình Dương
 https://1011154949.vnns.net/CDN-FPT02/BONGDATV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" tvg-name="BTV2 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/BTV2_HD_logo_28-11-2024_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20241128092858&path-prefix=vi" group-title="Địa Phương Cũ",BTV2 Bình Dương
-https://cdn.jsdelivr.net/gh/cuncon150413-cmd/test@main/C%E1%BA%A3m%20%C6%A0n%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A3%20Th%E1%BB%A9c%20C%C3%B9ng%20T%C3%B4i%20(Original%20Soundtrack)%20(2).mp3
+https://github.com/cuncon150413-cmd/tldigital-ott1/raw/refs/heads/main/iptv/lamdong/sad.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-name="BTV Bình Định" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/BTV_Binh_Dinh_4-3_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/1000?cb=20250703030145&path-prefix=vi" group-title="Địa Phương Cũ",BTV Bình Định
 https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="lamdong2" tvg-name="BTV Bình Thuận" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/BTV_HD_B%C3%ACnh_Thu%E1%BA%ADn_05-2021.png/revision/latest?cb=20230308074519&path-prefix=vi" group-title="Địa Phương Cũ",BTV Bình Thuận
