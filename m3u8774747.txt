@@ -2028,15 +2028,17 @@ vtv10 audio
 https://live.tvon.vn/g2/vtv10/audio/playlist.m3u8
 vietnam today hd
 https://live.tvon.vn/s8/hls/vntoday/index.m3u8
-qpvn
+antv hd
+https://live.tvon.vn/s8/hls/antv/index.m3u8
+sctv2 hd
+https://live.tvon.vn/g4/sctv2/master.m3u8
+
+live.org.sctvonline.vn
+qpvn hd
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/master.m3u8
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/video_ld_compat/playlist.m3u8
 qpvn audio
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/audio/playlist.m3u8
-antv hd
-https://live.tvon.vn/s8/hls/antv/index.m3u8
-sctv2 
-https://live.tvon.vn/g4/sctv2/master.m3u8
 
 dethich.pw
 vtv1 hd
@@ -3147,13 +3149,6 @@ vietnam today 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_360p.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
-hanoitv2 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
-hanoitv2 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-480p.m3u8
-hanoitv2 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 ctv ca mau 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
@@ -3189,20 +3184,6 @@ vtv5 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv8 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-720p.m3u8
-vtv8 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
-vtv8 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vietnam today 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-vietnam today 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
-vietnam today 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 stv son la 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -3221,13 +3202,6 @@ vtvgo event 3
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-360p.m3u8
 
 events.vtvdigital.vn
-hanoitv2 720p
-https://events.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
-https://events.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
-hanoitv2 480p
-https://events.vtvdigital.vn/kenhdp/hanoi2-480p.m3u8
-hanoitv2 360p
-https://events.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 ctv ca mau 720p
 https://events.vtvdigital.vn/kenhdp/camau-manifest.m3u8
 https://events.vtvdigital.vn/kenhdp/camau-720p.m3u8
@@ -3263,20 +3237,6 @@ vtv5 480p
 https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv8 720p
-https://events.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv8-720p.m3u8
-vtv8 480p
-https://events.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
-vtv8 360p
-https://events.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vietnam today 720p
-https://events.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-vietnam today 480p
-https://events.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
-vietnam today 360p
-https://events.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 stv son la 720p
 https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -3295,13 +3255,6 @@ vtvgo event 3
 https://events.vtvdigital.vn/livestream/eplus-360p.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
-hanoitv2 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
-hanoitv2 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-480p.m3u8
-hanoitv2 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 ctv ca mau 720p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/camau-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/camau-720p.m3u8
@@ -3337,20 +3290,6 @@ vtv5 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv8 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-720p.m3u8
-vtv8 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
-vtv8 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vietnam today 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-vietnam today 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
-vietnam today 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 stv son la 720p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -3369,13 +3308,6 @@ vtvgo event 3
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-360p.m3u8
 
 vtvgolive-qt.vtvdigital.vn
-hanoitv2 720p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/hanoi2-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/hanoi2-720p.m3u8
-hanoitv2 480p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/hanoi2-480p.m3u8
-hanoitv2 360p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/hanoi2-360p.m3u8
 ctv ca mau 720p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/camau-manifest.m3u8
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/camau-720p.m3u8
@@ -3411,20 +3343,6 @@ vtv5 480p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtv8 720p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv8-720p.m3u8
-vtv8 480p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv8-480p.m3u8
-vtv8 360p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv8-360p.m3u8
-vietnam today 720p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-vietnam today 480p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vietnamtoday-480p.m3u8
-vietnam today 360p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vietnamtoday-360p.m3u8
 stv son la 720p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
