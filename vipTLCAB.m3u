@@ -830,7 +830,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=134
 #EXTINF:-1 tvg-id="cantho3" tvg-name="STV1 Sóc Trăng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/STV1_HD_logo_2016-2025.png/revision/latest/scale-to-width-down/1000?cb=20230306104611&path-prefix=vi" group-title="Địa Phương Cũ",STV1 Sóc Trăng
 https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 tvg-id="sonla" tvg-name="STV Sơn La" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20250626171925&path-prefix=vi" group-title="Địa Phương",STV Sơn La
-https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 #EXTINF:-1 tvg-id="tayninh1" tvg-name="TN Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/TN_Tay_Ninh_logo.png/revision/latest/scale-to-width-down/200?cb=20251224165755&path-prefix=vi" group-title="Địa Phương",TN Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-id="tayninh2" tvg-name="TTV2 Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/TTV2_Tay_Ninh.png/revision/latest/scale-to-width-down/1200?cb=20250704141723&path-prefix=vi" group-title="Địa Phương Cũ",TTV2 Tây Ninh
