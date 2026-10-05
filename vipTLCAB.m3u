@@ -24,13 +24,13 @@ https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755" group-title="VTV",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="Thiết Yếu",VTVgo Event 1
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVgo Event 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="Thiết Yếu",VTVgo Event 2
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVgo Event 2
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="Thiết Yếu",VTVgo Event 3
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-name="vtvgo event" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVgo Event 3
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
+
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh CAND
@@ -45,9 +45,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="vnptpromo" tvg-name="vnpt promo" tvg-logo="https://s935.cdn.mytvnet.vn/vimages/85/52/2c/cd/d8/8f/852cd-pknh0-channel-unkn.png" group-title="Thiết Yếu",VNPT PROMO
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="tv360promo" tvg-name="tv360 promo" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png" group-title="Thiết Yếu",TV360 PROMO
-https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
+#EXTINF:-1 tvg-id="tv360promo" tvg-name="tv360 promo" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png" group-title="Thiết Yếu",TV360 PROMO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 tvg-id="tv360plus1" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -132,9 +133,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-15
 #EXTINF:-1 group-title="TV360" tvg-logo="https://vtv.gov.vn/uploads/ketnoi/352/vtvnet/2024/thang-1/tv360-logo.png", TV360 Bóng Chuyền
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=9965
-#EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:-1 tvg-id="dienbien" tvg-name="ĐTV Điện Biên" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/%C4%90TV_logo_2019.png/revision/latest?cb=20220225073050&path-prefix=vi" group-title="Chúc Mừng Sinh Nhật Reyducky 4/10-6/10",ĐTV Điện Biên (1080p) (MediaTech)
 https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8
@@ -358,9 +356,9 @@ https://cdn.baoquangninh.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m
 https://cdn.baoquangninh.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fptplay01" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 1
-https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="fptplay02" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 2
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="fptplay02" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 2
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fptplay03" tvg-name="fpt play channel 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 3
 https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="fptplaysk1" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 1
