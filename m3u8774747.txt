@@ -5240,6 +5240,70 @@ on home shopping 360p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 
+vng-live-cdn.seenow.vn
+vtv1 hd
+https://vng-live-cdn.seenow.vn/mean/VTV1_HD/index.m3u8
+https://vng-live-cdn.seenow.vn/onplus/VTV1_HD/index.m3u8
+https://vng-live-cdn.seenow.vn/mean/VTV1_HD/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/onplus/VTV1_HD/v3_index.m3u8
+vtv1 720p
+https://vng-live-cdn.seenow.vn/mean/VTV1_HD/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/onplus/VTV1_HD/v2_index.m3u8
+vtv1 480p
+https://vng-live-cdn.seenow.vn/mean/VTV1_HD/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/onplus/VTV1_HD/v1_index.m3u8
+vtv1 360p
+https://vng-live-cdn.seenow.vn/mean/VTV1_HD/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/onplus/VTV1_HD/v0_index.m3u8
+vtv8 hd
+https://vng-live-cdn.seenow.vn/mean/VTV8_HD/index.m3u8
+https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+vtv8 720p
+https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+vtv8 480p
+https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+vtv8 360p
+https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+antv hd
+https://vng-live-cdn.seenow.vn/mean/ANNINHTV/index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+antv 720p
+https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+antv 480p
+https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+antv 360p
+https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+qpvn 540p
+https://vng-live-cdn.seenow.vn/mean/QPTV/index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+qpvn 360p
+https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+qpvn 270p
+https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+on home shopping hd
+https://vng-live-cdn.seenow.vn/mean/VTVCAB13/index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+on home shopping 720p
+https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+on home shopping 480p
+https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+on home shopping 360p
+https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+
 livesct.vtvprime.vn
 vtv1 hd
 https://livesct.vtvprime.vn/mean/VTV1_HD/index.m3u8

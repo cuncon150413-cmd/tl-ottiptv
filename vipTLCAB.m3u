@@ -357,9 +357,11 @@ https://cdn.baoquangninh.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m
 #EXTINF:-1 tvg-id="dienbienradio" tvg-name="fm" tvg-logo="" group-title="Chúc Mừng Sinh Nhật Reyducky 4/10-6/10",Điện BIên 98 mhz
 https://cdn.baoquangninh.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play
-https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fptplaylogin" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Login
+#EXTINF:-1 tvg-id="fptplay01" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 1
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="fptplay02" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 2
+https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="fptplay03" tvg-name="fpt play channel 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 3
 https://livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="fptplaysk1" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
@@ -830,7 +832,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=134
 #EXTINF:-1 tvg-id="cantho3" tvg-name="STV1 Sóc Trăng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/STV1_HD_logo_2016-2025.png/revision/latest/scale-to-width-down/1000?cb=20230306104611&path-prefix=vi" group-title="Địa Phương Cũ",STV1 Sóc Trăng
 https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 tvg-id="sonla" tvg-name="STV Sơn La" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20250626171925&path-prefix=vi" group-title="Địa Phương",STV Sơn La
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" tvg-name="TN Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/TN_Tay_Ninh_logo.png/revision/latest/scale-to-width-down/200?cb=20251224165755&path-prefix=vi" group-title="Địa Phương",TN Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-id="tayninh2" tvg-name="TTV2 Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/TTV2_Tay_Ninh.png/revision/latest/scale-to-width-down/1200?cb=20250704141723&path-prefix=vi" group-title="Địa Phương Cũ",TTV2 Tây Ninh
