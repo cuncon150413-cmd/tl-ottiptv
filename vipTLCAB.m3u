@@ -541,7 +541,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/H2_HD_logo_2016.png/revision/latest/scale-to-width-down/200?cb=20250128094827&path-prefix=vi" group-title="Địa Phương",HanoiTV2 Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:-1 tvg-id="hanoi2" tvg-name="HTV Hà Tây" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/HTV_Ha_Tay_logo_alt_tr%C6%B0%E1%BB%9Bc_2008.png/revision/latest?cb=20240723055303&path-prefix=vi" group-title="Địa Phương Cũ",HTV Hà Tây
-https://s1-fpt-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/aUs2yzd54CKldpIg/1/1080.m3u8
+https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-name="BHTTV Hà Tĩnh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/BHTTV_logo.svg/revision/latest/scale-to-width-down/300?cb=20260307142310" group-title="Địa Phương",BHTTV Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="haiphong3" tvg-name="THD Hải Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/HDTV_2023-2025.png/revision/latest/scale-to-width-down/1000?cb=20230925025249&path-prefix=vi" group-title="Địa Phương Cũ",THD Hải Dương
@@ -561,9 +561,9 @@ https://live.mediatech.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u
 #EXTINF:-1 tvg-id="hungyen" tvg-name="HYTV Hưng Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HY_logo_2020.png/revision/latest/scale-to-width-down/985?cb=20221103132355&path-prefix=vi" group-title="Địa Phương",HYTV Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" tvg-name="KTV Khánh Hòa" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260104081252&path-prefix=vi" group-title="Địa Phương",KTV Khánh Hòa
-https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
+https://freem3u.xyz/api/live/play.m3u8?vid=65
 #EXTINF:-1 tvg-id="khanhhoa1" tvg-name="KTV1 Khánh Hòa" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/KTV1_logo.png/revision/latest/scale-to-width-down/1000?cb=20260101114305&path-prefix=vi" group-title="Địa Phương",KTV1 Khánh Hòa
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+https://freem3u.xyz/api/live/play.m3u8?vid=76
 #EXTINF:-1 tvg-id="quangngai2" tvg-name="KRT Kon Tum" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/KRT_Kon_Tum_c%C3%B3_website.png/revision/latest/scale-to-width-down/1200?cb=20211022134338&path-prefix=vi" group-title="Địa Phương Cũ",KRT Kon Tum
 https://dethich.pw/quangngai2/index.m3u8
 #EXTINF:-1 tvg-id="laichau" tvg-name="LTV Lai Châu" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/Logo_LTV_Lai_Ch%C3%A2u_19-01-2022_%28c%C3%B3_website%29.png/revision/latest/scale-to-width-down/1000?cb=20220120004832&path-prefix=vi" group-title="Địa Phương",LTV Lai Châu
@@ -586,6 +586,8 @@ https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/ninhbinh/tothanhdz-live-1
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa Phương",NBTV Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa1" tvg-name="NTV Ninh Thuận" tvg-logo="NTV Ninh Thuận" group-title="Địa Phương Cũ",NTV Ninh Thuận
+https://tv.vietanhtv.top/vieon/vieon.php?id=ninh-thuan-1
 #EXTINF:-1 tvg-id="phutho" tvg-name="PTV Phú Thọ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/PTV_Ph%C3%BA_Th%E1%BB%8D.png/revision/latest?cb=20231214124447&path-prefix=vi" group-title="Địa Phương",PTV Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="daklak" tvg-name="PTP Phú Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest/scale-to-width-down/1000?cb=20211202141521&path-prefix=vi" group-title="Địa Phương Cũ",PTP Phú Yên
@@ -620,6 +622,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=90
 https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
+#EXTINF:-1 tvg-id="vinhlong5" tvg-name="THTV Trà Vinh" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/THTV_HD_logo_2018-2025.png/revision/latest/scale-to-width-down/1000?cb=20220403052316&path-prefix=vi" group-title="Địa Phương Cũ",THTV Trà Vinh
+https://tv.vietanhtv.top/vieon/vieon.php?id=tra-vinh-1
 
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
@@ -1146,7 +1150,7 @@ https://cdn.baoquangninh.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m
 #EXTINF:-1 tvg-id="ngheanradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Nghệ An
 https://cdn.baoquangninh.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 #EXTINF:-1 tvg-id="ngheanradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Nghệ An
-http://media01.dxtgroup.vn:8000/quangtri
+http://media01.dxtgroup.vn:8000/nghean
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Ninh Bình
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Ninh Bình
