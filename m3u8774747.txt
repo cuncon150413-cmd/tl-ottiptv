@@ -248,18 +248,13 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4
 
 hanoionline.vn
 hanoitv1 hd
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
-hanoitv1 sd
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2147144317_b1064000_slen.m3u8
+https://s1-nps-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/XWitszo0s8R1v4os/1/1080.m3u8
 hanoitv2 hd
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-hanoitv2 sd
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w1272318303_b1064000_slen.m3u8
+https://s1-fpt-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/aUs2yzd54CKldpIg/1/1080.m3u8
 fm90
-https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+https://s1-fpt-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/7PmmRMtYiIee2tzI/1/144.m3u8
 fm96
-https://cloudcdnfm90.tek4tv.vn/HANOI96/index.m3u8
-https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+https://s1-nps-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/FDoPm7Hhwfpq7a3r/1/144.m3u8
 
 quangngaitv.vn
 qngtv1 hd
@@ -275,6 +270,7 @@ https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u
 baocamau.vn
 ctv 720p
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://118.69.84.203/live/tv/tv.m3u8
 
 caobangtv.vn
 crtv 640x360
@@ -2231,6 +2227,34 @@ vtv3 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv3_paid/live/vtv3_720p/chunks.m3u8
 vtv3 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv3_paid/live/vtv3_480p/chunks.m3u8
+vtv4 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv4_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv4_paid/live/vtv4_1080p/chunks.m3u8
+vtv4 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv4_paid/live/vtv4_720p/chunks.m3u8
+vtv4 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv4_paid/live/vtv4_480p/chunks.m3u8
+vtv5 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5_paid/live/vtv5_1080p/chunks.m3u8
+vtv5 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5_paid/live/vtv5_720p/chunks.m3u8
+vtv5 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5_paid/live/vtv5_480p/chunks.m3u8
+vtv5 tay nam bo hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tnb_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tnb_paid/live/vtv5tnb_1080p/chunks.m3u8
+vtv5 tay nam bo 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tnb_paid/live/vtv5tnb_720p/chunks.m3u8
+vtv5 tay nam bo 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tnb_paid/live/vtv5tnb_480p/chunks.m3u8
+vtv5 tay nguyen hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tn_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tn_paid/live/vtv5tn_1080p/chunks.m3u8
+vtv5 tay nguyen 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tn_paid/live/vtv5tn_720p/chunks.m3u8
+vtv5 tay nguyen 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv5tn_paid/live/vtv5tn_480p/chunks.m3u8
 vtv6 hd
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv6_paid/playlist.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv6_paid/live/vtv6_1080p/chunks.m3u8
@@ -2238,6 +2262,41 @@ vtv6 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv6_paid/live/vtv6_720p/chunks.m3u8
 vtv6 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws/vtv6_paid/live/vtv6_480p/chunks.m3u8
+vtv7 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv7_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv7_paid/live/vtv7_1080p/chunks.m3u8
+vtv7 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv7_paid/live/vtv7_720p/chunks.m3u8
+vtv7 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv7_paid/live/vtv7_480p/chunks.m3u8
+vtv8 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv8_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv8_paid/live/vtv8_1080p/chunks.m3u8
+vtv8 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv8_paid/live/vtv8_720p/chunks.m3u8
+vtv8 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv8_paid/live/vtv8_480p/chunks.m3u8
+vtv9 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv9_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv9_paid/live/vtv9_1080p/chunks.m3u8
+vtv9 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv9_paid/live/vtv9_720p/chunks.m3u8
+vtv9 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv9_paid/live/vtv9_480p/chunks.m3u8
+vtv10 hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv10_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv10_paid/live/vtv10_1080p/chunks.m3u8
+vtv10 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv10_paid/live/vtv10_720p/chunks.m3u8
+vtv10 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vtv10_paid/live/vtv10_480p/chunks.m3u8
+vietnam today hd
+https://d3006k9ptxe2oq.cloudfront.net/aws/vntd_paid/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws/vntd_paid/live/vntd_1080p/chunks.m3u8
+vietnam today 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vntd_paid/live/vntd_720p/chunks.m3u8
+vietnam today 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws/vntd_paid/live/vntd_480p/chunks.m3u8
 vtvgo event 1 hd
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/playlist.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
@@ -2252,6 +2311,81 @@ vtvgo event 2 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_2_paid/live/asiad_2_720p/chunks.m3u8
 vtvgo event 2 480p
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_2_paid/live/asiad_2_480p/chunks.m3u8
+htv9 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hcmtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hcmtv/live/hcmtv_720p/chunks.m3u8
+htv9 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hcmtv/live/hcmtv_480p/chunks.m3u8
+gtv gia lai 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/gialaitv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/gialaitv/live/gialaitv_720p/chunks.m3u8
+gtv gia lai 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/gialaitv/live/gialaitv_480p/chunks.m3u8
+hanoitv1 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi1tv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi1tv/live/hanoi1tv_720p/chunks.m3u8
+hanoitv1 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi1tv/live/hanoi1tv_480p/chunks.m3u8
+hanoitv2 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi2tv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi2tv/live/hanoi2tv_720p/chunks.m3u8
+hanoitv2 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hanoi2tv/live/hanoi2tv_480p/chunks.m3u8
+antv 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/antv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/antv/live/antv_720p/chunks.m3u8
+antv 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/antv/live/antv_480p/chunks.m3u8
+atv1 an giang 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/angiangtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/angiangtv/live/angiangtv_720p/chunks.m3u8
+atv1 an giang 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/angiangtv/live/angiangtv_480p/chunks.m3u8
+btv bac ninh 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/bacninhtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/bacninhtv/live/bacninhtv_720p/chunks.m3u8
+btv bac ninh 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/bacninhtv/live/bacninhtv_480p/chunks.m3u8
+ctv ca mau 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/camautv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/camautv/live/camautv_720p/chunks.m3u8
+ctv ca mau 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/camautv/live/camautv_480p/chunks.m3u8
+dnrt1 da nang 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/danangtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/danangtv/live/danangtv_720p/chunks.m3u8
+dnrt1 da nang 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/danangtv/live/danangtv_480p/chunks.m3u8
+thdt dong thap 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongthaptv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongthaptv/live/dongthaptv_720p/chunks.m3u8
+thdt dong thap 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongthaptv/live/dongthaptv_480p/chunks.m3u8
+thp hai phong 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/haiphongtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/haiphongtv/live/haiphongtv_720p/chunks.m3u8
+thp hai phong 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/haiphongtv/live/haiphongtv_480p/chunks.m3u8
+hytv hung yen 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hungyentv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hungyentv/live/hungyentv_720p/chunks.m3u8
+hytv hung yen 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/hungyentv/live/hungyentv_480p/chunks.m3u8
+huetv 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/huetv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/huetv/live/huetv_720p/chunks.m3u8
+huetv 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/huetv/live/huetv_480p/chunks.m3u8
+can tho 1 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/cantho1tv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/cantho1tv/live/cantho1tv_720p/chunks.m3u8
+can tho 1 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/cantho1tv/live/cantho1tv_480p/chunks.m3u8
+dnnrtv1 dong nai 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
+dnnrtv1 dong nai 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
 
 vtvgoliveapp1-aws-plus-tn.vtvdigital.vn
 vtv1 hd
@@ -2275,6 +2409,34 @@ vtv3 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv3_paid/live/vtv3_720p/chunks.m3u8
 vtv3 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv3_paid/live/vtv3_480p/chunks.m3u8
+vtv4 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv4_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv4_paid/live/vtv3_1080p/chunks.m3u8
+vtv4 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv4_paid/live/vtv3_720p/chunks.m3u8
+vtv4 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv4_paid/live/vtv3_480p/chunks.m3u8
+vtv5 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/live/vtv5_1080p/chunks.m3u8
+vtv5 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/live/vtv5_720p/chunks.m3u8
+vtv5 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/live/vtv5_480p/chunks.m3u8
+vtv5 tay nam bo hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/live/vtv5tnb_1080p/chunks.m3u8
+vtv5 tay nam bo 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/live/vtv5tnb_720p/chunks.m3u8
+vtv5 tay nam bo 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/live/vtv5tnb_480p/chunks.m3u8
+vtv5 tay nguyen hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/live/vtv5tn_1080p/chunks.m3u8
+vtv5 tay nguyen 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/live/vtv5tn_720p/chunks.m3u8
+vtv5 tay nguyen 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/live/vtv5tn_480p/chunks.m3u8
 vtv6 hd
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/live/vtv6_1080p/chunks.m3u8
@@ -2282,6 +2444,41 @@ vtv6 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/live/vtv6_720p/chunks.m3u8
 vtv6 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/live/vtv6_480p/chunks.m3u8
+vtv7 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/live/vtv7_1080p/chunks.m3u8
+vtv7 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/live/vtv7_720p/chunks.m3u8
+vtv7 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/live/vtv7_480p/chunks.m3u8
+vtv8 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/live/vtv8_1080p/chunks.m3u8
+vtv8 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/live/vtv8_720p/chunks.m3u8
+vtv8 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/live/vtv8_480p/chunks.m3u8
+vtv9 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/live/vtv9_1080p/chunks.m3u8
+vtv9 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/live/vtv9_720p/chunks.m3u8
+vtv9 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/live/vtv9_480p/chunks.m3u8
+vtv10 hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/live/vtv10_1080p/chunks.m3u8
+vtv10 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/live/vtv10_720p/chunks.m3u8
+vtv10 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/live/vtv10_480p/chunks.m3u8
+vietnam today hd
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vntd_paid/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vntd_paid/live/vntd_1080p/chunks.m3u8
+vietnam today 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vntd_paid/live/vntd_720p/chunks.m3u8
+vietnam today 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vntd_paid/live/vntd_480p/chunks.m3u8
 vtvgo event 1 hd
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
@@ -2296,6 +2493,81 @@ vtvgo event 2 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_720p/chunks.m3u8
 vtvgo event 2 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_480p/chunks.m3u8
+htv9 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/live/hcmtv_720p/chunks.m3u8
+htv9 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/live/hcmtv_480p/chunks.m3u8
+gtv gia lai 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/gialaitv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/gialaitv/live/gialaitv_720p/chunks.m3u8
+gtv gia lai 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/gialaitv/live/gialaitv_480p/chunks.m3u8
+hanoitv1 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi1tv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi1tv/live/hanoi1tv_720p/chunks.m3u8
+hanoitv1 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi1tv/live/hanoi1tv_480p/chunks.m3u8
+hanoitv2 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/live/hanoi2tv_720p/chunks.m3u8
+hanoitv2 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/live/hanoi2tv_480p/chunks.m3u8
+antv 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/antv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/antv/live/antv_720p/chunks.m3u8
+antv 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/antv/live/antv_480p/chunks.m3u8
+atv1 an giang 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/angiangtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/angiangtv/live/angiangtv_720p/chunks.m3u8
+atv1 an giang 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/angiangtv/live/angiangtv_480p/chunks.m3u8
+btv bac ninh 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/bacninhtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/bacninhtv/live/bacninhtv_720p/chunks.m3u8
+btv bac ninh 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/bacninhtv/live/bacninhtv_480p/chunks.m3u8
+ctv ca mau 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/camautv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/camautv/live/camautv_720p/chunks.m3u8
+ctv ca mau 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/camautv/live/camautv_480p/chunks.m3u8
+dnrt1 da nang 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/danangtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/danangtv/live/danangtv_720p/chunks.m3u8
+dnrt1 da nang 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/danangtv/live/danangtv_480p/chunks.m3u8
+thdt dong thap 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongthaptv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongthaptv/live/dongthaptv_720p/chunks.m3u8
+thdt dong thap 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongthaptv/live/dongthaptv_480p/chunks.m3u8
+thp hai phong 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/haiphongtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/haiphongtv/live/haiphongtv_720p/chunks.m3u8
+thp hai phong 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/haiphongtv/live/haiphongtv_480p/chunks.m3u8
+hytv hung yen 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_720p/chunks.m3u8
+hytv hung yen 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_480p/chunks.m3u8
+huetv 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_720p/chunks.m3u8
+huetv 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_480p/chunks.m3u8
+can tho 1 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_720p/chunks.m3u8
+can tho 1 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_480p/chunks.m3u8
+dnnrtv1 dong nai 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
+dnnrtv1 dong nai 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
 
 vtvgolive-vtv02.vtvdigital.vn
 vtv1 hd
