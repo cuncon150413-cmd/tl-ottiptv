@@ -1372,3 +1372,5 @@ https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/lamdong/sad.m3u8
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/sonla/stv-sonla-fptplay720p.m3u8
 #EXTINF:-1 tvg-id="quangngai2" tvg-name="QNGTV2 Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest/scale-to-width-down/200?cb=20260114143705&path-prefix=vi" group-title="Thử Nghiệm",QNGTV2 Quảng Ngãi
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/dongthap/f4randoc-babikieumypt.m3u8
+#EXTINF:-1 tvg-id="gialai" tvg-name="GTV Gia Lai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi" group-title="Thử Nghiệm",GTV Gia Lai
+https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/gialai/f4-medusa-po-17th06day.m3u8
