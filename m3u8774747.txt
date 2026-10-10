@@ -3584,13 +3584,6 @@ qngtv1 quang ngai 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
-qngtv2 quang ngai 720p
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-qngtv2 quang ngai 480p
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_1.m3u8
-qngtv2 quang ngai 360p
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
@@ -3730,13 +3723,6 @@ qngtv1 quang ngai 480p
 https://ott3.nethubtv.vn/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
 https://ott3.nethubtv.vn/live/quangngaitv/chunklist_0.m3u8
-qngtv2 quang ngai 720p
-https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
-https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
-qngtv2 quang ngai 480p
-https://ott3.nethubtv.vn/live/bentretv/chunklist_1.m3u8
-qngtv2 quang ngai 360p
-https://ott3.nethubtv.vn/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
 https://ott3.nethubtv.vn/live/binhdinhtv/playlist.m3u8
 https://ott3.nethubtv.vn/live/binhdinhtv/chunklist_1.m3u8
@@ -3869,13 +3855,6 @@ qngtv1 quang ngai 480p
 https://ott.avg.vn/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
 https://ott.avg.vn/live/quangngaitv/chunklist_0.m3u8
-qngtv2 quang ngai 720p
-https://ott.avg.vn/live/bentretv/playlist.m3u8
-https://ott.avg.vn/live/bentretv/chunklist_2.m3u8
-qngtv2 quang ngai 480p
-https://ott.avg.vn/live/bentretv/chunklist_1.m3u8
-qngtv2 quang ngai 360p
-https://ott.avg.vn/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
 https://ott.avg.vn/live/binhdinhtv/playlist.m3u8
 https://ott.avg.vn/live/binhdinhtv/chunklist_1.m3u8
@@ -3951,13 +3930,6 @@ qngtv1 quang ngai 480p
 https://zirhmaft3x2vc.cmccdn.net/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
 https://zirhmaft3x2vc.cmccdn.net/live/quangngaitv/chunklist_0.m3u8
-qngtv2 quang ngai 720p
-https://zirhmaft3x2vc.cmccdn.net/live/bentretv/playlist.m3u8
-https://zirhmaft3x2vc.cmccdn.net/live/bentretv/chunklist_2.m3u8
-qngtv2 quang ngai 480p
-https://zirhmaft3x2vc.cmccdn.net/live/bentretv/chunklist_1.m3u8
-qngtv2 quang ngai 360p
-https://zirhmaft3x2vc.cmccdn.net/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
 https://zirhmaft3x2vc.cmccdn.net/live/binhdinhtv/playlist.m3u8
 https://zirhmaft3x2vc.cmccdn.net/live/binhdinhtv/chunklist_1.m3u8
@@ -4090,13 +4062,6 @@ qngtv1 quang ngai 480p
 http://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_1.m3u8
 qngtv1 quang ngai 360p
 http://cmcdp.vtvdigital.vn/live/quangngaitv/chunklist_0.m3u8
-qngtv2 quang ngai 720p
-http://cmcdp.vtvdigital.vn/live/bentretv/playlist.m3u8
-http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-qngtv2 quang ngai 480p
-http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_1.m3u8
-qngtv2 quang ngai 360p
-http://cmcdp.vtvdigital.vn/live/bentretv/chunklist_0.m3u8
 gtv gia lai 480p
 http://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 http://cmcdp.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
@@ -4310,20 +4275,20 @@ ktv1 khanh hoa 480p
 http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 http://cmcdp2.vtvdigital.vn/hls/KHANHHOA1/01.m3u8
+qtv3 quang ninh aac
+https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/index.m3u8
+https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/03.m3u8
 qtv3 quang ninh 720p
-http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/index.m3u8
-http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/03.m3u8
+https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/02.m3u8
 qtv3 quang ninh 480p
-http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
-http://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
-http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/index.m3u8
-http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/03.m3u8
+https://cmcdp2.vtvdigital.vn/hls/QUANGNINH3/01.m3u8
+thp3 hai phong aac
+https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/index.m3u8
+https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
-http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/02.m3u8
+https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/02.m3u8
 thp3 hai phong 360p
-http://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/01.m3u8
+https://cmcdp2.vtvdigital.vn/hls/HAIPHONG3/01.m3u8
 lstv lang son 720p
 http://cmcdp2.vtvdigital.vn/hls/LANGSON/index.m3u8
 http://cmcdp2.vtvdigital.vn/hls/LANGSON/03.m3u8
@@ -4507,14 +4472,14 @@ ktv1 khanh hoa 480p
 https://w2d0548bvazcc.cmccdn.net/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://w2d0548bvazcc.cmccdn.net/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://w2d0548bvazcc.cmccdn.net/hls/QUANGNINH3/index.m3u8
 https://w2d0548bvazcc.cmccdn.net/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://w2d0548bvazcc.cmccdn.net/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://w2d0548bvazcc.cmccdn.net/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://w2d0548bvazcc.cmccdn.net/hls/HAIPHONG3/index.m3u8
 https://w2d0548bvazcc.cmccdn.net/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -4704,14 +4669,14 @@ ktv1 khanh hoa 480p
 https://im4czwkxf7liv.vcdn.cloud/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://im4czwkxf7liv.vcdn.cloud/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://im4czwkxf7liv.vcdn.cloud/hls/QUANGNINH3/index.m3u8
 https://im4czwkxf7liv.vcdn.cloud/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://im4czwkxf7liv.vcdn.cloud/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://im4czwkxf7liv.vcdn.cloud/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://im4czwkxf7liv.vcdn.cloud/hls/HAIPHONG3/index.m3u8
 https://im4czwkxf7liv.vcdn.cloud/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -4901,14 +4866,14 @@ ktv1 khanh hoa 480p
 https://liveh34.seenow.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://liveh34.seenow.vn/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://liveh34.seenow.vn/hls/QUANGNINH3/index.m3u8
 https://liveh34.seenow.vn/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://liveh34.seenow.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://liveh34.seenow.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://liveh34.seenow.vn/hls/HAIPHONG3/index.m3u8
 https://liveh34.seenow.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -5098,14 +5063,14 @@ ktv1 khanh hoa 480p
 https://liveh34.vtvprime.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://liveh34.vtvprime.vn/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh acc
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/index.m3u8
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/index.m3u8
 https://liveh34.vtvprime.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -5295,14 +5260,14 @@ ktv1 khanh hoa 480p
 https://liveh34vng.vtvprime.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://liveh34vng.vtvprime.vn/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://liveh34vng.vtvprime.vn/hls/QUANGNINH3/index.m3u8
 https://liveh34vng.vtvprime.vn/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://liveh34vng.vtvprime.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://liveh34vng.vtvprime.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://liveh34vng.vtvprime.vn/hls/HAIPHONG3/index.m3u8
 https://liveh34vng.vtvprime.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -5492,14 +5457,14 @@ ktv1 khanh hoa 480p
 https://liveh34byt.vtvprime.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://liveh34byt.vtvprime.vn/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://liveh34byt.vtvprime.vn/hls/QUANGNINH3/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://liveh34byt.vtvprime.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://liveh34byt.vtvprime.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://liveh34byt.vtvprime.vn/hls/HAIPHONG3/index.m3u8
 https://liveh34byt.vtvprime.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
@@ -5689,14 +5654,14 @@ ktv1 khanh hoa 480p
 https://cdnet-cdn-03.onsports.vn/hls/KHANHHOA1/02.m3u8
 ktv1 khanh hoa 360p
 https://cdnet-cdn-03.onsports.vn/hls/KHANHHOA1/01.m3u8
-qtv3 quang ninh 720p
+qtv3 quang ninh aac
 https://cdnet-cdn-03.onsports.vn/hls/QUANGNINH3/index.m3u8
 https://cdnet-cdn-03.onsports.vn/hls/QUANGNINH3/03.m3u8
-qtv3 quang ninh 480p
+qtv3 quang ninh 720p
 https://cdnet-cdn-03.onsports.vn/hls/QUANGNINH3/02.m3u8
-qtv3 quang ninh 360p
+qtv3 quang ninh 480p
 https://cdnet-cdn-03.onsports.vn/hls/QUANGNINH3/01.m3u8
-thp3 hai phong 720p
+thp3 hai phong aac
 https://cdnet-cdn-03.onsports.vn/hls/HAIPHONG3/index.m3u8
 https://cdnet-cdn-03.onsports.vn/hls/HAIPHONG3/03.m3u8
 thp3 hai phong 480p
