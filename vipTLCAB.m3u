@@ -7,7 +7,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_56000
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/VTV3_logo_%282026-nay%29.png/revision/latest?cb=20260907124850&path-prefix=vi" group-title="VTV",VTV3
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2c/VTV4_logo_%282026-nay%29.png/revision/latest?cb=20260907125330&path-prefix=vi" group-title="VTV",VTV4
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/VTV5_logo_%282026-nay%29.png/revision/latest?cb=20261001010040&path-prefix=vi" group-title="VTV",VTV5
 https://freem3u.xyz/api/live/play.m3u8?vid=110
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="vtv5 tây nam bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV5_T%C3%A2y_Nam_B%E1%BB%99_logo_2026.png/revision/latest?cb=20261001010142&path-prefix=vi" group-title="VTV",VTV5 Tây Nam Bộ
@@ -133,8 +133,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-15
 #EXTINF:-1 tvg-id="fptplay01" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 1
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="fptplay02" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 2
-https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fptplay03" tvg-name="fpt play channel 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play 3
 https://vips-livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 #EXTINF:-1 tvg-id="fptplaysk1" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Sự Kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8

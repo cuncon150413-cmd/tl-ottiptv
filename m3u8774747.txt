@@ -246,16 +246,6 @@ cinemaworldtv hd
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
 
-hanoionline.vn
-hanoitv1 hd
-https://s1-nps-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/XWitszo0s8R1v4os/1/1080.m3u8
-hanoitv2 hd
-https://s1-fpt-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/aUs2yzd54CKldpIg/1/1080.m3u8
-fm90
-https://s1-fpt-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/7PmmRMtYiIee2tzI/1/144.m3u8
-fm96
-https://s1-nps-cdn.sohatv.vn/live/pull/e1Gfed5kRrNHcJOT/hanoi-online-live/FDoPm7Hhwfpq7a3r/1/144.m3u8
-
 quangngaitv.vn
 qngtv1 hd
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
@@ -313,7 +303,7 @@ https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
 
 gialaitv.vn
-gtv hd
+gtv 720p
 https://tv.gialaitv.vn/tv.m3u8
 gtv radio
 https://tv.gialaitv.vn/radio.m3u8
@@ -321,10 +311,8 @@ https://tv.gialaitv.vn/radio.m3u8
 baohatinh.vn
 bhttv 720p
 https://live.baohatinh.vn/httv1/index.m3u8
-https://live.baohatinh.vn/httv1/httv1.m3u8
 bhttv radio
 https://live.baohatinh.vn/voht/index.m3u8
-https://live.baohatinh.vn/voht/voht.m3u8
 
 thhp.vn
 thp hd
@@ -360,17 +348,18 @@ https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 
 baokhanhhoa.vn
 ktv hd
-https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
+https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
 ktv1 hd
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
 fm106,5
-https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
+https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8
 fm95
-https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
+https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8
 
 huetv.com.vn
 huetv hd
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 radio hue
 https://live.huetv.com.vn/Radio-online/playlist.m3u8
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
@@ -390,7 +379,7 @@ https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u
 
 baolaocai.vn
 thlc hd
-https://live.baolaocai.vn/channel2/stream.m3u8
+https://live.baolaocai.vn/channel2/stream.m3u8?t=1
 
 baolamdong.vn
 ltv1
@@ -447,21 +436,12 @@ vov giao thong
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 
 m3u8 khac
-vtv1 360p
-https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 bhttv ha tinh 720p
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
-ctv ca mau 720p
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-mien tay thdt2 960x540
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
-huetv 720p
-https://live.trt.com.vn/TRT-Online/playlist.m3u8
-http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+bhttv radio
+https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
 tvb viet nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-can tho 1 hd
-https://tv.canthotv.vn/live/tv/tv.m3u8 
 antv 720x576
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 tn1 thai nguyen 720p
@@ -479,6 +459,10 @@ vietnam today 360p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 viet nam 360 hd
 http://hoatv001.ddns.net/kfucx2
+gtv 720p
+http://113.161.25.3/tv.m3u8
+gtv radio
+http://113.161.25.3/radio.m3u8
 
 fm khac
 quang nam radio
