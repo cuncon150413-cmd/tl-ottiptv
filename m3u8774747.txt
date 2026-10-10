@@ -5791,52 +5791,71 @@ https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://cdnet-cdn-01.onsports.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://cdnet-cdn-01.onsports.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://cdnet-cdn-01.onsports.vn/mean/VTVCAB13/index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://cdnet-cdn-01.onsports.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://cdnet-cdn-01.onsports.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://cdnet-cdn-01.onsports.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://cdnet-cdn-01.onsports.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://cdnet-cdn-01.onsports.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 livevlisctcdnw.seenow.vn
 vtv1 hd
@@ -5865,52 +5884,71 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://livevlisctcdnw.seenow.vn/mean/VTV8_HD/index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://livevlisctcdnw.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://livevlisctcdnw.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://livevlisctcdnw.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://livevlisctcdnw.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://livevlisctcdnw.seenow.vn/mean/QPTV/index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://livevlisctcdnw.seenow.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://livevlisctcdnw.seenow.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://livevlisctcdnw.seenow.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://livevlisctcdnw.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 vtvgolive-onevtv.vtvdigital.vn
 vtv1 hd
@@ -5939,52 +5977,71 @@ https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV8_HD/index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://vtvgolive-onevtv.vtvdigital.vn/mean/ANNINHTV/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/QPTV/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://vtvgolive-onevtv.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-onevtv.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-onevtv.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 vng-live-cdn.seenow.vn
 vtv1 hd
@@ -6013,52 +6070,71 @@ https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://vng-live-cdn.seenow.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://vng-live-cdn.seenow.vn/mean/VTV8_HD/index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://vng-live-cdn.seenow.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://vng-live-cdn.seenow.vn/mean/ANNINHTV/index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://vng-live-cdn.seenow.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://vng-live-cdn.seenow.vn/mean/QPTV/index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://vng-live-cdn.seenow.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://vng-live-cdn.seenow.vn/mean/VTVCAB13/index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://vng-live-cdn.seenow.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://vng-live-cdn.seenow.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://vng-live-cdn.seenow.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 livesct.vtvprime.vn
 vtv1 hd
@@ -6087,52 +6163,71 @@ https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://livesct.vtvprime.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://livesct.vtvprime.vn/mean/VTV8_HD/index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://livesct.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://livesct.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://livesct.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://livesct.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://livesct.vtvprime.vn/mean/ANNINHTV/index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://livesct.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://livesct.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://livesct.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://livesct.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://livesct.vtvprime.vn/mean/QPTV/index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://livesct.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://livesct.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://livesct.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://livesct.vtvprime.vn/mean/VTVCAB13/index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://livesct.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://livesct.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://livesct.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://livesct.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://livesct.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 vtvgolive-vtvcab.vtvdigital.vn
 vtv1 hd
@@ -6161,52 +6256,71 @@ https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/QPTV/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTVCAB13/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://vtvgolive-vtvcab.vtvdigital.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://vtvgolive-vtvcab.vtvdigital.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://vtvgolive-vtvcab.vtvdigital.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 livesctvng.vtvprime.vn
 vtv1 hd
@@ -6235,52 +6349,257 @@ https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
 https://livesctvng.vtvprime.vn/livesnv2/VTV1_HD/v0_index.m3u8
 vtv8 hd
 https://livesctvng.vtvprime.vn/mean/VTV8_HD/index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://livesctvng.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 vtv8 720p
 https://livesctvng.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
 vtv8 480p
 https://livesctvng.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
 vtv8 360p
 https://livesctvng.vtvprime.vn/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
 antv hd
 https://livesctvng.vtvprime.vn/mean/ANNINHTV/index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ANNINHTV/index.m3u8
 https://livesctvng.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
 antv 720p
 https://livesctvng.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
 antv 480p
 https://livesctvng.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
 antv 360p
 https://livesctvng.vtvprime.vn/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
 qpvn 540p
 https://livesctvng.vtvprime.vn/mean/QPTV/index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/QPTV/index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/QPTV/index.m3u8
 https://livesctvng.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/v0_index.m3u8
 qpvn 360p
 https://livesctvng.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/QPTV/v1_index.m3u8
 qpvn 270p
 https://livesctvng.vtvprime.vn/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/QPTV/v2_index.m3u8
 on home shopping hd
 https://livesctvng.vtvprime.vn/mean/VTVCAB13/index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/index.m3u8
 https://livesctvng.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
 on home shopping 720p
 https://livesctvng.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
 on home shopping 480p
 https://livesctvng.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 on home shopping 360p
 https://livesctvng.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
 https://livesctvng.vtvprime.vn/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
+
+jdvjn4e6mvliv.vcdn.cloud
+vtv1 hd
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV1_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/onplus/VTV1_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV1_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/livesnv2/VTV1_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV1_HD/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/onplus/VTV1_HD/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV1_HD/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/livesnv2/VTV1_HD/v3_index.m3u8
+vtv1 720p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV1_HD/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/onplus/VTV1_HD/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV1_HD/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/livesnv2/VTV1_HD/v2_index.m3u8
+vtv1 480p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV1_HD/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/onplus/VTV1_HD/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV1_HD/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/livesnv2/VTV1_HD/v1_index.m3u8
+vtv1 360p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV1_HD/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/onplus/VTV1_HD/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/livesnv2/VTV1_HD/v0_index.m3u8
+vtv8 hd
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV8_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV8_HD/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
+vtv8 720p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
+vtv8 480p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
+vtv8 360p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
+antv hd
+https://jdvjn4e6mvliv.vcdn.cloud/mean/ANNINHTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/ANNINHTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
+antv 720p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
+antv 480p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
+antv 360p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
+qpvn 540p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/QPTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/QPTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/QPTV/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/v0_index.m3u8
+qpvn 360p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/QPTV/v1_index.m3u8
+qpvn 270p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/QPTV/v2_index.m3u8
+on home shopping hd
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTVCAB13/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTVCAB13/index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
+on home shopping 720p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
+on home shopping 480p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
+on home shopping 360p
+https://jdvjn4e6mvliv.vcdn.cloud/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://jdvjn4e6mvliv.vcdn.cloud/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
+
+d37y8dxemvmem0.cloudfront.net
+vtv1 hd
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV1_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/onplus/VTV1_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV1_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/livesnv2/VTV1_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV1_HD/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/onplus/VTV1_HD/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV1_HD/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/livesnv2/VTV1_HD/v3_index.m3u8
+vtv1 720p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV1_HD/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/onplus/VTV1_HD/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV1_HD/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/livesnv2/VTV1_HD/v2_index.m3u8
+vtv1 480p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV1_HD/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/onplus/VTV1_HD/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV1_HD/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/livesnv2/VTV1_HD/v1_index.m3u8
+vtv1 360p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV1_HD/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/onplus/VTV1_HD/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV1_HD/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/livesnv2/VTV1_HD/v0_index.m3u8
+vtv8 hd
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV8_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV8_HD/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
+vtv8 720p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
+vtv8 480p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV8_HD/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV8_HD/v1_index.m3u8
+vtv8 360p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTV8_HD/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
+antv hd
+https://d37y8dxemvmem0.cloudfront.net/mean/ANNINHTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/ANNINHTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/ANNINHTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/ANNINHTV/v3_index.m3u8
+antv 720p
+https://d37y8dxemvmem0.cloudfront.net/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/ANNINHTV/v2_index.m3u8
+antv 480p
+https://d37y8dxemvmem0.cloudfront.net/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/ANNINHTV/v1_index.m3u8
+antv 360p
+https://d37y8dxemvmem0.cloudfront.net/mean/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/ANNINHTV/v0_index.m3u8
+qpvn 540p
+https://d37y8dxemvmem0.cloudfront.net/mean/QPTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/QPTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/QPTV/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/QPTV/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/v0_index.m3u8
+qpvn 360p
+https://d37y8dxemvmem0.cloudfront.net/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/QPTV/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/QPTV/v1_index.m3u8
+qpvn 270p
+https://d37y8dxemvmem0.cloudfront.net/mean/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/QPTV/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/QPTV/v2_index.m3u8
+on home shopping hd
+https://d37y8dxemvmem0.cloudfront.net/mean/VTVCAB13/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/VTVCAB13/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTVCAB13/index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/mean/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v3_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTVCAB13/v3_index.m3u8
+on home shopping 720p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTVCAB13/v2_index.m3u8
+on home shopping 480p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v1_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
+on home shopping 360p
+https://d37y8dxemvmem0.cloudfront.net/mean/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/vtvcabvtvgo/VTVCAB13/sc-gaFEAQ/v0_index.m3u8
+https://d37y8dxemvmem0.cloudfront.net/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
 
 qpvn.vn
 qpvn hd
