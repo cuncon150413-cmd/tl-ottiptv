@@ -465,7 +465,7 @@ quang nam radio
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 thai nguyen radio
 https://radio.thainguyentv.vn/hls/livestream.m3u8
-gia lai radio
+binh dinh radio
 http://14.224.130.186:8000/binhdinh
 vov giao thong ha noi
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
@@ -528,7 +528,7 @@ nghe an
 http://media01.dxtgroup.vn:8000/nghean
 quang tri
 http://media01.dxtgroup.vn:8000/quangtri
-gia lai
+binh dinh
 http://media01.dxtgroup.vn:8000/binhdinh
 hue
 http://media01.dxtgroup.vn:8000/hue
@@ -536,7 +536,7 @@ http://media01.dxtgroup.vn:8000/hue
 sohoa.truyenthanhthongminh.vn
 thvl audio
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
-binh duong radio
+voh 92,5
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
 ha nam radio
 http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam
@@ -552,6 +552,100 @@ tra vinh radio
 http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 can tho radio
 http://sohoa.truyenthanhthongminh.vn/tpcantho
+
+sh.truyenthanhthongminh.vn
+vov1
+http://sh.truyenthanhthongminh.vn/MBFVOV1
+http://sh.truyenthanhthongminh.vn/binhphuocvov
+http://sh.truyenthanhthongminh.vn/vov1
+http://sh.truyenthanhthongminh.vn/vov1_ctkv7
+http://sh.truyenthanhthongminh.vn/vov1iot
+http://sh.truyenthanhthongminh.vn/vov1live
+hung yen
+http://sh.truyenthanhthongminh.vn/hungyen_sohoastr123
+vov giao thong ha noi
+http://sh.truyenthanhthongminh.vn/VOVHN
+binh dinh
+http://sh.truyenthanhthongminh.vn/binhdinh_sh
+dak lak
+http://sh.truyenthanhthongminh.vn/daklak_sohoa1
+da nang
+http://sh.truyenthanhthongminh.vn/dnrt123
+gia lai
+http://sh.truyenthanhthongminh.vn/gialaitv
+qnr quang ninh 1
+http://sh.truyenthanhthongminh.vn/haan_quangninh
+http://sh.truyenthanhthongminh.vn/quangninh_livestr
+nghe an
+http://sh.truyenthanhthongminh.vn/nghean3
+dong thap
+http://sh.truyenthanhthongminh.vn/phatthanh
+quang ngai
+http://sh.truyenthanhthongminh.vn/quangngai_livesstr
+http://sh.truyenthanhthongminh.vn/quangngai_sohoa
+thai nguyen
+http://sh.truyenthanhthongminh.vn/thainguyen123_str
+hue
+http://sh.truyenthanhthongminh.vn/thuathienhue
+lao cai
+http://sh.truyenthanhthongminh.vn/vanban_laocai
+
+sh-tttm.mobifone.vn
+vov1
+https://sh-tttm.mobifone.vn/MBFVOV1
+https://sh-tttm.mobifone.vn/binhphuocvov
+https://sh-tttm.mobifone.vn/smatecvov1s
+https://sh-tttm.mobifone.vn/vov1
+https://sh-tttm.mobifone.vn/vov1-2-restream
+https://sh-tttm.mobifone.vn/vov1_ctkv7
+https://sh-tttm.mobifone.vn/vov1iot
+bac ninh
+https://sh-tttm.mobifone.vn/bacninh2026
+binh dinh
+https://sh-tttm.mobifone.vn/binhdinh_sh
+ca mau
+https://sh-tttm.mobifone.vn/camau_123stream
+https://sh-tttm.mobifone.vn/camau_strlive
+can tho
+https://sh-tttm.mobifone.vn/cantho
+dak lak
+https://sh-tttm.mobifone.vn/daklak_sohoa1
+da nang
+https://sh-tttm.mobifone.vn/dnrt
+https://sh-tttm.mobifone.vn/dnrt123
+dong thap
+https://sh-tttm.mobifone.vn/dongthap02
+https://sh-tttm.mobifone.vn/dongthapnew
+ha tinh
+https://sh-tttm.mobifone.vn/fmhatinh1
+gia lai
+https://sh-tttm.mobifone.vn/gialaitv
+qnr1 quang ninh
+https://sh-tttm.mobifone.vn/haan_quangninh
+https://sh-tttm.mobifone.vn/quangninh_livestr
+https://sh-tttm.mobifone.vn/quangninhfm
+hai phong 93,7mhz 
+https://sh-tttm.mobifone.vn/haiphong2
+https://sh-tttm.mobifone.vn/%C4%90TTHaiphong
+hung yen
+https://sh-tttm.mobifone.vn/hungyen_sohoastr123
+nghe an
+https://sh-tttm.mobifone.vn/nghean3
+qunag binh
+https://sh-tttm.mobifone.vn/quangbinh1
+quang nam
+https://sh-tttm.mobifone.vn/quangnam
+quang hgai
+https://sh-tttm.mobifone.vn/quangngai_livesstr
+https://sh-tttm.mobifone.vn/quangngai_sohoa
+tay ninh
+https://sh-tttm.mobifone.vn/tayninh_12345stre
+thai nguyen
+https://sh-tttm.mobifone.vn/thainguyen123_str
+hue
+https://sh-tttm.mobifone.vn/thuathienhue
+lao cai
+https://sh-tttm.mobifone.vn/vanban_laocai
 
 stream.zeno.fm
 Cherry Radio Nhạc Trẻ
@@ -855,6 +949,16 @@ qnr1 quang ninh 240p
 http://103.90.220.236/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
 http://103.90.220.236/qtvlive/qnr2.m3u8
+
+qtv.vncdn.vn
+qtv1 quang ninh hd
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+qtv3 quang ninh hd
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
 
 123.31.36.68
 htv2 720x406

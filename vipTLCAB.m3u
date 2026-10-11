@@ -647,6 +647,32 @@ http://sohoa.truyenthanhthongminh.vn/BinhPhuoc-VOV1
 https://luuchieu.truyenhinhso.vn/media/live/370CC0DC3538A7A8102A3884/index.m3u8
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 http://media01.dxtgroup.vn:8000/vov1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/MBFVOV1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/binhphuocvov
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/vov1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/vov1_ctkv7
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/vov1iot
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+http://sh.truyenthanhthongminh.vn/vov1live
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/MBFVOV1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/binhphuocvov
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/smatecvov1s
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/vov1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/vov1-2-restream
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/vov1_ctkv7
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/vov1iot
 #EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV2
