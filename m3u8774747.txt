@@ -459,10 +459,6 @@ vietnam today 360p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 viet nam 360 hd
 http://hoatv001.ddns.net/kfucx2
-gtv 720p
-http://113.161.25.3/tv.m3u8
-gtv radio
-http://113.161.25.3/radio.m3u8
 
 fm khac
 quang nam radio
@@ -759,6 +755,24 @@ vtv4 hd
 https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 vietnam today hd
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
+
+tv.gialaitv.vn
+gtv 720p
+https://tv.gialaitv.vn/tv.m3u8
+gtv radio
+https://tv.gialaitv.vn/radio.m3u8
+
+113.161.25.3
+gtv 720p
+http://113.161.25.3/tv.m3u8
+gtv radio
+http://113.161.25.3/radio.m3u8
+
+tldigital-17th06day-tl9648290.duckdns.org
+gtv 720p
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
+gtv ràio
+http://tldigital-17th06day-tl9648290.duckdns.org/radio.m3u8
 
 trtlive.f77de468.cdnviet.com
 hue radio
