@@ -3531,13 +3531,6 @@ can tho 1 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
 can tho 1 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv4 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
-vtv4 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-480p.m3u8
-vtv4 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv4-360p.m3u8
 vtv5 720p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
@@ -3584,13 +3577,6 @@ can tho 1 480p
 https://events.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
 can tho 1 360p
 https://events.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv4 720p
-https://events.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
-vtv4 480p
-https://events.vtvdigital.vn/vtvgo/vtv4-480p.m3u8
-vtv4 360p
-https://events.vtvdigital.vn/vtvgo/vtv4-360p.m3u8
 vtv5 720p
 https://events.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
 https://events.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
@@ -3637,13 +3623,6 @@ can tho 1 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
 can tho 1 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv4 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
-vtv4 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-480p.m3u8
-vtv4 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv4-360p.m3u8
 vtv5 720p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
@@ -3690,13 +3669,6 @@ can tho 1 480p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
 can tho 1 360p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv4 720p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv4-720p.m3u8
-vtv4 480p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv4-480p.m3u8
-vtv4 360p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv4-360p.m3u8
 vtv5 720p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
@@ -3788,13 +3760,6 @@ can tho 1 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
-vtv5 720p
-https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
-https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
-vtv5 480p
-https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
-vtv5 360p
-https://vtvgolive-ott3.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
 hytv hung yen 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/hungyentv/playlist.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/hungyentv/chunklist_1.m3u8
@@ -3932,13 +3897,6 @@ can tho 1 480p
 https://ott3.nethubtv.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://ott3.nethubtv.vn/live/haugiangtv/chunklist_0.m3u8
-vtv5 720p
-https://ott3.nethubtv.vn/live/binhphuoctv/playlist.m3u8
-https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_2.m3u8
-vtv5 480p
-https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_1.m3u8
-vtv5 360p
-https://ott3.nethubtv.vn/live/binhphuoctv/chunklist_0.m3u8
 hytv hung yen 480p
 https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 https://ott3.nethubtv.vn/live/hungyentv/chunklist_1.m3u8
@@ -4069,13 +4027,6 @@ can tho 1 480p
 https://ott.avg.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://ott.avg.vn/live/haugiangtv/chunklist_0.m3u8
-vtv5 720p
-https://ott.avg.vn/live/binhphuoctv/playlist.m3u8
-https://ott.avg.vn/live/binhphuoctv/chunklist_2.m3u8
-vtv5 480p
-https://ott.avg.vn/live/binhphuoctv/chunklist_1.m3u8
-vtv5 360p
-https://ott.avg.vn/live/binhphuoctv/chunklist_0.m3u8
 hytv hung yen 480p
 https://ott.avg.vn/live/hungyentv/playlist.m3u8
 https://ott.avg.vn/live/hungyentv/chunklist_1.m3u8
@@ -4149,13 +4100,6 @@ can tho 1 480p
 https://zirhmaft3x2vc.cmccdn.net/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 https://zirhmaft3x2vc.cmccdn.net/live/haugiangtv/chunklist_0.m3u8
-vtv5 720p
-https://zirhmaft3x2vc.cmccdn.net/live/binhphuoctv/playlist.m3u8
-https://zirhmaft3x2vc.cmccdn.net/live/binhphuoctv/chunklist_2.m3u8
-vtv5 480p
-https://zirhmaft3x2vc.cmccdn.net/live/binhphuoctv/chunklist_1.m3u8
-vtv5 360p
-https://zirhmaft3x2vc.cmccdn.net/live/binhphuoctv/chunklist_0.m3u8
 hytv hung yen 480p
 https://zirhmaft3x2vc.cmccdn.net/live/hungyentv/playlist.m3u8
 https://zirhmaft3x2vc.cmccdn.net/live/hungyentv/chunklist_1.m3u8
@@ -4286,13 +4230,6 @@ can tho 1 480p
 http://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_1.m3u8
 can tho 1 360p
 http://cmcdp.vtvdigital.vn/live/haugiangtv/chunklist_0.m3u8
-vtv5 720p
-http://cmcdp.vtvdigital.vn/live/binhphuoctv/playlist.m3u8
-http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_2.m3u8
-vtv5 480p
-http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_1.m3u8
-vtv5 360p
-http://cmcdp.vtvdigital.vn/live/binhphuoctv/chunklist_0.m3u8
 hytv hung yen 480p
 http://cmcdp.vtvdigital.vn/live/hungyentv/playlist.m3u8
 http://cmcdp.vtvdigital.vn/live/hungyentv/chunklist_1.m3u8
