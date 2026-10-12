@@ -467,57 +467,106 @@ thai nguyen radio
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 binh dinh radio
 http://14.224.130.186:8000/binhdinh
-vov giao thong ha noi
-https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8
-http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-vov giao thong hcm
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8
-http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-vov giao thong me kong
-http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-vov giao tohng duyen hai
-https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
-vov1
-https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
-https://audio-lss.vov.vn/live/vov1.m3u8
-vov2
-http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8
-https://audio-lss.vov.vn/live/vov2.m3u8
-vov3
-http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-https://audio-lss.vov.vn/live/vov3.m3u8
-vov4
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
-https://audio-lss.vov.vn/live/vov4.m3u8
-vov4 mien trung
-http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/chunklist.m3u8
-vov4 dong bang song cuu long
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-vov4 tay nguyen
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-vov4 tay bac
-http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-vov4 hcm
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-vov5
-https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
-https://audio-lss.vov.vn/live/vov5.m3u8
-vov5 247
-http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
-vov6
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 hanoi90
 http://14.162.146.90:8000/HANOI90
 hanoi96
 http://222.252.21.96:8000/HANOI96
+vov1
+http://rdp.longan.gov.vn:3000/so_hoa_vov
+ha tinh
+http://171.244.133.152:8000/hatinh
+
+audio-lss.vov.vn
+vov1
+https://audio-lss.vov.vn/live/vov1.m3u8
+vov2
+https://audio-lss.vov.vn/live/vov2.m3u8
+vov3
+https://audio-lss.vov.vn/live/vov3.m3u8
+vov4
+https://audio-lss.vov.vn/live/vov4.m3u8
+vov5
+https://audio-lss.vov.vn/live/vov5.m3u8
+vov5 247
+https://audio-lss.vov.vn/live/vov24_7.m3u8
+vov giao thong ha noi
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+
+str.vov.gov.vn
+vov1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+vov2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+vov3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+vov4 tay nguyen
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
+vov5
+https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+vov giao thong ha noi
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
+vov giao thong hcm
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
+vov giao thong mekong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+
+stream.vovlive.vn
+vov1
+https://stream.vovlive.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+vov2
+https://stream.vovlive.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+vov3
+https://stream.vovlive.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+vov4 tay nguyen
+https://stream.vovlive.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
+vov5
+https://stream.vovlive.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+vov giao thong ha noi
+https://stream.vovlive.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
+vov giao thong hcm
+https://stream.vovlive.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
+vov giao thong mekong
+https://stream.vovlive.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+
+media.kythuatvov.vn:1936
+vov1
+http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
+vov2
+http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8
+vov3
+http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
+vov4
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+vov4 mien trung
+http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
+vov4 dong bang song cuu long
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+vov4 tay nguyen
+http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/playlist.m3u8
+vov4 tay bac
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/playlist.m3u8
+vov4 hcm
+http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/playlist.m3u8
+vov5
+http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
+vov5 247
+http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
+vov giao thong ha noi
+http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
+vov giao thong hcm
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
+vov giao thong mekong
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+
+play.vovgiaothong.vn
+vov giao thong ha noi
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+vov giao thong hcm
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+vov giao thong me kong
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+vov giao tohng duyen hai
+https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
 media01.dxtgroup.vn:8000
 quang ngai
@@ -646,6 +695,23 @@ hue
 https://sh-tttm.mobifone.vn/thuathienhue
 lao cai
 https://sh-tttm.mobifone.vn/vanban_laocai
+
+icecast.vov.link:8000
+vov1
+http://icecast.vov.link:8000/VOV1
+http://icecast.vov.link:8000/VOV1_DEMO
+bac giang
+http://icecast.vov.link:8000/TBacGiang_PT
+da nang
+http://icecast.vov.link:8000/DaNang
+dien bien
+http://icecast.vov.link:8000/DienBien
+ninh binh
+http://icecast.vov.link:8000/TNinhBinh
+lam dong
+http://icecast.vov.link:8000/TinhLamDong
+thanh hoa
+http://icecast.vov.link:8000/Thanhhoa
 
 stream.zeno.fm
 Cherry Radio Nhạc Trẻ

@@ -630,10 +630,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=88
 https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 tvg-id="thanhhoa" tvg-name="TTV Thanh Hóa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
-https://freem3u.xyz/api/live/play.m3u8?vid=92
 #EXTINF:-1 tvg-id="vinhlong5" tvg-name="THTV Trà Vinh" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/THTV_HD_logo_2018-2025.png/revision/latest/scale-to-width-down/1000?cb=20220403052316&path-prefix=vi" group-title="Địa Phương Cũ",THTV Trà Vinh
 https://tv.vietanhtv.top/vieon/vieon.php?id=tra-vinh-1
+#EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
+https://freem3u.xyz/api/live/play.m3u8?vid=92
 
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
@@ -679,6 +679,8 @@ https://audio-lss.vov.vn/live/vov2.m3u8
 http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV2
 https://luuchieu.truyenhinhso.vn/media/live/C8A57BB400170C263E73A5E1/index.m3u8
+#EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 #EXTINF:-1 tvg-id="vov3" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV3
 https://audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 tvg-id="vov3" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV3
@@ -711,8 +713,6 @@ https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV5 247
 http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="vov6" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV6
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Mê Kông
