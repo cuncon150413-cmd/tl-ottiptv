@@ -3802,7 +3802,7 @@ https://vtvgolive-ott3.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/playlist.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
-nbtv ninh binh 360p
+nbtv ninh binh 240p
 https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
 https://vtvgolive-ott3.vtvdigital.vn/live/haugiangtv/playlist.m3u8
@@ -3939,7 +3939,7 @@ https://ott3.nethubtv.vn/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
 https://ott3.nethubtv.vn/live/ninhbinhtv/playlist.m3u8
 https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_1.m3u8
-nbtv ninh binh 360p
+nbtv ninh binh 240p
 https://ott3.nethubtv.vn/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
 https://ott3.nethubtv.vn/live/haugiangtv/playlist.m3u8
@@ -4069,7 +4069,7 @@ https://ott.avg.vn/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
 https://ott.avg.vn/live/ninhbinhtv/playlist.m3u8
 https://ott.avg.vn/live/ninhbinhtv/chunklist_1.m3u8
-nbtv ninh binh 360p
+nbtv ninh binh 240p
 https://ott.avg.vn/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
 https://ott.avg.vn/live/haugiangtv/playlist.m3u8
@@ -4142,7 +4142,7 @@ https://zirhmaft3x2vc.cmccdn.net/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
 https://zirhmaft3x2vc.cmccdn.net/live/ninhbinhtv/playlist.m3u8
 https://zirhmaft3x2vc.cmccdn.net/live/ninhbinhtv/chunklist_1.m3u8
-nbtv ninh binh 360p
+nbtv ninh binh 240p
 https://zirhmaft3x2vc.cmccdn.net/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
 https://zirhmaft3x2vc.cmccdn.net/live/haugiangtv/playlist.m3u8
@@ -4272,7 +4272,7 @@ http://cmcdp.vtvdigital.vn/live/haiphongtv/chunklist_0.m3u8
 nbtv ninh binh 480p
 http://cmcdp.vtvdigital.vn/live/ninhbinhtv/playlist.m3u8
 http://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_1.m3u8
-nbtv ninh binh 360p
+nbtv ninh binh 240p
 http://cmcdp.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 can tho 1 720p
 http://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
