@@ -939,9 +939,15 @@ http://tldigital-17th06day-tl9648290.duckdns.org/radio.m3u8
 
 118.69.84.203
 ctv 720p
-https://118.69.84.203/live/tv/tv.m3u8
+http://118.69.84.203/live/tv/tv.m3u8
 ctv radio
-https://118.69.84.203/live/radio/radio.m3u8
+http://118.69.84.203/live/radio/radio.m3u8
+
+tldigital-test1248042.duckdns.org
+ctv 720p
+http://tldigital-test1248042.duckdns.org/live/tv/tv.m3u8
+ctv radio
+http://tldigital-test1248042.duckdns.org/live/radio/radio.m3u8
 
 tv.ctvcamau.vn
 ctv 720p

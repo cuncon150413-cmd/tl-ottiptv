@@ -677,6 +677,8 @@ https://sh-tttm.mobifone.vn/vov1_ctkv7
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 https://sh-tttm.mobifone.vn/vov1iot
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+https://sh-tttm.mobifone.vn/smatecvov1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 http://rdp.longan.gov.vn:3000/so_hoa_vov
 #EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
 https://stream.vovlive.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
@@ -1538,24 +1540,90 @@ https://dethich.pw/thvlaudio/index.m3u8
 https://tv.vietanhtv.top/vieon/vieon.php?id=vinh-long-audio
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Audio
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Ninh Thạnh Lợi, Tỉnh Cà Mau
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Ninh Thạnh Lợi, Tỉnh Cà Mau
 https://sohoa-tttm.mobifone.vn/ninhthanhloi
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Hòa Xuân, Tỉnh Đắk Lắk
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Hòa Xuân, Tỉnh Đắk Lắk
 https://sohoa-tttm.mobifone.vn/xahoaxuan
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Sơn Hòa, Tỉnh Đắk Lắk
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Sơn Hòa, Tỉnh Đắk Lắk
 https://sohoa-tttm.mobifone.vn/xasonhoa
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Cao Lãnh, Tỉnh Đồng Tháp
 https://sohoa-tttm.mobifone.vn/daiphuongcaolanh
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Cao Lãnh, Tỉnh Đồng Tháp
 https://sohoa-tttm.mobifone.vn/phuongcaolanh
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã An Nhơn, Tỉnh Gia Lai
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã An Nhơn, Tỉnh Gia Lai
 http://sh.truyenthanhthongminh.vn/txannhon_str1
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Bình Điền, Thành Phố Huế
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Bình Điền, Thành Phố Huế
 https://sohoa-tttm.mobifone.vn/xabinhdien
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Phú Vinh, Thành Phố Huế
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Phú Vinh, Thành Phố Huế
 https://sohoa-tttm.mobifone.vn/xaphuvinh
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Trung Sơn, TỈnh Thanh Hóa
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Trung Sơn, TỈnh Thanh Hóa
 https://sohoa-tttm.mobifone.vn/xatrungson
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã An Nghiệp, TỈnh Đắk Lắk
+http://sohoa.truyenthanhthongminh.vn/annghiep
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Bình Hàng Tây, Huyện Cao Lãnh, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/binhhangtaycaolanhdongthap
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Cư Jút, Tỉnh Lâm Đồng
+http://sohoa.truyenthanhthongminh.vn/cujut
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Hòa Định Tây, Huyện Phú Hòa, Tỉnh Phú Yên
+http://sohoa.truyenthanhthongminh.vn/daihoadinhtay
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tuy An Nam, Tỉnh Đắk Lắk
+http://sohoa.truyenthanhthongminh.vn/daituyannam
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Hội An Đông, Phường Lấp Vò, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/hoiandonglapvo
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Hồng Dân, Tỉnh Cà Mau
+http://sohoa.truyenthanhthongminh.vn/hongdan
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Thới Lai, Thành Phố Cần Thơ
+http://sohoa.truyenthanhthongminh.vn/hthoilai
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tân Nhuận Đông, TỈnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/htmi.xatannhuandong
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Thanh Mỹ, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/htmi.xathanhmy
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Phú Cường, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/htng.xaphucuong
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã An Phú, Tỉnh An Giang
+http://sohoa.truyenthanhthongminh.vn/huyenanphu
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Huyện Đắk R'Lấp, Tỉnh Lâm Đồng
+http://sohoa.truyenthanhthongminh.vn/huyendakrlap
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Huyện Long Mỹ, Thành Phố Cần Thơ
+http://sohoa.truyenthanhthongminh.vn/huyenlongmy
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Huyện Tân Uyên, Tỉnh Lai Châu
+http://sohoa.truyenthanhthongminh.vn/huyentanuyen
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tân Khánh Trung, Phường Lấp Vò, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/longhungalapvo
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tân Khánh Trung, Phường Lấp Vò, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/longhungblapvo
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tân Khánh Trung, Phường Lấp Vò, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/tankhanhtrunglapvodongthap
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Long Khánh, Thành Phố Đồng Nai
+http://sohoa.truyenthanhthongminh.vn/longkhanhb
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Long Thuận, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/longthuan
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Mỹ An Hưng, Tỉnh Đồng Tháp
+http://sohoa.truyenthanhthongminh.vn/myanhungblapvodongthap
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Thốt Nốt, Thành Phố Cần Thơ
+http://sohoa.truyenthanhthongminh.vn/phuongthotnot
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Hải Hậu, Tỉnh Ninh Bình
+http://sohoa.truyenthanhthongminh.vn/sohoahaihau
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Thuận An, Thủ Đô Hà Nội
+http://sohoa.truyenthanhthongminh.vn/sohoathuanan
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Phường Vị Khê, Tỉnh Ninh Bình
+http://sohoa.truyenthanhthongminh.vn/sohoavikhe
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tiền Hải, Tỉnh Hưng Yên
+http://sohoa.truyenthanhthongminh.vn/tienhai
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tuy An Đông, Tỉnh Đắk Lắk
+http://sohoa.truyenthanhthongminh.vn/tuyandong
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Thị Xã Ninh Hòa, Tỉnh Khánh Hòa
+http://sohoa.truyenthanhthongminh.vn/txninhhoa
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Cẩm Vân, Tỉnh Thanh Hóa
+http://sohoa.truyenthanhthongminh.vn/xacamvan.thanhhoa
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Tân Hội, Tỉnh Lâm Đồng
+http://sohoa.truyenthanhthongminh.vn/xatanhoi
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",Xã Thanh Bình, Tỉnh Ninh Bình
+http://sohoa.truyenthanhthongminh.vn/xathanhbinh
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",
+
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" tvg-name="fm" tvg-logo="" group-title="FM Radio",
+
 
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_asian-food-channel_165649221342.png", AFN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1732,8 +1800,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
-#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Thử Nghiệm",NBTV Ninh Bình 4K real 100% no clickbait no ragebait no scam🤑✌
-https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="sctv2" tvg-name="SCTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/SCTV2.png/revision/latest?cb=20201119114104&path-prefix=vi" group-title="Thử Nghiệm",SCTV2
 https://live.tvon.vn/g4/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="cantho3" tvg-name="Cần Thơ 3 " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest/scale-to-width-down/1000?cb=20250912112412&path-prefix=vi" group-title="Thử Nghiệm",Cần Thơ 3 
@@ -1746,6 +1812,8 @@ https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtru
 https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Thử Nghiệm",LTV1 Lâm Đồng 
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
+#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Thử Nghiệm",NBTV Ninh Bình 4K real 100% no clickbait no ragebait no scam🤑✌
+https://vtvgolive-ott3.vtvdigital.vn/live/ninhbinhtv/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-name="PTP Phú Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest/scale-to-width-down/1000?cb=20211202141521&path-prefix=vi" group-title="Thử Nghiệm",PTP Phú Yên
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/phuyen/ptp-tnbh2018.m3u8
 #EXTINF:-1 tvg-id="tv360plus16" tvg-name="tv360 16" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/07/17/178341886042/8212b6f0ea56_480_270.png" group-title="Thử Nghiệm",TV360+16
