@@ -2236,42 +2236,73 @@ http://s3.ttvmax.com:21585/hanoi1/playlist.m3u8
 
 live.tvon.vn
 vtv1 hd
+https://live.tvon.vn/g2/vtv1/master.m3u8
 https://live.tvon.vn/g2/vtv1/video_hd_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv1/video_hd/playlist.m3u8
+vtv1 576p
+https://live.tvon.vn/g2/vtv1/video_ld_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv1/video_ld/playlist.m3u8
 vtv1 audio
 https://live.tvon.vn/g2/vtv1/audio/playlist.m3u8
 vtv3 hd
+https://live.tvon.vn/g2/vtv3/master.m3u8
 https://live.tvon.vn/g2/vtv3/video_hd_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv3/video_hd/playlist.m3u8
+vtv3 576p
+https://live.tvon.vn/g2/vtv3/video_ld_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv3/video_ld/playlist.m3u8
 vtv3 audio
 https://live.tvon.vn/g2/vtv3/audio/playlist.m3u8
 vtv10 hd
+https://live.tvon.vn/g2/vtv10/master.m3u8
 https://live.tvon.vn/g2/vtv10/video_hd_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv10/video_hd/playlist.m3u8
+vtv10 576p
+https://live.tvon.vn/g2/vtv10/video_ld_compat/playlist.m3u8
+https://live.tvon.vn/g2/vtv10/video_ld/playlist.m3u8
 vtv10 audio
 https://live.tvon.vn/g2/vtv10/audio/playlist.m3u8
 vietnam today hd
 https://live.tvon.vn/s8/hls/vntoday/index.m3u8
-antv hd
+antv 720p
 https://live.tvon.vn/s8/hls/antv/index.m3u8
 sctv2 hd
 https://live.tvon.vn/g4/sctv2/master.m3u8
+https://live.tvon.vn/g4/sctv2/video_fhd_compat/playlist.m3u8
+https://live.tvon.vn/g4/sctv2/video_fhd/playlist.m3u8
+sctv2 720p
+https://live.tvon.vn/g4/sctv2/video_hd_compat/playlist.m3u8
+https://live.tvon.vn/g4/sctv2/video_hd/playlist.m3u8
+sctv2 360p
+https://live.tvon.vn/g4/sctv2/video_ld_compat/playlist.m3u8
+https://live.tvon.vn/g4/sctv2/video_ld/playlist.m3u8
 
 live.org.sctvonline.vn
 qpvn hd
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/master.m3u8
+https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/video_hd_compat/playlist.m3u8
+qpvn 576p
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/video_ld_compat/playlist.m3u8
 qpvn audio
 https://live.org.sctvonline.vn/qoVocsfPs5/quocphongvn/audio/playlist.m3u8
 antv hd
 https://live.org.sctvonline.vn/qoVocsfPs5/antv/master.m3u8
+https://live.org.sctvonline.vn/qoVocsfPs5/antv/video_hd_compat/playlist.m3u8
+antv 576p
 https://live.org.sctvonline.vn/qoVocsfPs5/antv/video_ld_compat/playlist.m3u8
 antv audio
 https://live.org.sctvonline.vn/qoVocsfPs5/antv/audio/playlist.m3u8
 vtv1 hd
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv1/master.m3u8
+https://live.org.sctvonline.vn/qoVocsfPs5/vtv1/video_hd_compat/playlist.m3u8
+vtv1 576p
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv1/video_ld_compat/playlist.m3u8
 vtv1 audio
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv1/audio/playlist.m3u8
 vtv5 hd
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv5/master.m3u8
+https://live.org.sctvonline.vn/qoVocsfPs5/vtv5/video_hd_compat/playlist.m3u8
+vtv5 576p
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv5/video_ld_compat/playlist.m3u8
 vtv5 audio
 https://live.org.sctvonline.vn/qoVocsfPs5/vtv5/audio/playlist.m3u8
@@ -9240,6 +9271,7 @@ cnbc 480p
 https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
 
 vips-livecdn.fptplay.net
+vtv1 hd
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -9428,6 +9460,7 @@ https://vips-livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 https://vips-livecdn.fptplay.net/event/ttlogin/chunklist.m3u8
 
 livecdn.fptplay.net
+vtv1 hđ
 https://livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 https://livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
 https://livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -10174,9 +10207,9 @@ vtv4 hd
 https://vmttv.dpdns.org/VTVGo/?vtv4-hd
 vtv5 hd
 https://vmttv.dpdns.org/VTVGo/?vtv5-hd
-vtv5 tay nam bo
+vtv5 tay nam bo hd
 https://vmttv.dpdns.org/VTVGo/?vtv5-tay-nam-bo
-vtv5 tay nguyen
+vtv5 tay nguyen hd
 https://vmttv.dpdns.org/VTVGo/?vtv5-tay-nguyen
 vtv6 hd
 https://vmttv.dpdns.org/VTVGo/?vtv6-hd
