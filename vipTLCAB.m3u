@@ -522,7 +522,11 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=binh-duong-1
 #EXTINF:-1 tvg-id="binhduong2" tvg-name="BTV2 Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/BTV2_HD_logo_28-11-2024_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20241128092858&path-prefix=vi" group-title="Địa Phương Cũ",BTV2 Bình Dương
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 #EXTINF:-1 tvg-id="gialai" tvg-name="BTV Bình Định" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/54/BTV_Binh_Dinh_4-3.png/revision/latest/scale-to-width-down/1000?cb=20230326080811&path-prefix=vi" group-title="Địa Phương Cũ",BTV Bình Định
-https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="dongnai1" tvg-name="BPTV1 Bình Phước" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7b/BPTV1_HD_logo_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20250414133119&path-prefix=vi" group-title="Địa Phương Cũ",BPTV1 Bình Phước
+https://vtvgolive-ott4.vtvdigital.vn/live/gialaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="dongnai2" tvg-name="BPTV2 Bình Phước" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/BPTV2_HD_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20231208081408&path-prefix=vi" group-title="Địa Phương Cũ",BPTV2 Bình Phước
+https://vtvgolive-ott3.vtvdigital.vn/live/phuthotv/playlist.m3u8
 #EXTINF:-1 tvg-id="lamdong2" tvg-name="BTV Bình Thuận" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/BTV_HD_B%C3%ACnh_Thu%E1%BA%ADn_05-2021.png/revision/latest?cb=20230308074519&path-prefix=vi" group-title="Địa Phương Cũ",BTV Bình Thuận
 https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan6" tvg-name="BTV6 Bình Thuận" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/BTV6_L%C3%A2m_%C4%90%E1%BB%93ng.png/revision/latest/scale-to-width-down/1000?cb=20210722032213&path-prefix=vi" group-title="Địa Phương Cũ",BTV6 Bình Thuận
@@ -544,7 +548,7 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 #EXTINF:-1 tvg-id="daklak" tvg-name="ĐRT Đắk Lắk" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Logo_DRT_HD_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2022.png/revision/latest/scale-to-width-down/1000?cb=20240210071409&path-prefix=vi" group-title="Địa Phương",ĐRT Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong1" tvg-name="PTD Đắk Nông" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/PTD_HD_%C4%90%E1%BA%AFk_N%C3%B4ng.png/revision/latest/scale-to-width-down/1000?cb=20250911102708&path-prefix=vi" group-title="Địa Phương Cũ",PTD Đắk Nông
-https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/chunklist_w1657319984_b3128000_sleng.m3u8
+https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dienbien" tvg-name="ĐTV Điện Biên" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/%C4%90TV_logo_2019.png/revision/latest?cb=20220225073050&path-prefix=vi" group-title="Địa Phương",ĐTV Điện Biên
 https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐNNRTV1 Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest/scale-to-width-down/1508?cb=20250902053416&path-prefix=vi" group-title="Địa Phương",ĐNNRTV1 Đồng Nai
@@ -556,11 +560,11 @@ https://dethich.pw/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="dongthap1" tvg-name="THĐT1 Đồng Tháp" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TH%C4%90T1_31-07-2023.png/revision/latest/scale-to-width-down/1200?cb=20250729103122&path-prefix=vi" group-title="Địa Phương",THĐT1 Đồng Tháp
 https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="THĐT2 Đồng Tháp" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest?cb=20260222061035&path-prefix=vi" group-title="Địa Phương",THĐT2 Đồng Tháp
-https://im4czwkxf7liv.vcdn.cloud/hls/DONGTHAP2/03.m3u8
+https://im4czwkxf7liv.vcdn.cloud/hls/DONGTHAP2/index.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-name="GTV Gia Lai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi" group-title="Địa Phương",GTV Gia Lai
 https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="HGTV Hà Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Logo_HGTV_H%C3%A0_Giang_%282018%2C_B%E1%BA%A3n_4-3%29.png/revision/latest/scale-to-width-down/1000?cb=20220916074407&path-prefix=vi" group-title="Địa Phương Cũ",HGTV Hà Giang
-https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_2.m3u8
+https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" tvg-name="HanoiTV1 Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HanoiTV1_HD_2016-2026.png/revision/latest?cb=20241227073715&path-prefix=vi" group-title="Địa Phương",HanoiTV1 Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/H2_HD_logo_2016.png/revision/latest/scale-to-width-down/200?cb=20250128094827&path-prefix=vi" group-title="Địa Phương",HanoiTV2 Hà Nội
