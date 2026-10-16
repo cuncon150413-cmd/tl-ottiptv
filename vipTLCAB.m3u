@@ -1550,6 +1550,8 @@ http://icecast.vov.link:8000/Thanhhoa
 http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 #EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="tuyenquangradio" tvg-logo="" group-title="FM Radio",Tuyên Quang 95,6 mhz
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
+#EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="tuyenquangradio" tvg-logo="" group-title="FM Radio",Tuyên Quang 95,6 mhz
+https://radio.tuyenquangtv.vn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Audio
 https://dethich.pw/thvlaudio/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Audio

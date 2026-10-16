@@ -476,6 +476,8 @@ vov1
 http://rdp.longan.gov.vn:3000/so_hoa_vov
 ha tinh
 http://171.244.133.152:8000/hatinh
+tuyen quang
+https://radio.tuyenquangtv.vn/live/playlist.m3u8
 
 audio-lss.vov.vn
 vov1
