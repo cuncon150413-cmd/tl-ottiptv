@@ -2965,6 +2965,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/premium/master.m3u8
 vtv1 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/free/master.m3u8
 vtv1 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv480p-h264/index.m3u8
 vtv1 360p
@@ -2975,6 +2976,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/premium/master.m3u8
 vtv2 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/free/master.m3u8
 vtv2 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv480p-h264/index.m3u8
 vtv2 360p
@@ -2985,6 +2987,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/premium/master.m3u8
 vtv3 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/free/master.m3u8
 vtv3 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv480p-h264/index.m3u8
 vtv3 360p
@@ -2995,6 +2998,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/premium/master.m3u8
 vtv4 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
 vtv4 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv480p-h264/index.m3u8
 vtv4 360p
@@ -3005,6 +3009,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/premium/master.m3u8
 vtv5 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/free/master.m3u8
 vtv5 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv480p-h264/index.m3u8
 vtv5 360p
@@ -3015,6 +3020,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/premium/master.m3u8
 vtv5 tay nam bo 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb/free/master.m3u8
 vtv5 tay nam bo 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv480p-h264/index.m3u8
 vtv5 tay nam bo 360p
@@ -3025,6 +3031,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/premium/master.m3u8
 vtv5 tay nguyen 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn/free/master.m3u8
 vtv5 tay nguyen 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv480p-h264/index.m3u8
 vtv5 tay nguyen 360p
@@ -3035,6 +3042,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/premium/master.m3u8
 vtv6 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/free/master.m3u8
 vtv6 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv480p-h264/index.m3u8
 vtv6 360p
@@ -3045,6 +3053,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/premium/master.m3u8
 vtv7 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/free/master.m3u8
 vtv7 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv480p-h264/index.m3u8
 vtv7 360p
@@ -3055,6 +3064,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/premium/master.m3u8
 vtv8 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/free/master.m3u8
 vtv8 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv480p-h264/index.m3u8
 vtv8 360p
@@ -3065,6 +3075,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/premium/master.m3u8
 vtv9 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
 vtv9 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv480p-h264/index.m3u8
 vtv9 360p
@@ -3075,6 +3086,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/premium/master.m3u8
 vtv10 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
 vtv10 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv480p-h264/index.m3u8
 vtv10 360p
@@ -3085,6 +3097,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/index.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/premium/master.m3u8
 vietnamtoday 720p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday/free/master.m3u8
 vietnamtoday 480p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv480p-h264/index.m3u8
 vietnamtoday 360p
@@ -3178,107 +3191,107 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_360p.m3u8
 sctv2 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/playlist_720p.m3u8
-sctv2 720p
+sctv2 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/playlist_480p.m3u8
-sctv2 720p
+sctv2 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/playlist_360p.m3u8
 sctv3 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_720p.m3u8
-sctv3 720p
+sctv3 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_480p.m3u8
-sctv3 720p
+sctv3 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_360p.m3u8
 sctv4 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/playlist_720p.m3u8
-sctv4 720p
+sctv4 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/playlist_480p.m3u8
-sctv4 720p
+sctv4 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/playlist_360p.m3u8
 sctv6 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/playlist_720p.m3u8
-sctv6 720p
+sctv6 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/playlist_480p.m3u8
-sctv6 720p
+sctv6 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/playlist_360p.m3u8
 sctv7 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/playlist_720p.m3u8
-sctv7 720p
+sctv7 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/playlist_480p.m3u8
-sctv7 720p
+sctv7 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/playlist_360p.m3u8
 sctv9 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/playlist_720p.m3u8
-sctv9 720p
+sctv9 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/playlist_480p.m3u8
-sctv9 720p
+sctv9 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/playlist_360p.m3u8
 sctv11 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/playlist_720p.m3u8
-sctv11 720p
+sctv11 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/playlist_480p.m3u8
-sctv11 720p
+sctv11 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/playlist_360p.m3u8
 sctv12 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/playlist_720p.m3u8
-sctv12 720p
+sctv12 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/playlist_480p.m3u8
-sctv12 720p
+sctv12 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/playlist_360p.m3u8
 sctv13 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/playlist_720p.m3u8
-sctv13 720p
+sctv13 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/playlist_480p.m3u8
-sctv13 720p
+sctv13 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/playlist_360p.m3u8
 sctv14 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/playlist_720p.m3u8
-sctv14 720p
+sctv14 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/playlist_480p.m3u8
-sctv14 720p
+sctv14 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/playlist_360p.m3u8
 sctv16 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/playlist_720p.m3u8
-sctv16 720p
+sctv16 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/playlist_480p.m3u8
-sctv16 720p
+sctv16 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/playlist_360p.m3u8
 sctv18 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/playlist_720p.m3u8
-sctv18 720p
+sctv18 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/playlist_480p.m3u8
-sctv18 720p
+sctv18 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/playlist_360p.m3u8
 sctv19 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/playlist_720p.m3u8
-sctv19 720p
+sctv19 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/playlist_480p.m3u8
-sctv19 720p
+sctv19 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/playlist_360p.m3u8
 sctv20 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_720p.m3u8
-sctv20 720p
+sctv20 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_480p.m3u8
-sctv20 720p
+sctv20 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/playlist_360p.m3u8
 sctv phim tong hop 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_720p.m3u8
-sctv phim tong hop 720p
+sctv phim tong hop 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
-sctv phim tong hop 720p
+sctv phim tong hop 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
 qtv1 quang ninh 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangninh1tv/master.m3u8
@@ -3432,107 +3445,107 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_360p.m3u8
 sctv2 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/playlist_720p.m3u8
-sctv2 720p
+sctv2 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/playlist_480p.m3u8
-sctv2 720p
+sctv2 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/playlist_360p.m3u8
 sctv3 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv3/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv3/playlist_720p.m3u8
-sctv3 720p
+sctv3 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv3/playlist_480p.m3u8
-sctv3 720p
+sctv3 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv3/playlist_360p.m3u8
 sctv4 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv4/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv4/playlist_720p.m3u8
-sctv4 720p
+sctv4 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv4/playlist_480p.m3u8
-sctv4 720p
+sctv4 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv4/playlist_360p.m3u8
 sctv6 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv6/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv6/playlist_720p.m3u8
-sctv6 720p
+sctv6 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv6/playlist_480p.m3u8
-sctv6 720p
+sctv6 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv6/playlist_360p.m3u8
 sctv7 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv7/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv7/playlist_720p.m3u8
-sctv7 720p
+sctv7 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv7/playlist_480p.m3u8
-sctv7 720p
+sctv7 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv7/playlist_360p.m3u8
 sctv9 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv9/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv9/playlist_720p.m3u8
-sctv9 720p
+sctv9 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv9/playlist_480p.m3u8
-sctv9 720p
+sctv9 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv9/playlist_360p.m3u8
 sctv11 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv11/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv11/playlist_720p.m3u8
-sctv11 720p
+sctv11 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv11/playlist_480p.m3u8
-sctv11 720p
+sctv11 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv11/playlist_360p.m3u8
 sctv12 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv12/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv12/playlist_720p.m3u8
-sctv12 720p
+sctv12 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv12/playlist_480p.m3u8
-sctv12 720p
+sctv12 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv12/playlist_360p.m3u8
 sctv13 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv13/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv13/playlist_720p.m3u8
-sctv13 720p
+sctv13 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv13/playlist_480p.m3u8
-sctv13 720p
+sctv13 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv13/playlist_360p.m3u8
 sctv14 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv14/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv14/playlist_720p.m3u8
-sctv14 720p
+sctv14 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv14/playlist_480p.m3u8
-sctv14 720p
+sctv14 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv14/playlist_360p.m3u8
 sctv16 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv16/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv16/playlist_720p.m3u8
-sctv16 720p
+sctv16 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv16/playlist_480p.m3u8
-sctv16 720p
+sctv16 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv16/playlist_360p.m3u8
 sctv18 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv18/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv18/playlist_720p.m3u8
-sctv18 720p
+sctv18 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv18/playlist_480p.m3u8
-sctv18 720p
+sctv18 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv18/playlist_360p.m3u8
 sctv19 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv19/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv19/playlist_720p.m3u8
-sctv19 720p
+sctv19 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv19/playlist_480p.m3u8
-sctv19 720p
+sctv19 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv19/playlist_360p.m3u8
 sctv20 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/playlist_720p.m3u8
-sctv20 720p
+sctv20 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/playlist_480p.m3u8
-sctv20 720p
+sctv20 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv20/playlist_360p.m3u8
 sctv phim tong hop 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_720p.m3u8
-sctv phim tong hop 720p
+sctv phim tong hop 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_480p.m3u8
-sctv phim tong hop 720p
+sctv phim tong hop 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctvpth/playlist_360p.m3u8
 qtv1 quang ninh 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangninh1tv/master.m3u8
@@ -3801,6 +3814,13 @@ https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-manifest.m3u8
 https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-1080p.m3u8
 vtv1 720p
 https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-720p.m3u8
+
+vtvgolivesmarttv2-aws-tn.vtvdigital.vn
+vtv1 hd
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-manifest.m3u8
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-1080p.m3u8
+vtv1 720p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-720p.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
@@ -9273,10 +9293,10 @@ https://event-a.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3
 thp3 hai phong 480p
 https://event-a.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b1800000.m3u8
 hytv hung yen 720p
-https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
-https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+https://event-a.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 hytv hung yen 480p
-https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b1800000.m3u8
+https://event-a.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b1800000.m3u8
 ltv lai chau 720p
 https://event-a.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
 https://event-a.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
@@ -9287,11 +9307,6 @@ https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
 https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 lstv lang son 480p
 https://event-a.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b1800000.m3u8
-thlc lao cai 720p
-https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
-https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
-thlc lao cai 480p
-https://event-a.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b1800000.m3u8
 ntv nghe an 720p
 https://event-a.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
 https://event-a.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
@@ -9356,6 +9371,121 @@ https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 cnbc 480p
 https://event-a.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
+thlc lao cai 720p
+https://event-a.fptplay53.net/fnxsd1/laocai_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/laocai_2000.stream/chunklist_b2500000.m3u8
+thlc lao cai 480p
+https://event-a.fptplay53.net/fnxsd1/laocai_2000.stream/chunklist_b1800000.m3u8
+ptv phu tho 720p
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist_b2500000.m3u8
+ptv phu tho 480p
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist_b1800000.m3u8
+htv5 720p
+https://event-a.fptplay53.net/fnxsd1/btv9_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/btv9_2000.stream/chunklist_b2500000.m3u8
+htv5 720p
+https://event-a.fptplay53.net/fnxsd1/btv9_2000.stream/chunklist_b1800000.m3u8
+btv bac ninh 720p
+https://event-a.fptplay53.net/fnxsd1/bacninh01_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/bacninh01_2000.stream/chunklist_b2500000.m3u8
+btv bac ninh 480p
+https://event-a.fptplay53.net/fnxsd1/bacninh01_2000.stream/chunklist_b1800000.m3u8
+crtv cao bang 720p
+https://event-a.fptplay53.net/fnxsd1/caobang_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/caobang_2000.stream/chunklist_b2500000.m3u8
+crtv cao bang 480p
+https://event-a.fptplay53.net/fnxsd1/caobang_2000.stream/chunklist_b1800000.m3u8
+dtv dien bien 720p
+https://event-a.fptplay53.net/fnxsd1/dienbien_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/dienbien_2000.stream/chunklist_b2500000.m3u8
+dtv dien bien 480p
+https://event-a.fptplay53.net/fnxsd1/dienbien_2000.stream/chunklist_b1800000.m3u8
+bhttv ha tinh 720p
+https://event-a.fptplay53.net/fnxsd1/hatinh_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/hatinh_2000.stream/chunklist_b2500000.m3u8
+bhttv ha tinh 480p
+https://event-a.fptplay53.net/fnxsd1/hatinh_2000.stream/chunklist_b1800000.m3u8
+thp hai phong hd
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
+thp hai phong 720p
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_2000000=10001-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_2000.stream/chunklist_b2500000.m3u8
+thp hai phong 480p
+https://event-a.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_1499968=10002-mp4a_140800=20000.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphong_2000.stream/chunklist_b1800000.m3u8
+thp3 hai phong 720p
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_2000.stream/chunklist_b2500000.m3u8
+thp3 hai phong 480p
+https://event-a.fptplay53.net/fnxsd1/haiphongplus_2000.stream/chunklist_b1800000.m3u8
+hytv hung yen 720p
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+hytv hung yen 480p
+https://event-a.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b1800000.m3u8
+ltv lai chau 720p
+https://event-a.fptplay53.net/fnxsd1/laichau_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/laichau_2000.stream/chunklist_b2500000.m3u8
+ltv lai chau 480p
+https://event-a.fptplay53.net/fnxsd1/laichau_2000.stream/chunklist_b1800000.m3u8
+lstv lang son 720p
+https://event-a.fptplay53.net/fnxsd1/langson_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/langson_2000.stream/chunklist_b2500000.m3u8
+lstv lang son 480p
+https://event-a.fptplay53.net/fnxsd1/langson_2000.stream/chunklist_b1800000.m3u8
+ntv nghe an 720p
+https://event-a.fptplay53.net/fnxsd1/nghean_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/nghean_2000.stream/chunklist_b2500000.m3u8
+ntv nghe an 480p
+https://event-a.fptplay53.net/fnxsd1/nghean_2000.stream/chunklist_b1800000.m3u8
+nbtv ninh binh 720p
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_2000.stream/chunklist_b2500000.m3u8
+nbtv ninh binh 480p
+https://event-a.fptplay53.net/fnxsd1/ninhbinh_2000.stream/chunklist_b1800000.m3u8
+ptv phu tho 720p
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist_b2500000.m3u8
+ptv phu tho 480p
+https://event-a.fptplay53.net/fnxsd1/phutho_2000.stream/chunklist_b1800000.m3u8
+qtv1 quang ninh 720p
+https://event-a.fptplay53.net/fnxsd1/quangninh1_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/quangninh1_2000.stream/chunklist_b2500000.m3u8
+qtv1 quang ninh 480p
+https://event-a.fptplay53.net/fnxsd1/quangninh1_2000.stream/chunklist_b1800000.m3u8
+qtv3 quang ninh 720p
+https://event-a.fptplay53.net/fnxsd1/quangninh3_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/quangninh3_2000.stream/chunklist_b2500000.m3u8
+qtv3 quang ninh 480p
+https://event-a.fptplay53.net/fnxsd1/quangninh3_2000.stream/chunklist_b1800000.m3u8
+stv son la 720p
+https://event-a.fptplay53.net/fnxsd1/sonla_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/sonla_2000.stream/chunklist_b2500000.m3u8
+stv son la 480p
+https://event-a.fptplay53.net/fnxsd1/sonla_2000.stream/chunklist_b1800000.m3u8
+tn thai nguyen 720p
+https://event-a.fptplay53.net/fnxsd1/thainguyen_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/thainguyen_2000.stream/chunklist_b2500000.m3u8
+tn thai nguyen 480p
+https://event-a.fptplay53.net/fnxsd1/thainguyen_2000.stream/chunklist_b1800000.m3u8
+ttv thanh hoa 576p
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_2000.stream/chunklist_b2500000.m3u8
+ttv thanh hoa 480p
+https://event-a.fptplay53.net/fnxsd1/thanhhoa_2000.stream/chunklist_b1800000.m3u8
+ttv tuyen quang 720p
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_2000.stream/chunklist_b2500000.m3u8
+ttv tuyen quang 480p
+https://event-a.fptplay53.net/fnxsd1/tuyenquang_2000.stream/chunklist_b1800000.m3u8
+cna 720p
+https://event-a.fptplay53.net/fnxsd1/cnbc_2000.stream/chunklist.m3u8
+https://event-a.fptplay53.net/fnxsd1/cnbc_2000.stream/chunklist_b2500000.m3u8
+cnbc 480p
+https://event-a.fptplay53.net/fnxsd1/cnbc_2000.stream/chunklist_b1800000.m3u8
 
 vips-livecdn.fptplay.net
 vtv1 hd
