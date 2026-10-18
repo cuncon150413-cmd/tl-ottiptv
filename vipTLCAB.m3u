@@ -1437,6 +1437,8 @@ https://qtv.vncdn.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-id="quangninhradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR1
 https://live.sonlatv.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-id="quangninhradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR1
+https://live.drt.vn/qtvlive/qnr1.m3u8
+#EXTINF:-1 tvg-id="quangninhradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR1
 http://sh.truyenthanhthongminh.vn/haan_quangninh
 #EXTINF:-1 tvg-id="quangninhradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR1
 http://sh.truyenthanhthongminh.vn/quangninh_livestr
@@ -1454,6 +1456,8 @@ http://103.90.220.236/qtvlive/qnr2.m3u8
 https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 tvg-id="quangninhradio2" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR2
 https://live.sonlatv.vn/qtvlive/qnr2.m3u8
+#EXTINF:-1 tvg-id="quangninhradio2" tvg-name="fm" tvg-logo="" group-title="FM Radio",QNR2
+https://live.drt.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 tvg-id="quangtriradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Quảng Trị
 http://media01.dxtgroup.vn:8000/quangtri
 #EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Sơn La
