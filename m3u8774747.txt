@@ -2748,11 +2748,11 @@ https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/playlist.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
 dnnrtv1 dong nai 480p
 https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
-ttv tuyen quang 720p
+dtv dien bien 720p
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/playlist.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/live/asiad_1_720p/chunks.m3u8
-ttv tuyen quang 480p
+dtv dien bien 480p
 https://d3006k9ptxe2oq.cloudfront.net/aws-sk/asiad_1_paid/live/asiad_1_480p/chunks.m3u8
 
 vtvgoliveapp1-aws-plus-tn.vtvdigital.vn
@@ -2951,11 +2951,11 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
 dnnrtv1 dong nai 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
-ttv tuyen quang 720p
+dtv dien bien 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_720p/chunks.m3u8
-ttv tuyen quang 480p
+dtv dien bien 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_480p/chunks.m3u8
 
 vtvgolivepre-vtv02.vtvdigital.vn
