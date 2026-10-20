@@ -437,10 +437,6 @@ vov giao thong
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 
 m3u8 khac
-bhttv ha tinh 720p
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
-bhttv radio
-https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
 tvb viet nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 antv 720x576
@@ -451,6 +447,7 @@ ntv nghe an hd
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 ttv tuyen quang 720p
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
+https://luuchieu1.vtcplay.vn/hls/TUYENQUANG/tc-p720/index.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
 vietnam today
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_88353259571126965.m3u8
@@ -920,6 +917,18 @@ vtv4 hd
 https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 vietnam today hd
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
+
+cohauw9bgpvod.vcdn.cloud
+bhttv ha tinh 720p
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+bhttv radio
+https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
+
+live.baohatinh.vn
+bhttv ha tinh 720p
+https://live.baohatinh.vn/httv1/index.m3u8
+bhttv radio
+https://live.baohatinh.vn/voht/index.m3u8
 
 tv.gialaitv.vn
 gtv 720p
@@ -3821,6 +3830,13 @@ https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-manifest.m3u8
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-1080p.m3u8
 vtv1 720p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-720p.m3u8
+
+d2msoi9s9viefm.cloudfront.net
+vtv1 hd
+https://d2msoi9s9viefm.cloudfront.net/digital_04-manifest.m3u8
+https://d2msoi9s9viefm.cloudfront.net/digital_04-1080p.m3u8
+vtv1 720p
+https://d2msoi9s9viefm.cloudfront.net/digital_04-720p.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
