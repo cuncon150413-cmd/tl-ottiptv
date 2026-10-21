@@ -491,6 +491,8 @@ vov5 247
 https://audio-lss.vov.vn/live/vov24_7.m3u8
 vov giao thong ha noi
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+vov sonata
+https://audio-lss.vov.vn/live/sonata.m3u8
 
 str.vov.gov.vn
 vov1
@@ -503,6 +505,12 @@ vov4 tay nguyen
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 vov5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+vov5 247
+https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
+vov5 sgf
+https://str.vov.gov.vn/vovlive/vov5.SpanishGermanFrench.sdp_aac/playlist.m3u8
+vov5 rc
+https://str.vov.gov.vn/vovlive/vov5.RussianChinese.sdp_aac/playlist.m3u8
 vov giao thong ha noi
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
 vov giao thong hcm
@@ -521,6 +529,12 @@ vov4 tay nguyen
 https://stream.vovlive.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 vov5
 https://stream.vovlive.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+vov5 247
+https://stream.vovlive.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
+vov5 sgf
+https://stream.vovlive.vn/vovlive/vov5.SpanishGermanFrench.sdp_aac/playlist.m3u8
+vov5 rc
+https://stream.vovlive.vn/vovlive/vov5.RussianChinese.sdp_aac/playlist.m3u8
 vov giao thong ha noi
 https://stream.vovlive.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
 vov giao thong hcm
