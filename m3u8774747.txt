@@ -6043,7 +6043,7 @@ vtv8 hd
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/index.m3u8
 https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/index.m3u8
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v3_index.m3u8
-https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v0_index.m3u8
+https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v3_index.m3u8
 vtv8 720p
 https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
 https://cdnet-cdn-01.onsports.vn/Live_DASHDRM1/VTV8_HD/v2_index.m3u8
