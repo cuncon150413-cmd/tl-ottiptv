@@ -2276,78 +2276,6 @@ https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 crtv cao bang 360p
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_b584000.m3u8
 
-125hvt.ddns.net:21585
-vtv2 hd
-http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
-vtv6 576p
-http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
-antv 576p
-http://125hvt.ddns.net:21585/antv/playlist.m3u8
-qpvn 576p
-http://125hvt.ddns.net:21585/quocphong/playlist.m3u8
-htv9 576p
-http://125hvt.ddns.net:21585/htv9/playlist.m3u8
-thvl1 576p
-http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
-hanoitv1 576p
-http://125hvt.ddns.net:21585/hanoi1/playlist.m3u8
-
-live247.freem3u.xyz:21585
-vtv2 hd
-http://live247.freem3u.xyz:21585/vtv2/playlist.m3u8
-vtv6 576p
-http://live247.freem3u.xyz:21585/vtv6/playlist.m3u8
-antv 576p
-http://live247.freem3u.xyz:21585/antv/playlist.m3u8
-qpvn 576p
-http://live247.freem3u.xyz:21585/quocphong/playlist.m3u8
-htv9 576p
-http://live247.freem3u.xyz:21585/htv9/playlist.m3u8
-thvl1 576p
-http://live247.freem3u.xyz:21585/thvl1/playlist.m3u8
-hanoitv1 576p
-http://live247.freem3u.xyz:21585/hanoi1/playlist.m3u8
-
-s3.ttvmax.com:21585
-sctv1 576p
-http://s3.ttvmax.com:21585/sctv1/playlist.m3u8
-sctv9 576p
-http://s3.ttvmax.com:21585/sctv9/playlist.m3u8
-sctv16 576p
-http://s3.ttvmax.com:21585/sctv16/playlist.m3u8
-on vie giải trí 576p
-http://s3.ttvmax.com:21585/vtvcab1/playlist.m3u8
-on phim việt 576p
-http://s3.ttvmax.com:21585/vtvcab2/playlist.m3u8 
-on sports 720p
-http://s3.ttvmax.com:21585/vtvcab3/playlist.m3u8
-on cine 576p
-http://s3.ttvmax.com:21585/vtvcab7/playlist.m3u8
-on football 720p
-http://s3.ttvmax.com:21585/vtvcab16/playlist.m3u8
-htv7 576p
-http://s3.ttvmax.com:21585/htv7/playlist.m3u8
-htv9 576p
-http://s3.ttvmax.com:21585/htv9/playlist.m3u8
-vtv1 720p
-http://s3.ttvmax.com:21585/vtv1/playlist.m3u8
-vtv3 576p
-http://s3.ttvmax.com:21585/vtv3/playlist.m3u8
-vtv4 576p
-http://s3.ttvmax.com:21585/vtv4/playlist.m3u8
-sctv6 576p
-http://s3.ttvmax.com:21585/vtv5/playlist.m3u8
-vtv6 576p
-http://s3.ttvmax.com:21585/vtv6/playlist.m3u8
-vtv9 576p
-http://s3.ttvmax.com:21585/vtv9/playlist.m3u8
-antv 576p
-http://s3.ttvmax.com:21585/antv/playlist.m3u8
-thvl1 576p
-http://s3.ttvmax.com:21585/thvl1/playlist.m3u8
-hanoitv1 576p
-http://s3.ttvmax.com:21585/hanoi1/playlist.m3u8
-
 live.tvon.vn
 vtv1 hd
 https://live.tvon.vn/g2/vtv1/master.m3u8
@@ -7078,6 +7006,24 @@ https://1011154949.vnns.net/htvc/htv9.720p.nimble.adm.tms/chunks.m3u8
 htv the thao hd
 https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/chunks.m3u8
+htvc gia dinh 720p
+https://1011154949.vnns.net/htvc/htvcgiadinh.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvcgiadinh.adm.720p.tms/chunks.m3u8
+htvc phu nu 720p
+https://1011154949.vnns.net/htvc/htvcphunu.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvcphunu.adm.720p.tms/chunks.m3u8
+htvc plus 720p
+https://1011154949.vnns.net/htvc/htvcplus.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvcplus.adm.720p.tms/chunks.m3u8
+htvc phim 720p
+https://1011154949.vnns.net/htvc/htvcphim.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvcphim.adm.720p.tms/chunks.m3u8
+htvc du lich va cuoc song
+https://1011154949.vnns.net/htvc/htvcdulich.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvcdulich.adm.720p.tms/chunks.m3u8
+htvc ca nhạc 720p
+https://1011154949.vnns.net/htvc/htvccanhac.adm.720p.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/htvccanhac.adm.720p.tms/chunks.m3u8
 thvl1 720p
 https://1011154949.vnns.net/htvc/thvl1hd.720p.nimble.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/thvl1hd.720p.nimble.adm.tms/chunks.m3u8
@@ -7108,6 +7054,21 @@ https://1011154949.vnns.net/htvc/hatinh.720p.adm.tms/chunks.m3u8
 atv1 an giang 720p
 https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/angiang.720p.adm.tms/chunks.m3u8
+ctv ca mau 720p
+https://1011154949.vnns.net/htvc/camau.720p.nb.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/camau.720p.nb.adm.tms/chunks.m3u8
+babikieumypt 720p
+https://1011154949.vnns.net/htvc/dongthapsd.480p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/dongthapsd.480p.adm.tms/chucks.m3u8
+dnnrtv1 dong nai 720p
+https://1011154949.vnns.net/htvc/kiengiang.720p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/kiengiang.720p.adm.tms/chunks.m3u8
+ltv1 lam dong 720p
+https://1011154949.vnns.net/htvc/lamdong.720p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/lamdong.720p.adm.tms/chunks.m3u8
+thp3 hai phong 720p
+https://1011154949.vnns.net/htvc/haiphongsd.720p.adm.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/haiphongsd.720p.adm.tms/chunks.m3u8
 voh 99,9 mhz
 https://1011154949.vnns.net/htvc/VOH-FM99.9.adm.tms/playlist.m3u8
 https://1011154949.vnns.net/htvc/VOH-FM99.9.adm.tms/chunks.m3u8
