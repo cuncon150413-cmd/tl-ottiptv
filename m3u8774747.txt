@@ -3273,13 +3273,6 @@ huetv 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/playlist_480p.m3u8
 huetv 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/playlist_360p.m3u8
-qngtv1 quang ngai 720p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/master.m3u8
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_720p.m3u8
-qngtv1 quang ngai 480p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_480p.m3u8
-qngtv1 quang ngai 360p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_360p.m3u8
 lstv lang son 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
@@ -3527,13 +3520,6 @@ huetv 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/playlist_480p.m3u8
 huetv 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/playlist_360p.m3u8
-qngtv1 quang ngai 720p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/master.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_720p.m3u8
-qngtv1 quang ngai 480p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_480p.m3u8
-qngtv1 quang ngai 360p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-quangngai1tv/playlist_360p.m3u8
 lstv lang son 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
@@ -3608,11 +3594,6 @@ vtvgo event 1 480p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-480p.m3u8
 vtvgo event 1 360p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-360p.m3u8
-vtv1 hd
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/digital_04-720p.m3u8
 
 events.vtvdigital.vn
 ctv ca mau 720p
@@ -3659,11 +3640,7 @@ vtvgo event 1 480p
 https://events.vtvdigital.vn/livestream/eplus-480p.m3u8
 vtvgo event 1 360p
 https://events.vtvdigital.vn/livestream/eplus-360p.m3u8
-vtv1 hd
-https://events.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://events.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://events.vtvdigital.vn/livestream/digital_04-720p.m3u8
+
 
 vtvgolive-vtv.vtvdigital.vn
 ctv ca mau 720p
@@ -3710,11 +3687,6 @@ vtvgo event 1 480p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-480p.m3u8
 vtvgo event 1 360p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-360p.m3u8
-vtv1 hd
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-720p.m3u8
 
 vtvgolive-qt.vtvdigital.vn
 ctv ca mau 720p
@@ -3761,18 +3733,8 @@ vtvgo event 1 480p
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-480p.m3u8
 vtvgo event 1 360p
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-360p.m3u8
-vtv1 hd
-https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-1080p.m3u8
-vtv1 720p
-https://vtvgolive-qt.vtvdigital.vn/livestream/digital_04-720p.m3u8
 
 vtvgolivesmarttv2-aws-tn.vtvdigital.vn
-vtv1 hd
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-manifest.m3u8
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-1080p.m3u8
-vtv1 720p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/digital_04-720p.m3u8
 vtvgo event 1 1080p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-1080p.m3u8
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-manifest.m3u8
@@ -3784,11 +3746,6 @@ vtvgo event 1 360p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-360p.m3u8
 
 d2msoi9s9viefm.cloudfront.net
-vtv1 hd
-https://d2msoi9s9viefm.cloudfront.net/digital_04-manifest.m3u8
-https://d2msoi9s9viefm.cloudfront.net/digital_04-1080p.m3u8
-vtv1 720p
-https://d2msoi9s9viefm.cloudfront.net/digital_04-720p.m3u8
 vtvgo event 1 1080p
 https://d2msoi9s9viefm.cloudfront.net/eplus-1080p.m3u8
 https://d2msoi9s9viefm.cloudfront.net/eplus-manifest.m3u8
