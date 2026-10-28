@@ -30,7 +30,7 @@ https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
 https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/source/index.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
-https://freem3u.xyz/api/live/play.m3u8?vid=9951
+https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
 #EXTINF:-1 tvg-id="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh CAND
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
@@ -282,7 +282,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest/scale-to-width-down/1000?cb=20230118075014&path-prefix=vi" group-title="VTVCab",ON Golf
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #EXTINF:-1 tvg-id="langson" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/LSTV_logo.png/revision/latest?cb=20220629080800&path-prefix=vi" group-title="VTVCab",LSTV Lạng Sơn
-https://liveh34.vtvprime.vn/hls/LANGSON/index.m3u8
+https://liveh34.seenow.vn/hls/LANGSON/index.m3u8
 
 #EXTINF:-1 tvg-id="spotv1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="MyTV",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -383,6 +383,7 @@ https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_31-12-2024_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260414043029&path-prefix=vi" group-title="HTV",HTV9
 https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/HTVC_Gia_%C4%91%C3%ACnh_2018.png/revision/latest?cb=20241219124842&path-prefix=vi" group-title="HTVC",HTVC Gia Đình
 https://freem3u.xyz/api/live/play.m3u8?vid=11
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ Nữ
@@ -517,6 +518,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/LTV3_Lam_Dong_logo.png/revision/latest?cb=20251030040159&path-prefix=vi" group-title="Địa Phương Cũ",LTV3 Lâm Đồng
 https://vietanhtv.id.vn/sctv/bao-va-pt-th-lam-dong-ltv3/index.m3u8
+#EXTINF:-1 tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/LA34_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20251230143242&path-prefix=vi" group-title="Địa Phương Cũ",LA34 Long An
+https://cdn.drt.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/NTV_HD_Nam_%C4%90%E1%BB%8Bnh_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20221216095224&path-prefix=vi" group-title="Địa Phương Cũ",NTV Nam Định
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/ninhbinh/tothanhdz-live-12h-22-12-2024.m3u8
 #EXTINF:-1 tvg-id="nghean" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/NTV_Ngh%E1%BB%87_An.png/revision/latest/scale-to-width-down/1055?cb=20250529155910&path-prefix=vi" group-title="Địa Phương",NTV Nghệ An
@@ -584,6 +587,12 @@ http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
 https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="FM Radio",VOV5 247
 https://audio-lss.vov.vn/live/vov24_7.m3u8
+#EXTINF:-1 tvg-id="vov5sgf" group-title="FM Radio",VOV5 Spanish German French
+https://stream.vovlive.vn/vovlive/vov5.SpanishGermanFrench.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="vov5rc" group-title="FM Radio",VOV5 Russian Chinese
+https://stream.vovlive.vn/vovlive/vov5.RussianChinese.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="vovsonata" group-title="FM Radio",VOV Sonata
+https://audio-lss.vov.vn/live/sonata.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="FM Radio",VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="FM Radio",VOV Giao Thông Mê Kông
