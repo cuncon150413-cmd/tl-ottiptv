@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg" group-title="VTV",VTV1
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg" group-title="VTV",VTV2
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png" group-title="VTV",VTV3
@@ -19,7 +19,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="vtv7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VTV7_logo_2016_final.svg" group-title="VTV",VTV7
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" group-title="VTV",VTV8
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
+https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/sc-gaFEAQ/v2_index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1280px-VTV9_logo_2013_final.svg.png" group-title="VTV",VTV9
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755" group-title="VTV",VTV10
