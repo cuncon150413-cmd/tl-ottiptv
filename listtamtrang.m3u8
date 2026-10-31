@@ -1,7 +1,9 @@
 #EXTM3U
 
+-- update #1 20:16 31/10/2026 bị delete 1 kb trong ptg, giảm 720p --> 480p cho HYTV Hưng Yên --
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV1_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907124651&path-prefix=vi" group-title="VTV",VTV1
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV2_logo_%282026-nay%29.png/revision/latest?cb=20260907124810&path-prefix=vi" group-title="VTV",VTV2
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/VTV3_logo_%282026-nay%29.png/revision/latest?cb=20260907124850&path-prefix=vi" group-title="VTV",VTV3
@@ -143,7 +145,7 @@ https://liveh34.vtvprime.vn/hls/HAIPHONG3/index.m3u8
 #EXTINF:-1 tvg-id="hue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png" group-title="Địa Phương",HuếTV Huế
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/master.m3u8
 #EXTINF:-1 tvg-id="hungyen" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HY_logo_2020.png/revision/latest/scale-to-width-down/985?cb=20221103132355&path-prefix=vi" group-title="Địa Phương",HYTV Hưng Yên
-https://liveh12.vtvprime.vn/hls/HUNGYENTV/index.m3u8
+https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260104081252&path-prefix=vi" group-title="Địa Phương",KTV Khánh Hòa
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/index.m3u8
 #EXTINF:-1 tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/KTV1_logo.png/revision/latest/scale-to-width-down/1000?cb=20260101114305&path-prefix=vi" group-title="Địa Phương",KTV1 Khánh Hòa

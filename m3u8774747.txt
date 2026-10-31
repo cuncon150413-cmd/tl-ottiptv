@@ -2568,7 +2568,7 @@ drt dak lak 720p
 https://live.tvon.vn/s8/hls/thdaklak/index.m3u8
 ltv2 lam dong 576p
 https://live.tvon.vn/s8/hls/thbinhthuan/index.m3u8
-ctv ca mau 720p
+ctv ca mau 576p
 https://live.tvon.vn/s8/hls/thcamau/index.m3u8
 hgtv hau giang 576p
 https://live.tvon.vn/s8/hls/haugiang/index.m3u8
@@ -4801,8 +4801,10 @@ btv bac ninh 480p
 https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://cmcdp2.vtvdigital.vn/hls/DANANG2/index.m3u8
+https://cmcdp2.vtvdigital.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://cmcdp2.vtvdigital.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://cmcdp2.vtvdigital.vn/hls/DANANG2/02.m3u8
@@ -5016,8 +5018,10 @@ btv bac ninh 480p
 https://w2d0548bvazcc.cmccdn.net/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://w2d0548bvazcc.cmccdn.net/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://w2d0548bvazcc.cmccdn.net/hls/DANANG2/index.m3u8
+https://w2d0548bvazcc.cmccdn.net/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://w2d0548bvazcc.cmccdn.net/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://w2d0548bvazcc.cmccdn.net/hls/DANANG2/02.m3u8
@@ -5231,8 +5235,10 @@ btv bac ninh 480p
 https://im4czwkxf7liv.vcdn.cloud/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://im4czwkxf7liv.vcdn.cloud/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://im4czwkxf7liv.vcdn.cloud/hls/DANANG2/index.m3u8
+https://im4czwkxf7liv.vcdn.cloud/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://im4czwkxf7liv.vcdn.cloud/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://im4czwkxf7liv.vcdn.cloud/hls/DANANG2/02.m3u8
@@ -5446,8 +5452,10 @@ btv bac ninh 480p
 https://liveh34.seenow.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://liveh34.seenow.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://liveh34.seenow.vn/hls/DANANG2/index.m3u8
+https://liveh34.seenow.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://liveh34.seenow.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://liveh34.seenow.vn/hls/DANANG2/02.m3u8
@@ -5661,8 +5669,10 @@ btv bac ninh 480p
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8
+https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://liveh34.vtvprime.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://liveh34.vtvprime.vn/hls/DANANG2/02.m3u8
@@ -5876,8 +5886,10 @@ btv bac ninh 480p
 https://liveh34vng.vtvprime.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://liveh34vng.vtvprime.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://liveh34vng.vtvprime.vn/hls/DANANG2/index.m3u8
+https://liveh34vng.vtvprime.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://liveh34vng.vtvprime.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://liveh34vng.vtvprime.vn/hls/DANANG2/02.m3u8
@@ -6091,8 +6103,10 @@ btv bac ninh 480p
 https://liveh34byt.vtvprime.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://liveh34byt.vtvprime.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://liveh34byt.vtvprime.vn/hls/DANANG2/index.m3u8
+https://liveh34byt.vtvprime.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://liveh34byt.vtvprime.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://liveh34byt.vtvprime.vn/hls/DANANG2/02.m3u8
@@ -6306,8 +6320,10 @@ btv bac ninh 480p
 https://cdnet-cdn-03.onsports.vn/hls/BACGIANGTV/02.m3u8
 btv bac ninh 360p
 https://cdnet-cdn-03.onsports.vn/hls/BACGIANGTV/01.m3u8
-dnrt2 da nang 720p
+dnrt2 da nang hd
 https://cdnet-cdn-03.onsports.vn/hls/DANANG2/index.m3u8
+https://cdnet-cdn-03.onsports.vn/hls/DANANG2/04.m3u8
+dnrt2 da nang 720p
 https://cdnet-cdn-03.onsports.vn/hls/DANANG2/03.m3u8
 dnrt2 da nang 480p
 https://cdnet-cdn-03.onsports.vn/hls/DANANG2/02.m3u8
