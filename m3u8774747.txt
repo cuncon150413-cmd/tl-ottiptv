@@ -2406,12 +2406,12 @@ https://live.tvon.vn/g5/antv/audio/playlist.m3u8
 qpvn hd
 https://live.tvon.vn/g5/quocphongvn/master.m3u8
 https://live.tvon.vn/g5/quocphongvn/video_hd_compat/playlist.m3u8
-https://live.tvon.vn/g5/qoVocsfPs5/quocphongvn/video_hd/playlist.m3u8
+https://live.tvon.vn/g5/quocphongvn/video_hd/playlist.m3u8
 qpvn 576p
-https://live.tvon.vn/g5/qoVocsfPs5/quocphongvn/video_ld_compat/playlist.m3u8
-https://live.tvon.vn/g5/qoVocsfPs5/quocphongvn/video_ld/playlist.m3u8
+https://live.tvon.vn/g5/quocphongvn/video_ld_compat/playlist.m3u8
+https://live.tvon.vn/g5/quocphongvn/video_ld/playlist.m3u8
 qpvn audio
-https://live.tvon.vn/g5/qoVocsfPs5/quocphongvn/audio/playlist.m3u8
+https://live.tvon.vn/g5/quocphongvn/audio/playlist.m3u8
 sctv1 hd
 https://live.tvon.vn/g2/sctv1/master.m3u8
 https://live.tvon.vn/g2/sctv1/video_hd_compat/playlist.m3u8
@@ -2497,6 +2497,7 @@ https://live.tvon.vn/g1/sctv18/video_hd_compat/playlist.m3u8
 https://live.tvon.vn/g5/sctv18/video_hd_compat/playlist.m3u8
 https://live.tvon.vn/g1/sctv18/video_hd/playlist.m3u8
 https://live.tvon.vn/g5/sctv18/video_hd/playlist.m3u8
+https://live.tvon.vn/s2/hls/vtc1/index.m3u8
 sctv18 576p
 https://live.tvon.vn/g1/sctv18/video_ld_compat/playlist.m3u8
 https://live.tvon.vn/g5/sctv18/video_ld_compat/playlist.m3u8
@@ -3170,11 +3171,6 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_720p/chunks.m3u8
 hytv hung yen 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_480p/chunks.m3u8
-huetv 720p
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/playlist.m3u8
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_720p/chunks.m3u8
-huetv 480p
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_480p/chunks.m3u8
 can tho 1 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_720p/chunks.m3u8
@@ -3345,90 +3341,175 @@ vietnamtoday 360p
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv360p-h264/index.m3u8
 
 vtvgolive-sctvdrm.vtvdigital.vn
+vtv1 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist-pre_1080p.m3u8
 vtv1 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist-pre_720p.m3u8
 vtv1 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist-pre_480p.m3u8
 vtv1 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist-pre_360p.m3u8
+vtv2 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist-pre_1080p.m3u8
 vtv2 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist-pre_720p.m3u8
 vtv2 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist-pre_480p.m3u8
 vtv2 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist-pre_360p.m3u8
+vtv3 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist-pre_1080p.m3u8
 vtv3 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist-pre_720p.m3u8
 vtv3 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist-pre_480p.m3u8
 vtv3 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist-pre_360p.m3u8
+vtv4 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist-pre_1080p.m3u8
 vtv4 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist-pre_720p.m3u8
 vtv4 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist-pre_480p.m3u8
 vtv4 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist-pre_360p.m3u8
+vtv5 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist-pre_1080p.m3u8
 vtv5 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist-pre_720p.m3u8
 vtv5 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist-pre_480p.m3u8
 vtv5 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist-pre_360p.m3u8
+vtv5 tay nam bo hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_1080p.m3u8
 vtv5 tay nam bo 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_720p.m3u8
 vtv5 tay nam bo 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_480p.m3u8
 vtv5 tay nam bo 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_360p.m3u8
+vtv5 tay nguyen hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist-pre_1080p.m3u8
 vtv5 tay nguyen 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist-pre_720p.m3u8
 vtv5 tay nguyen 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist-pre_480p.m3u8
 vtv5 tay nguyen 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist-pre_360p.m3u8
+vtv6 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist-pre_1080p.m3u8
 vtv6 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist-pre_720p.m3u8
 vtv6 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist-pre_480p.m3u8
 vtv6 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6tt/playlist-pre_360p.m3u8
+vtv7 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist-pre_1080p.m3u8
 vtv7 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist-pre_720p.m3u8
 vtv7 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist-pre_480p.m3u8
 vtv7 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist-pre_360p.m3u8
+vtv8 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist-pre_1080p.m3u8
 vtv8 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist-pre_720p.m3u8
 vtv8 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist-pre_480p.m3u8
 vtv8 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist-pre_360p.m3u8
+vtv9 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist-pre_1080p.m3u8
 vtv9 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist-pre_720p.m3u8
 vtv9 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist-pre_480p.m3u8
 vtv9 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist-pre_360p.m3u8
+vtv10 hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist-pre_1080p.m3u8
 vtv10 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist-pre_720p.m3u8
 vtv10 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist-pre_480p.m3u8
 vtv10 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist-pre_360p.m3u8
+vietnam today hd
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/master-pre.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_1080p.m3u8
+vietnam today 720p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_720p.m3u8
+vietnam today 480p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_480p.m3u8
+vietnam today 360p
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_360p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_360p.m3u8
 sctv2 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/playlist_720p.m3u8
@@ -3555,13 +3636,6 @@ tn tay ninh 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-tayninhtv/playlist_480p.m3u8
 tn tay ninh 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-tayninhtv/playlist_360p.m3u8
-huetv 720p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/master.m3u8
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/playlist_720p.m3u8
-huetv 480p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/playlist_480p.m3u8
-huetv 360p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-huetv/playlist_360p.m3u8
 lstv lang son 720p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
@@ -3583,99 +3657,177 @@ thvl1 480p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_480p.m3u8
 thvl1 360p
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_360p.m3u8
-vietnam today 720p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/master.m3u8
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
-vietnam today 480p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_480p.m3u8
-vietnam today 360p
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/playlist_360p.m3u8
 
 vtvgolive-ssaimh.vtvdigital.vn
+vtv1 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist-pre_1080p.m3u8
 vtv1 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist-pre_720p.m3u8
 vtv1 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist-pre_480p.m3u8
 vtv1 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist-pre_360p.m3u8
+vtv2 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist-pre_1080p.m3u8
 vtv2 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist-pre_720p.m3u8
 vtv2 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist-pre_480p.m3u8
 vtv2 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist-pre_360p.m3u8
+vtv3 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist-pre_1080p.m3u8
 vtv3 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist-pre_720p.m3u8
 vtv3 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist-pre_480p.m3u8
 vtv3 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist-pre_360p.m3u8
+vtv4 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist-pre_1080p.m3u8
 vtv4 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist-pre_720p.m3u8
 vtv4 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist-pre_480p.m3u8
 vtv4 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist-pre_360p.m3u8
+vtv5 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist-pre_1080p.m3u8
 vtv5 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist-pre_720p.m3u8
 vtv5 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist-pre_480p.m3u8
 vtv5 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist-pre_360p.m3u8
+vtv5 tay nam bo hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_1080p.m3u8
 vtv5 tay nam bo 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_720p.m3u8
 vtv5 tay nam bo 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_480p.m3u8
 vtv5 tay nam bo 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist-pre_360p.m3u8
+vtv5 tay nguyen hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist-pre_1080p.m3u8
 vtv5 tay nguyen 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist-pre_720p.m3u8
 vtv5 tay nguyen 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist-pre_480p.m3u8
 vtv5 tay nguyen 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist-pre_360p.m3u8
+vtv6 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist-pre_1080p.m3u8
 vtv6 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist-pre_720p.m3u8
 vtv6 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist-pre_480p.m3u8
 vtv6 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist-pre_360p.m3u8
+vtv7 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist-pre_1080p.m3u8
 vtv7 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist-pre_720p.m3u8
 vtv7 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist-pre_480p.m3u8
 vtv7 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist-pre_360p.m3u8
+vtv8 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist-pre_1080p.m3u8
 vtv8 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist-pre_720p.m3u8
 vtv8 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist-pre_480p.m3u8
 vtv8 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist-pre_360p.m3u8
+vtv9 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist-pre_1080p.m3u8
 vtv9 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist-pre_720p.m3u8
 vtv9 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist-pre_480p.m3u8
 vtv9 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist-pre_360p.m3u8
+vtv10 hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist-pre_1080p.m3u8
 vtv10 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist-pre_720p.m3u8
 vtv10 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist-pre_480p.m3u8
 vtv10 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist-pre_360p.m3u8
+vietnam today hd
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/master-pre.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_1080p.m3u8
+vietnam today 720p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_720p.m3u8
+vietnam today 480p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_480p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_480p.m3u8
+vietnam today 360p
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_360p.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist-pre_360p.m3u8
 sctv2 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/sctv2/playlist_720p.m3u8
@@ -3802,13 +3954,6 @@ tn tay ninh 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-tayninhtv/playlist_480p.m3u8
 tn tay ninh 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-tayninhtv/playlist_360p.m3u8
-huetv 720p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/master.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/playlist_720p.m3u8
-huetv 480p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/playlist_480p.m3u8
-huetv 360p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-huetv/playlist_360p.m3u8
 lstv lang son 720p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/master.m3u8
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-langsontv/playlist_720p.m3u8
@@ -3830,13 +3975,6 @@ thvl1 480p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_480p.m3u8
 thvl1 360p
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_360p.m3u8
-vietnam today 720p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/master.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
-vietnam today 480p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_480p.m3u8
-vietnam today 360p
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_360p.m3u8
 
 kenhdp-vtvgo.vtvdigital.vn
 ctv ca mau 720p
@@ -3867,13 +4005,6 @@ vtv5 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-stv son la 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-stv son la 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtvgo event 1 1080p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -3913,13 +4044,6 @@ vtv5 480p
 https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-stv son la 720p
-https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-stv son la 480p
-https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtvgo event 1 1080p
 https://events.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -3960,13 +4084,6 @@ vtv5 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-stv son la 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-stv son la 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtvgo event 1 1080p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -4006,13 +4123,6 @@ vtv5 480p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-stv son la 720p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-720p.m3u8
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
-stv son la 480p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-480p.m3u8
-stv son la 360p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-360p.m3u8
 vtvgo event 1 1080p
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-manifest.m3u8
