@@ -38,6 +38,26 @@ https://qpvn.vn/live/qpvn/720p.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20240817111510&path-prefix=vi" group-title="VTVCab",ON Vie Giải Trí
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+#EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/ON_Phim_Vi%E1%BB%87t_08-09-2021.png/revision/latest?cb=20230606020123&path-prefix=vi" group-title="VTVCab",ON Phim Việt
+https://live.tvon.vn/g4/vtvcab2/video_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="onmovies" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20221211044023&path-prefix=vi" group-title="VTVCab",ON Movies
+https://live.tvon.vn/s3/hls/vtvcab4/index.m3u8
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/ON_E_Channel_08-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20231122022922&path-prefix=vi" group-title="VTVCab",ON E Channel
+https://live.tvon.vn/s3/hls/vtvcab5/index.m3u8
+#EXTINF:-1 tvg-id="onviedramas" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest?cb=20240816025529&path-prefix=vi" group-title="VTVCab",ON Vie Dramas
+https://live.tvon.vn/s3/hls/vtvcab7/index.m3u8
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi" group-title="VTVCab",ON Cine
+https://live.tvon.vn/s3/hls/vtvcab10/index.m3u8
+#EXTINF:-1 tvg-id="onstyletv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/ON_Style_TV_logo_ident_2023.png/revision/latest/scale-to-width-down/200?cb=20230331132039&path-prefix=vi" group-title="VTVCab",ON Style TV
+https://live.tvon.vn/s3/hls/vtvcab12/index.m3u8
+#EXTINF:-1 tvg-id="onhomeshopping" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Home_Shopping.png/revision/latest/scale-to-width-down/1000?cb=20240806013646&path-prefix=vi" group-title="VTVCab",ON Home Shopping
+https://livesct.vtvprime.vn/mean/VTVCAB13/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:-1 tvg-id="onmusic" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_Music_-_Copyright_by_VTVcab_logo.png/revision/latest/scale-to-width-down/200?cb=20221207120816&path-prefix=vi" group-title="VTVCab",ON Music
+https://live.tvon.vn/s3/hls/vtvcab15/index.m3u8
+#EXTINF:-1 tvg-id="ontrending" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/200?cb=20250401154338&path-prefix=vi" group-title="VTVCab",ON Trending TV
+https://live.tvon.vn/s3/hls/vtvcab17/index.m3u8
+#EXTINF:-1 tvg-id="ongolf" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest/scale-to-width-down/1000?cb=20230118075014&path-prefix=vi" group-title="VTVCab",ON Golf
+https://live.tvon.vn/s4/hls/vtvcab23/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/SCTV2.png/revision/latest?cb=20201119114104&path-prefix=vi" group-title="SCTV",SCTV2
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
