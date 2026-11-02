@@ -26,6 +26,8 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/playlist.m3u8
 https://live.tvon.vn/g2/vtv10/master.m3u8
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVGo Event 1
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVGo Event 2
+https://events.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-storage-image-staging.vtvdigital.vn/vtvgo-next/images/channel/20261019/2026101902/46adf44a-248b-4d95-815e-932bee50f85f-7da415fd-3f79-40c3-99db-7b5b9b0515a5-VTVgo-Phim-VFC-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Truyện VFC
 https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/source/index.m3u8
 

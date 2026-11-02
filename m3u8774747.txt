@@ -3265,6 +3265,11 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_720p/chunks.m3u8
 hytv hung yen 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hungyentv/live/hungyentv_480p/chunks.m3u8
+huetv 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_720p/chunks.m3u8
+huetv 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/huetv/live/huetv_480p/chunks.m3u8
 can tho 1 720p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_720p/chunks.m3u8
@@ -4099,15 +4104,25 @@ vtv5 480p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-720p.m3u8
-vtvgo event 1 480p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-480p.m3u8
-vtvgo event 1 360p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-360p.m3u8
+stv son la 720p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+stv son la 480p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtvgo event 2 hd
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
+vtvgo event 2 480p
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
 
 events.vtvdigital.vn
 ctv ca mau 720p
@@ -4138,16 +4153,25 @@ vtv5 480p
 https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://events.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://events.vtvdigital.vn/livestream/eplus-720p.m3u8
-vtvgo event 1 480p
-https://events.vtvdigital.vn/livestream/eplus-480p.m3u8
-vtvgo event 1 360p
-https://events.vtvdigital.vn/livestream/eplus-360p.m3u8
-
+stv son la 720p
+https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+stv son la 480p
+https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtvgo event 2 hd
+https://events.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
+https://events.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://events.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
+vtvgo event 2 480p
+https://events.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
 ctv ca mau 720p
@@ -4178,15 +4202,25 @@ vtv5 480p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-720p.m3u8
-vtvgo event 1 480p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-480p.m3u8
-vtvgo event 1 360p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-360p.m3u8
+stv son la 720p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+stv son la 480p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtvgo event 2 hd
+https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
+vtvgo event 2 480p
+https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
 
 vtvgolive-qt.vtvdigital.vn
 ctv ca mau 720p
@@ -4217,15 +4251,25 @@ vtv5 480p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
 vtv5 360p
 https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-720p.m3u8
-vtvgo event 1 480p
-https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-480p.m3u8
-vtvgo event 1 360p
-https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-360p.m3u8
+stv son la 720p
+https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-720p.m3u8
+https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
+stv son la 480p
+https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-480p.m3u8
+stv son la 360p
+https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-360p.m3u8
+vtvgo event 2 hd
+https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
+https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
+vtvgo event 2 480p
+https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
 
 vtvgolivesmarttv2-aws-tn.vtvdigital.vn
 vtvgo event 1 1080p
@@ -7583,10 +7627,10 @@ https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/chunks.m3u8
 vtv3 hd
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/chunks.m3u8
-htv1 720p
+htv1 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/chunks.m3u8
-htv2 720p
+htv2 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 htv3 720p
@@ -7670,13 +7714,13 @@ https://1011154949.vnns.net/CDN-FPT02/DANANG1-SD-720p/chunks.m3u8
 thp3 hai phong 720p
 https://1011154949.vnns.net/CDN-FPT02/HAIPHONG-SD-720p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HAIPHONG-SD-720p/chunks.m3u8
-drt dak lak 720p
+drt dak lak hd
 https://1011154949.vnns.net/CDN-FPT02/DAKLAK-SD-720p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/DAKLAK-SD-720p/chunks.m3u8
-ktv khanh hoa 720p
+ktv khanh hoa hd
 https://1011154949.vnns.net/CDN-FPT02/KHANHHOA-SD-720p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/KHANHHOA-SD-720p/chunks.m3u8
-bhttv ha tinh 720p
+bhttv ha tinh hd
 https://1011154949.vnns.net/CDN-FPT02/HATINH-SD-720p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HATINH-SD-720p/chunks.m3u8
 qpvn 720p
@@ -7835,14 +7879,10 @@ antv 720p
 https://luuchieu.truyenhinhso.vn/media/live/74CE8EB8C9F813053E704DE6/index.m3u8
 qpvn 720p
 https://luuchieu.truyenhinhso.vn/media/live/9F7A34862D75E49111D3A5BE/index.m3u8
-lao cai dan toc radio
-https://luuchieu.truyenhinhso.vn/media/live/EB3679E0A4EB1DD7FE8FB626/index.m3u8
 lao cai radio
 https://luuchieu.truyenhinhso.vn/media/live/0183E110869F11DED7E12F49/index.m3u8
 lai chau radio
 https://luuchieu.truyenhinhso.vn/media/live/CAEF2D87600663654AA4B546/index.m3u8
-phu tho radio
-https://luuchieu.truyenhinhso.vn/media/live/2891C20AEEE55F9DD1ADB330/index.m3u8
 tuyen quang radio
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 vov1
