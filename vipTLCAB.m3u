@@ -1,35 +1,47 @@
 ﻿#EXTM3U tvg-url="https://lichphatsong.io.vn/epg.xml,https://epg.io.vn/epg.xml,http://trada.info/epg.xml,http://epg.51zmt.top:8000/e.xml,http://epg.it999.ru/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml" m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV1_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907124651&path-prefix=vi" group-title="VTV",VTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv1_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV2_logo_%282026-nay%29.png/revision/latest?cb=20260907124810&path-prefix=vi" group-title="VTV",VTV2
-https://live.tvon.vn/g4/vtv2/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv2_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/VTV3_logo_%282026-nay%29.png/revision/latest?cb=20260907124850&path-prefix=vi" group-title="VTV",VTV3
-https://live.tvon.vn/g2/vtv3/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv3_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2c/VTV4_logo_%282026-nay%29.png/revision/latest?cb=20260907125330&path-prefix=vi" group-title="VTV",VTV4
 https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/VTV5_logo_%282026-nay%29.png/revision/latest?cb=20261001010040&path-prefix=vi" group-title="VTV",VTV5
-https://live.tvon.vn/g1/vtv5/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV5_T%C3%A2y_Nam_B%E1%BB%99_logo_2026.png/revision/latest?cb=20261001010142&path-prefix=vi" group-title="VTV",VTV5 Tây Nam Bộ
-https://live.tvon.vn/s8/channel/vtv5_tnb/index.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTV5_T%C3%A2y_Nguy%C3%AAn_logo_2026.png/revision/latest?cb=20261001010536&path-prefix=vi" group-title="VTV",VTV5 Tây Nguyên
-https://live.tvon.vn/g1/vtv5tn/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/VTV6_logo_%282026-nay%29.png/revision/latest?cb=20260927071720&path-prefix=vi" group-title="VTV",VTV6
-https://live.tvon.vn/g4/vtv6/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/VTV7_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907134313&path-prefix=vi" group-title="VTV",VTV7
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_free/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7b/VTV8_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260910150403&path-prefix=vi" group-title="VTV",VTV8
-https://cdnet-cdn-01.onsports.vn/mean/VTV8_HD/index.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/VTV9_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907134410&path-prefix=vi" group-title="VTV",VTV9
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VTV10_logo_%282026-nay%29.png/revision/latest?cb=20260907125554&path-prefix=vi" group-title="VTV",VTV10
-https://live.tvon.vn/g2/vtv10/master.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVGo Event 1
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVGo Event 2
 https://events.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-storage-image-staging.vtvdigital.vn/vtvgo-next/images/channel/20261019/2026101902/46adf44a-248b-4d95-815e-932bee50f85f-7da415fd-3f79-40c3-99db-7b5b9b0515a5-VTVgo-Phim-VFC-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Truyện VFC
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/8353f62f-c4de-40c6-9e8e-b482d8e9d0af-VTVgo-Phim-VFC-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Truyện VFC
 https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/source/index.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/b630a0a6-3ef5-49ce-9cbd-de17a42f019a-VTVgo-Phim-Tai-Lieu-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Tài Liệu
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/313e1dfc-ef52-4628-a060-f9c9560eb2ad-VTVgo-Ca-Nhac-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Ca Nhạc
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/e059e6ba-873c-4312-894f-1c13ab116d38-VTVgo-Gameshow-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo GameShow
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/9e6eb8e2-7b39-4a3d-8f68-30c5872d9285-VTVgo-Du-Lich-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Du Lịch
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/dc677b5e-64bc-493f-89dc-0a8586c067ce-VTVgo-Suc-Khoe-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Sức Khỏe
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/fb907222-beef-4ca7-9d28-5cb9ecd91828-VTVgo-Thieu-Nhi-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Thiếu Nhi
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
