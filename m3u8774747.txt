@@ -985,6 +985,20 @@ https://live.drt.vn/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
 https://live.drt.vn/qtvlive/qnr2.m3u8
 
+live.langsontv.vn
+dnnrtv1 dong nai 720p
+https://live.langsontv.vn/dongnai/tv1live-transmux.m3u8
+dnnrtv2 dong nai 720p
+https://live.langsontv.vn/dongnai/tv2live-transmux.m3u8
+qtv1 quang ninh hd
+https://live.langsontv.vn/qtvlive/tv1live.m3u8
+qtv3 quang ninh hd
+https://live.langsontv.vn/qtvlive/tv3live.m3u8
+qnr1 quang ninh 240p
+https://live.langsontv.vn/qtvlive/qnr1.m3u8
+qnr2 quang ninh 240p
+https://live.langsontv.vn/qtvlive/qnr2.m3u8
+
 vnptvas-mytv-tl2819302-tldigital.duckdns.org
 htv2 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv001&q=high&type=tv&location=NA&pkg=pkg11.hni
@@ -2124,8 +2138,8 @@ qtv1 quang ninh hd
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
-https://cdn.la34.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
-https://cdn.la34.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+https://cdn.baoquangninh.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
+https://cdn.baoquangninh.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
 
 118.107.85.4:1935
 dnnrtv1 dong nai 480p
@@ -3974,20 +3988,6 @@ dtv dien bien 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-can tho 1 480p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv5 720p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
-vtv5 480p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
-vtv5 360p
-https://kenhdp-vtvgo.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
 vtvgo event 1 hd
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -4023,20 +4023,6 @@ dtv dien bien 480p
 https://events.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://events.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://events.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-https://events.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-can tho 1 480p
-https://events.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://events.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv5 720p
-https://events.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
-https://events.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
-vtv5 480p
-https://events.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
-vtv5 360p
-https://events.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
 vtvgo event 1 hd
 https://events.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -4072,20 +4058,6 @@ dtv dien bien 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-can tho 1 480p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://vtvgolive-vtv.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv5 720p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
-vtv5 480p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
-vtv5 360p
-https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
 vtvgo event 1 hd
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -4121,20 +4093,6 @@ dtv dien bien 480p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-can tho 1 720p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-manifest.m3u8
-can tho 1 480p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-480p.m3u8
-can tho 1 360p
-https://vtvgolive-qt.vtvdigital.vn/kenhdp/cantho1-360p.m3u8
-vtv5 720p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-720p.m3u8
-vtv5 480p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-480p.m3u8
-vtv5 360p
-https://vtvgolive-qt.vtvdigital.vn/vtvgo/vtv5-360p.m3u8
 vtvgo event 1 hd
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-1080p.m3u8
 https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-manifest.m3u8
@@ -4156,26 +4114,32 @@ vtvgo event 2 480p
 https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
 
 vtvgolivesmarttv2-aws-tn.vtvdigital.vn
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-1080p.m3u8
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-720p.m3u8
-vtvgo event 1 480p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-480p.m3u8
-vtvgo event 1 360p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-360p.m3u8
+vtvgo event 2 hd
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-1080p.m3u8
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-720p.m3u8
+vtvgo event 2 480p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-480p.m3u8
 
 d2msoi9s9viefm.cloudfront.net
-vtvgo event 1 1080p
+vtvgo event 1 hd
 https://d2msoi9s9viefm.cloudfront.net/eplus-1080p.m3u8
 https://d2msoi9s9viefm.cloudfront.net/eplus-manifest.m3u8
 vtvgo event 1 720p
 https://d2msoi9s9viefm.cloudfront.net/eplus-720p.m3u8
-vtvgo event 1 480p
-https://d2msoi9s9viefm.cloudfront.net/eplus-480p.m3u8
-vtvgo event 1 360p
-https://d2msoi9s9viefm.cloudfront.net/eplus-360p.m3u8
+vtvgo event 2 hd
+https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-1080p.m3u8
+https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-manifest.m3u8
+vtvgo event 2 720p
+https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
+vtvgo event 2 720p
+https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
 
 fast-channel-stg.vtvdigital.vn
 vtvgo phim vfc hd
@@ -9078,7 +9042,7 @@ ltv2 lam dong hd
 http://tv.close.vn:8122/udp/225.1.1.124:30120
 nbtv ninh binh hd
 http://tv.close.vn:8122/udp/225.1.2.185:30120
-ntv nghe an hd
+natv nghe an hd
 http://tv.close.vn:8122/udp/225.1.2.183:30120
 tn tay ninh hd
 http://tv.close.vn:8122/udp/225.1.1.162:30120
