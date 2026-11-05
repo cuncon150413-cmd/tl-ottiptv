@@ -4266,6 +4266,13 @@ vtvgo thieu nhi 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/720p/index.m3u8
 vtvgo thieu nhi 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/480p/index.m3u8
+vtvgo event 3 hd
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/1080p/index.m3u8
+vtvgo event 3 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/720p/index.m3u8
+vtvgo event 3 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/480p/index.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
