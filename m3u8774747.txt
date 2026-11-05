@@ -906,6 +906,8 @@ dnnrtv1 dong nai 720p
 https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://cdn.mediatech.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 https://cdn.mediatech.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh 720p
@@ -920,6 +922,8 @@ dnnrtv1 dong nai 720p
 https://live.baoquangninh.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://live.baoquangninh.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://live.baoquangninh.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh 720p
@@ -934,6 +938,8 @@ dnnrtv1 dong nai 720p
 http://103.90.220.236/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 http://103.90.220.236/dongnai/tv2live-transmux.m3u8
+dong nai radio
+http://103.90.220.236/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 http://103.90.220.236/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
@@ -948,6 +954,8 @@ dnnrtv1 dong nai 720p
 https://qtv.vncdn.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://qtv.vncdn.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://qtv.vncdn.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
@@ -962,6 +970,8 @@ dnnrtv1 dong nai 720p
 https://live.sonlatv.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://live.sonlatv.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://live.sonlatv.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 https://live.sonlatv.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
@@ -976,6 +986,8 @@ dnnrtv1 dong nai 720p
 https://live.drt.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://live.drt.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://live.drt.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 https://live.drt.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
@@ -990,6 +1002,8 @@ dnnrtv1 dong nai 720p
 https://live.langsontv.vn/dongnai/tv1live-transmux.m3u8
 dnnrtv2 dong nai 720p
 https://live.langsontv.vn/dongnai/tv2live-transmux.m3u8
+dong nai radio
+https://live.langsontv.vn/dongnai/radio-transmux.m3u8
 qtv1 quang ninh hd
 https://live.langsontv.vn/qtvlive/tv1live.m3u8
 qtv3 quang ninh hd
@@ -1240,6 +1254,12 @@ https://live.mediatech.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://live.mediatech.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://live.mediatech.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://live.mediatech.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://live.mediatech.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.drt.vn
 stv son la hd
@@ -1340,6 +1360,12 @@ https://cdn.drt.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
 https://cdn.drt.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.drt.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.drt.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.drt.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.drt.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.drt.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.sonlatv.vn
 stv son la hd
@@ -1440,6 +1466,13 @@ https://cdn.sonlatv.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
 https://cdn.sonlatv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.sonlatv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.sonlatv.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.sonlatv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.sonlatv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.sonlatv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+
 
 stream.langsontv.vn
 stv son la hd
@@ -1540,6 +1573,12 @@ https://stream.langsontv.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3
 phat thanh bac ninh
 https://stream.langsontv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://stream.langsontv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://stream.langsontv.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://stream.langsontv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://stream.langsontv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://stream.langsontv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.baobinhphuoc.com.vn
 stv son la hd
@@ -1640,6 +1679,12 @@ https://cdn.baobinhphuoc.com.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlis
 phat thanh bac ninh
 https://cdn.baobinhphuoc.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.baobinhphuoc.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.baobinhphuoc.com.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.baobinhphuoc.com.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.baobinhphuoc.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.baobinhphuoc.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 live-hq.evgcdn.net
 stv son la hd
@@ -1740,6 +1785,12 @@ https://live-hq.evgcdn.net/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u
 phat thanh bac ninh
 https://live-hq.evgcdn.net/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://live-hq.evgcdn.net/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://live-hq.evgcdn.net/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://live-hq.evgcdn.net/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://live-hq.evgcdn.net/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://live-hq.evgcdn.net/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.thhp.vn
 stv son la hd
@@ -1840,6 +1891,12 @@ https://cdn.thhp.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
 https://cdn.thhp.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.thhp.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.thhp.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.thhp.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.thhp.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.thhp.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 live.haiduongtv.vn
 stv son la hd
@@ -1940,6 +1997,12 @@ https://live.haiduongtv.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u
 phat thanh bac ninh
 https://live.haiduongtv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://live.haiduongtv.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://live.haiduongtv.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://live.haiduongtv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://live.haiduongtv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://live.haiduongtv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.la34.com.vn
 stv son la hd
@@ -2040,6 +2103,12 @@ https://cdn.la34.com.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
 phat thanh bac ninh
 https://cdn.la34.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.la34.com.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.la34.com.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.la34.com.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.la34.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.la34.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 cdn.baoquangninh.vn
 stv son la hd
@@ -2140,6 +2209,12 @@ https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3
 phat thanh bac ninh
 https://cdn.baoquangninh.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
+tn thai nguyen 720p
+https://cdn.baoquangninh.vn/live/285743a79dd21fd4a838894125ec17fd168/chunklist.m3u8
+https://cdn.baoquangninh.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
+thai nguyen radio 720p
+https://cdn.baoquangninh.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
+https://cdn.baoquangninh.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
 
 118.107.85.4:1935
 dnnrtv1 dong nai 480p
@@ -2638,10 +2713,10 @@ vtv3 hd
 https://dethich.pw/vtv3/index.m3u8
 vtv4 hd
 https://dethich.pw/vtv4/index.m3u8
-vtv5 tay nguyen hd
-https://dethich.pw/vtv5tn/index.m3u8
 vtv5 tay nam bo hd
 https://dethich.pw/vtv5tnb/index.m3u8
+vtv5 tay nguyen hd
+https://dethich.pw/vtv5tn/index.m3u8
 vtv5 hd
 https://dethich.pw/vtv5/index.m3u8
 vtv6 hd
@@ -4144,18 +4219,53 @@ https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
 fast-channel-stg.vtvdigital.vn
 vtvgo phim vfc hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/1080p/index.m3u8
+vtvgo phim vfc 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/720p/index.m3u8
+vtvgo phim vfc 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/480p/index.m3u8
 vtvgo phim tai lieu hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/1080p/index.m3u8
+vtvgo phim tai lieu 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/720p/index.m3u8
+vtvgo phim tai lieu 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/480p/index.m3u8
 vtvgo ca nhac hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/1080p/index.m3u8
+vtvgo ca nhac 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/720p/index.m3u8
+vtvgo ca nhac 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/480p/index.m3u8
 vtvgo gameshow hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/1080p/index.m3u8
+vtvgo gameshow 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/720p/index.m3u8
+vtvgo gameshow 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/480p/index.m3u8
 vtvgo du lich hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/1080p/index.m3u8
+vtvgo du lich 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/720p/index.m3u8
+vtvgo du lich 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/480p/index.m3u8
 vtvgo suc khoe hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/1080p/index.m3u8
+vtvgo suc khoe 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/720p/index.m3u8
+vtvgo suc khoe 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/480p/index.m3u8
 vtvgo thieu nhi hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/1080p/index.m3u8
+vtvgo thieu nhi 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/720p/index.m3u8
+vtvgo thieu nhi 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/480p/index.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
@@ -9073,9 +9183,9 @@ ttv thanh hoa 576p
 http://tv.close.vn:8122/udp/225.1.2.184:30120
 http://tv.close.vn:8122/udp/225.1.3.165:30120
 http://tv.close.vn:8122/udp/225.1.4.162:30120
-fpt play channel 1
+fpt play channel 1 hd
 http://tv.close.vn:8122/udp/225.1.1.2:30120
-fpt play channel 2
+fpt play channel 2 hd
 http://tv.close.vn:8122/udp/225.1.4.199:30120
 multi screen vtv1 vtv1-vtv2-vtv4
 http://tv.close.vn:8122/udp/225.1.1.21:30120
