@@ -662,6 +662,8 @@ https://cdn.drt.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 https://cdn.drt.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthapradio" group-title="FM Radio",Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
+#EXTINF:-1 tvg-id="dongnairadio" group-title="FM Radio",Đồng Nai
+https://qtv.vncdn.vn/dongnai/radio-transmux.m3u8
 #EXTINF:-1 tvg-id="gialairadio" group-title="FM Radio",Gia Lai
 https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" group-title="FM Radio",Hà Tĩnh
@@ -705,9 +707,9 @@ http://113.161.6.157:8085/phatthanh/QRT.m3u8
 #EXTINF:-1 tvg-id="quangngairadio" group-title="FM Radio",Quảng Ngãi 102,9 mhz
 https://cdn.drt.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninhradio1" group-title="FM Radio",QNR1
-https://live.sonlatv.vn/qtvlive/qnr1.m3u8
+https://qtv.vncdn.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-id="quangninhradio2" group-title="FM Radio",QNR2
-https://live.sonlatv.vn/qtvlive/qnr2.m3u8
+https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 tvg-id="quangtriradio" group-title="FM Radio",Quảng Trị
 http://media01.dxtgroup.vn:8000/quangtri
 #EXTINF:-1 tvg-id="sonlaradio" group-title="FM Radio",Sơn La
@@ -988,8 +990,8 @@ https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtru
 https://tldigital-ott1.s.gy/dnrtv1-henxui
 #EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV2 Đồng Nai 
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
-#EXTINF:-1 tvg-id="dongnai3" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/%C4%90NNRTV3.png/revision/latest/scale-to-width-down/1000?cb=20250902053453&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV3 Đồng Nai
-https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongnai3" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/%C4%90NNRTV3.png/revision/latest/scale-to-width-down/1000?cb=20250902053453&path-prefix=vi" group-title="Thử Nghiệm",ĐNNRTV3 Đồng Nai (UDP ONLY)
+http://tv.close.vn:8122/udp/225.1.1.153:30120
 #EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Thử Nghiệm",LTV1 Lâm Đồng 
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Thử Nghiệm",NBTV Ninh Bình 4K real 100% no clickbait no ragebait no scam🤑✌
