@@ -4082,6 +4082,15 @@ vtvgo event 2 720p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
 vtvgo event 2 480p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-manifest.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
 
 events.vtvdigital.vn
 ctv ca mau 720p
@@ -4117,6 +4126,15 @@ vtvgo event 2 720p
 https://events.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
 vtvgo event 2 480p
 https://events.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://events.vtvdigital.vn/livestream/wildlife-manifest.m3u8
+https://events.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://events.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://events.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://events.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
 ctv ca mau 720p
@@ -4152,6 +4170,15 @@ vtvgo event 2 720p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
 vtvgo event 2 480p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-manifest.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
 
 vtvgolive-qt.vtvdigital.vn
 ctv ca mau 720p
@@ -4187,6 +4214,15 @@ vtvgo event 2 720p
 https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
 vtvgo event 2 480p
 https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-manifest.m3u8
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
 
 vtvgolivesmarttv2-aws-tn.vtvdigital.vn
 vtvgo event 1 hd
@@ -4201,6 +4237,15 @@ vtvgo event 2 720p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-720p.m3u8
 vtvgo event 2 480p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-manifest.m3u8
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-3680p50fps.m3u8
 
 d2msoi9s9viefm.cloudfront.net
 vtvgo event 1 hd
@@ -4215,6 +4260,15 @@ vtvgo event 2 720p
 https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
 vtvgo event 2 720p
 https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
+vtvgo event 4 hd
+https://d2msoi9s9viefm.cloudfront.net/wildlife-manifest.m3u8
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+vtvgo event 4 720p
+https://d2msoi9s9viefm.cloudfront.net/wildlife-720p50fps.m3u8
+vtvgo event 4 480p
+https://d2msoi9s9viefm.cloudfront.net/wildlife-480p50fps.m3u8
+vtvgo event 4 360p
+https://d2msoi9s9viefm.cloudfront.net/wildlife-3680p50fps.m3u8
 
 fast-channel-stg.vtvdigital.vn
 vtvgo phim vfc hd
