@@ -785,12 +785,6 @@ https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446
 vietnam today hd
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
 
-cohauw9bgpvod.vcdn.cloud
-bhttv ha tinh 720p
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
-bhttv radio
-https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
-
 live.baohatinh.vn
 bhttv ha tinh 720p
 https://live.baohatinh.vn/httv1/index.m3u8
@@ -902,6 +896,10 @@ can tho 2 hd
 https://tv.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
 can tho 3 hd
 https://tv.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
+
+media.bacgiangtv.vn
+lang son radio
+https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
 
 cdn.mediatech.vn
 dnnrtv1 dong nai 720p
@@ -2532,7 +2530,7 @@ drt dak lak 720p
 https://live.tvon.vn/s8/hls/thdaklak/index.m3u8
 https://live.tvon.vn/s8/channel/thdaklak/index.m3u8
 https://live.tvon.vn/s9/thdaklak/master.m3u8
-https://live.tvon.vn/s9/thdaklak/720pm3u8
+https://live.tvon.vn/s9/thdaklak/720p.m3u8
 drt dak lak 360p
 https://live.tvon.vn/s9/thdaklak/360p.m3u8
 ltv2 lam dong 576p
