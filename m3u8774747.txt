@@ -7940,7 +7940,7 @@ vtv9 hd
 https://vmttv.dpdns.org/VTVGo/?vtv9-hd
 vtv10 hd
 https://vmttv.dpdns.org/VTVGo/?vtv10-hd
-vietnamtoday hd
+vietnam today hd
 https://vmttv.dpdns.org/VTVGo/?vietnamtoday
 antv hd
 https://vmttv.dpdns.org/VTVGo/?antv
@@ -9236,12 +9236,102 @@ fpt play channel 1 hd
 http://tv.close.vn:8122/udp/225.1.1.2:30120
 fpt play channel 2 hd
 http://tv.close.vn:8122/udp/225.1.4.199:30120
-multi screen vtv1 vtv1-vtv2-vtv4
+multi screen vtv1 vtv1-vtv2-vtv4 hd
 http://tv.close.vn:8122/udp/225.1.1.21:30120
-multi screen vtv2 vtv1-vtv2-vtv4
+multi screen vtv2 vtv1-vtv2-vtv4 hd
 http://tv.close.vn:8122/udp/225.1.1.22:30120
-multi screen vtv4 vtv1-vtv2-vtv4
+multi screen vtv4 vtv1-vtv2-vtv4 hd
 http://tv.close.vn:8122/udp/225.1.1.23:30120
+fpt play quang cao dolife hospital
+http://tv.close.vn:8122/udp/225.1.1.127:30120
+fpt play quang cao grand phoenix hotel
+http://tv.close.vn:8122/udp/225.1.1.66:30120
+fpt play quang cao the mira hotel
+http://tv.close.vn:8122/udp/225.1.1.123:30120
+fpt play quang cao the ocean resort
+http://tv.close.vn:8122/udp/225.1.1.121:30120
+fpt play event 1
+http://tv.close.vn:8122/udp/225.1.1.10:30120
+fpt play event 2
+http://tv.close.vn:8122/udp/225.1.1.12:30120
+fpt play event 3
+http://tv.close.vn:8122/udp/225.1.1.15:30120
+fpt play event 4
+http://tv.close.vn:8122/udp/225.1.1.27:30120
+fpt play event 5
+http://tv.close.vn:8122/udp/225.1.1.28:30120
+fpt play event 6
+http://tv.close.vn:8122/udp/225.1.1.30:30120
+fpt play event 7
+http://tv.close.vn:8122/udp/225.1.1.31:30120
+fpt play event 8
+http://tv.close.vn:8122/udp/225.1.1.32:30120
+fpt play event 9
+http://tv.close.vn:8122/udp/225.1.1.33:30120
+fpt play event 10
+http://tv.close.vn:8122/udp/225.1.1.34:30120
+fpt play event 11
+http://tv.close.vn:8122/udp/225.1.1.35:30120
+fpt play event 12
+http://tv.close.vn:8122/udp/225.1.1.37:30120
+fpt play event 13
+http://tv.close.vn:8122/udp/225.1.1.38:30120
+fpt play event 14
+http://tv.close.vn:8122/udp/225.1.1.48:30120
+fpt play event 15
+http://tv.close.vn:8122/udp/225.1.1.49:30120
+fpt play event 16
+http://tv.close.vn:8122/udp/225.1.1.50:30120
+fpt play event 17
+http://tv.close.vn:8122/udp/225.1.1.51:30120
+fpt play event 18
+http://tv.close.vn:8122/udp/225.1.1.52:30120
+fpt play event 19
+http://tv.close.vn:8122/udp/225.1.1.53:30120
+fpt play event 20
+http://tv.close.vn:8122/udp/225.1.1.68:30120
+fpt play event 21
+http://tv.close.vn:8122/udp/225.1.1.69:30120
+fpt play event 22
+http://tv.close.vn:8122/udp/225.1.1.70:30120
+fpt play event 23
+http://tv.close.vn:8122/udp/225.1.1.71:30120
+fpt play event 24
+http://tv.close.vn:8122/udp/225.1.1.72:30120
+fpt play event 25
+http://tv.close.vn:8122/udp/225.1.1.78:30120
+fpt play event 26
+http://tv.close.vn:8122/udp/225.1.1.79:30120
+fpt play event 27
+http://tv.close.vn:8122/udp/225.1.1.80:30120
+fpt play event 28
+http://tv.close.vn:8122/udp/225.1.1.81:30120
+fpt play event 29
+http://tv.close.vn:8122/udp/225.1.1.82:30120
+fpt play event 30
+http://tv.close.vn:8122/udp/225.1.1.83:30120
+fpt play event 31
+http://tv.close.vn:8122/udp/225.1.1.85:30120
+fpt play event 32
+http://tv.close.vn:8122/udp/225.1.1.86:30120
+fpt play event 33
+http://tv.close.vn:8122/udp/225.1.1.88:30120
+fpt play event 34
+http://tv.close.vn:8122/udp/225.1.1.92:30120
+fpt play event 35
+http://tv.close.vn:8122/udp/225.1.1.93:30120
+fpt play event 36
+http://tv.close.vn:8122/udp/225.1.1.94:30120
+fpt play event 37
+http://tv.close.vn:8122/udp/225.1.1.95:30120
+fpt play event 38
+http://tv.close.vn:8122/udp/225.1.1.96:30120
+fpt play event 39
+http://tv.close.vn:8122/udp/225.1.1.97:30120
+fpt play event 40
+http://tv.close.vn:8122/udp/225.1.1.100:30120
+fpt play event 41
+http://tv.close.vn:8122/udp/225.1.1.101:30120
 
 other
 lo am nhac tiktok sd

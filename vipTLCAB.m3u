@@ -32,19 +32,19 @@ https://events.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/master.m3u8
 #EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest?cb=20220627071056&path-prefix=vi" group-title="VTV",VTVGo Event 4
 https://events.vtvdigital.vn/livestream/wildlife-manifest.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/8353f62f-c4de-40c6-9e8e-b482d8e9d0af-VTVgo-Phim-VFC-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Truyện VFC
+#EXTINF:-1 tvg-id="vtvgo-fast-phim-truyen" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/8353f62f-c4de-40c6-9e8e-b482d8e9d0af-VTVgo-Phim-VFC-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Truyện VFC
 https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/source/index.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/b630a0a6-3ef5-49ce-9cbd-de17a42f019a-VTVgo-Phim-Tai-Lieu-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Tài Liệu
+#EXTINF:-1 tvg-id="vtvgo-fast-tai-lieu" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/b630a0a6-3ef5-49ce-9cbd-de17a42f019a-VTVgo-Phim-Tai-Lieu-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Phim Tài Liệu
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/313e1dfc-ef52-4628-a060-f9c9560eb2ad-VTVgo-Ca-Nhac-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Ca Nhạc
+#EXTINF:-1 tvg-id="vtvgo-fast-ca-nhac" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/313e1dfc-ef52-4628-a060-f9c9560eb2ad-VTVgo-Ca-Nhac-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Ca Nhạc
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/e059e6ba-873c-4312-894f-1c13ab116d38-VTVgo-Gameshow-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo GameShow
+#EXTINF:-1 tvg-id="vtvgo-fast-game-show" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/e059e6ba-873c-4312-894f-1c13ab116d38-VTVgo-Gameshow-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo GameShow
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/9e6eb8e2-7b39-4a3d-8f68-30c5872d9285-VTVgo-Du-Lich-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Du Lịch
+#EXTINF:-1 tvg-id="vtvgo-fast-du-lich" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/9e6eb8e2-7b39-4a3d-8f68-30c5872d9285-VTVgo-Du-Lich-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Du Lịch
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/dc677b5e-64bc-493f-89dc-0a8586c067ce-VTVgo-Suc-Khoe-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Sức Khỏe
+#EXTINF:-1 tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/dc677b5e-64bc-493f-89dc-0a8586c067ce-VTVgo-Suc-Khoe-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Sức Khỏe
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
-#EXTINF:-1 tvg-id="vtvgoevent" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/fb907222-beef-4ca7-9d28-5cb9ecd91828-VTVgo-Thieu-Nhi-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Thiếu Nhi
+#EXTINF:-1 tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/fb907222-beef-4ca7-9d28-5cb9ecd91828-VTVgo-Thieu-Nhi-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Thiếu Nhi
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
@@ -147,6 +147,107 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3:aa58646c0ecd7b78c4082a345afa4b5f
 https://vmttv.dpdns.org/tv360/?id=tv360-15
+
+#EXTINF:-1 tvg-id="fptplayttgt" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play 1 - Chuỗi Thể thao và Giải trí
+http://tv.close.vn:8122/udp/225.1.1.2:30120
+#EXTINF:-1 tvg-id="fptplay02" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play 2
+http://tv.close.vn:8122/udp/225.1.4.199:30120
+#EXTINF:-1 tvg-id="fptplaymultiview" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Multiview VTV1 VTV1-VTV2-VTV4
+http://tv.close.vn:8122/udp/225.1.1.21:30120
+#EXTINF:-1 tvg-id="fptplaymultiview" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Multiview VTV2 VTV1-VTV2-VTV4
+http://tv.close.vn:8122/udp/225.1.1.22:30120
+#EXTINF:-1 tvg-id="fptplaymultiview" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Multiview VTV3 VTV1-VTV2-VTV4
+http://tv.close.vn:8122/udp/225.1.1.23:30120
+#EXTINF:-1 tvg-id="fptplayads" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Quảng Cáo Dolife Hospital
+http://tv.close.vn:8122/udp/225.1.1.127:30120
+#EXTINF:-1 tvg-id="fptplayads" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Quảng Cáo Grand Phoenix Hotel
+http://tv.close.vn:8122/udp/225.1.1.66:30120
+#EXTINF:-1 tvg-id="fptplayads" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Quảng Cáo The Mira Hotel
+http://tv.close.vn:8122/udp/225.1.1.123:30120
+#EXTINF:-1 tvg-id="fptplayads" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1on/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Quảng Cáo The Ocean Resort
+http://tv.close.vn:8122/udp/225.1.1.121:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 1
+http://tv.close.vn:8122/udp/225.1.1.10:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 2
+http://tv.close.vn:8122/udp/225.1.1.12:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 3
+http://tv.close.vn:8122/udp/225.1.1.15:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 4
+http://tv.close.vn:8122/udp/225.1.1.27:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 5
+http://tv.close.vn:8122/udp/225.1.1.28:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 6
+http://tv.close.vn:8122/udp/225.1.1.30:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 7
+http://tv.close.vn:8122/udp/225.1.1.31:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 8
+http://tv.close.vn:8122/udp/225.1.1.32:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 9
+http://tv.close.vn:8122/udp/225.1.1.33:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 10
+http://tv.close.vn:8122/udp/225.1.1.34:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 11
+http://tv.close.vn:8122/udp/225.1.1.35:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 12
+http://tv.close.vn:8122/udp/225.1.1.37:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 13
+http://tv.close.vn:8122/udp/225.1.1.38:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 14
+http://tv.close.vn:8122/udp/225.1.1.48:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 15
+http://tv.close.vn:8122/udp/225.1.1.49:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 16
+http://tv.close.vn:8122/udp/225.1.1.50:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 17
+http://tv.close.vn:8122/udp/225.1.1.51:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 18
+http://tv.close.vn:8122/udp/225.1.1.52:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 19
+http://tv.close.vn:8122/udp/225.1.1.53:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 20
+http://tv.close.vn:8122/udp/225.1.1.68:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 21
+http://tv.close.vn:8122/udp/225.1.1.69:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 22
+http://tv.close.vn:8122/udp/225.1.1.70:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 23
+http://tv.close.vn:8122/udp/225.1.1.71:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 24
+http://tv.close.vn:8122/udp/225.1.1.72:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 25
+http://tv.close.vn:8122/udp/225.1.1.78:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 26
+http://tv.close.vn:8122/udp/225.1.1.79:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 27
+http://tv.close.vn:8122/udp/225.1.1.80:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 28
+http://tv.close.vn:8122/udp/225.1.1.81:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 29
+http://tv.close.vn:8122/udp/225.1.1.82:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 30
+http://tv.close.vn:8122/udp/225.1.1.83:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 31
+http://tv.close.vn:8122/udp/225.1.1.85:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 32
+http://tv.close.vn:8122/udp/225.1.1.86:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 33
+http://tv.close.vn:8122/udp/225.1.1.88:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 34
+http://tv.close.vn:8122/udp/225.1.1.92:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 35
+http://tv.close.vn:8122/udp/225.1.1.93:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 36
+http://tv.close.vn:8122/udp/225.1.1.94:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 37
+http://tv.close.vn:8122/udp/225.1.1.95:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 38
+http://tv.close.vn:8122/udp/225.1.1.96:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 39
+http://tv.close.vn:8122/udp/225.1.1.97:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 40
+http://tv.close.vn:8122/udp/225.1.1.100:30120
+#EXTINF:-1 tvg-id="fptplaysukien" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play (UDP)",FPT Play Sự Kiện 41
+http://tv.close.vn:8122/udp/225.1.1.101:30120
 
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
