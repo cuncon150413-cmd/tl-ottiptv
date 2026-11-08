@@ -44,7 +44,7 @@ https://liveh12.vtvprime.vn/hls/NGHEANTV/index.m3u8
 #EXTINF:-1 tvg-id="phutho" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/121a9fe5-fc3d-4565-bb55-a778c787924a.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",PTV Phú Thọ
 https://liveh34.vtvprime.vn/hls/PHUTHOTV/index.m3u8
 #EXTINF:-1 tvg-id="angiang1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",ATV1 An Giang
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/angiangtv/playlist.m3u8
+https://liveh34.vtvprime.vn/hls/ANGIANGTV/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/23ce5d79-1d75-4207-b4eb-5639ecb76cb4.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",NBTV Ninh Bình
 https://liveh34.vtvprime.vn/hls/NINHBINHTV/index.m3u8
 #EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260821/2026082112/BSvnv06uED-QTV1-Thumbnail.webp&width=640" group-title="Kênh thiết yếu và địa phương",QTV1 Quảng Ninh
@@ -88,7 +88,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/master.m3u8
 #EXTINF:-1 tvg-id="htv9" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260911/2026091104/2b3a19dc22-HTV9-THUMBNAIL-KENH-VTVgo-500x281-1.webp&width=640" group-title="Kênh thiết yếu và địa phương",HTV9
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp&width=640" group-title="Kênh thiết yếu và địa phương",QNGTV1 Quảng Ngãi
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-quangngai1tv/master.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",STV Sơn La
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/bd1a37f4-0477-481d-b856-409097ba146e.jpg?width=500&width=640" group-title="Kênh thiết yếu và địa phương",TTV Tuyên Quang
