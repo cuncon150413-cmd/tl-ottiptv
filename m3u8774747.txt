@@ -286,7 +286,7 @@ vov giao thong
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 
 m3u8 khac
-tvb viet nam
+tvb viet nam hd
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 antv 720x576
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
@@ -297,12 +297,16 @@ https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 ttv tuyen quang 720p
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
-vietnam today
-https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
-https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_88353259571126965.m3u8
 vietnam today hd
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_88353259571126965.m3u8
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+vietnam today 720p
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
+vietnam today 480p
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_17014294209279043506.m3u8
 vietnam today 360p
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
+vietnam today 240p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 viet nam 360 hd
 http://hoatv001.ddns.net/kfucx2
@@ -318,8 +322,6 @@ hanoi90
 http://14.162.146.90:8000/HANOI90
 hanoi96
 http://222.252.21.96:8000/HANOI96
-vov1
-http://rdp.longan.gov.vn:3000/so_hoa_vov
 ha tinh
 http://171.244.133.152:8000/hatinh
 tuyen quang
@@ -726,16 +728,6 @@ on vie dramas 720p
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 stream1.freetv.fun
-vtv1 hd
-https://stream1.freetv.fun/bfdf873bf013faad453775a7093343b171bbabec7a94735f1c8b6e2f906d4396.ctv
-vtv4 hd
-https://stream1.freetv.fun/8ef0eef86ed9a40a737cfffd1b980e8110ce77dd005412ccdd0793aeca5acf9f.ctv
-htv9 hd
-https://stream1.freetv.fun/964c93c87c56d9ca646fc81a28147d0f036eb29076bec9d48fd42ddaee8f6508.ctv
-htv the thao hd
-https://stream1.freetv.fun/232be55cfe9c3c0b7c97bac5ffe427224d65af436e95137afefc7a7c5c969150.ctv
-sctv6 hd
-https://stream1.freetv.fun/7bc75d5f651f2c98f92dcdc20413075ba78720a633ce395741df9d95e31509df.ctv
 dnnrtv2 dong nai 720p
 https://stream1.freetv.fun/508f0a82a2fc948a0982b6e3b45b45a9973cbd5ea22ab82b17df591aa884ef8d.m3u8
 ktv khanh hoa 720p
@@ -897,9 +889,15 @@ https://tv.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
 can tho 3 hd
 https://tv.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
 
+media.mediatech.vn:1935
+lang son radio
+https://media.mediatech.vn:1935/live/langsonradio_aac/playlist.m3u8
+https://media.mediatech.vn:1935/live/langsonradio_aac/chunklist_w1228469779.m3u8
+
 media.bacgiangtv.vn
 lang son radio
 https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
+https://media.bacgiangtv.vn/live/langsonradio_aac/chunklist_w1228469779.m3u8
 
 cdn.mediatech.vn
 dnnrtv1 dong nai 720p
@@ -3037,6 +3035,11 @@ https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/playlist.m3u8
 https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
 dnnrtv1 dong nai 480p
 https://d3006k9ptxe2oq.cloudfront.net/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
+ttv tuyen quang 720p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/tuyenquangtv/playlist.m3u8
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/tuyenquangtv/live/tuyenquangtv_720p/chunks.m3u8
+ttv tuyen quang 480p
+https://d3006k9ptxe2oq.cloudfront.net/aws-dp/tuyenquangtv/live/tuyenquangtv_480p/chunks.m3u8
 
 vtvgoliveapp1-aws-plus-tn.vtvdigital.vn
 vtv1 hd
@@ -3229,6 +3232,11 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_720p/chunks.m3u8
 dnnrtv1 dong nai 480p
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/live/dongnai1tv_480p/chunks.m3u8
+ttv tuyen quang 720p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/tuyenquangtv/playlist.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/tuyenquangtv/live/tuyenquangtv_720p/chunks.m3u8
+ttv tuyen quang 480p
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/tuyenquangtv/live/tuyenquangtv_480p/chunks.m3u8
 
 vtvgolivepre-vtv02.vtvdigital.vn
 vtv1 hd
@@ -4249,60 +4257,121 @@ https://d2msoi9s9viefm.cloudfront.net/wildlife-3680p50fps.m3u8
 fast-channel-stg.vtvdigital.vn
 vtvgo phim vfc hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/1080p/index.m3u8
 vtvgo phim vfc 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/720p/index.m3u8
 vtvgo phim vfc 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/480p/index.m3u8
 vtvgo phim tai lieu hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/1080p/index.m3u8
 vtvgo phim tai lieu 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/720p/index.m3u8
 vtvgo phim tai lieu 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/480p/index.m3u8
 vtvgo ca nhac hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/1080p/index.m3u8
 vtvgo ca nhac 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/720p/index.m3u8
 vtvgo ca nhac 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/480p/index.m3u8
 vtvgo gameshow hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/1080p/index.m3u8
 vtvgo gameshow 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/720p/index.m3u8
 vtvgo gameshow 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/480p/index.m3u8
 vtvgo du lich hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/1080p/index.m3u8
 vtvgo du lich 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/720p/index.m3u8
 vtvgo du lich 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/480p/index.m3u8
 vtvgo suc khoe hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/1080p/index.m3u8
 vtvgo suc khoe 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/720p/index.m3u8
 vtvgo suc khoe 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/480p/index.m3u8
 vtvgo thieu nhi hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/1080p/index.m3u8
 vtvgo thieu nhi 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/720p/index.m3u8
 vtvgo thieu nhi 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/480p/index.m3u8
 vtvgo event 3 hd
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/source/index.m3u8
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/1080p/index.m3u8
 vtvgo event 3 720p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/720p/index.m3u8
 vtvgo event 3 480p
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-hoat-hinh/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-hoat-hinh/480p/index.m3u8
+vtvgo vui ve hd
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/1080p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/master.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/source/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/1080p/index.m3u8
+vtvgo vui ve 720p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/720p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/720p/index.m3u8
+vtvgo vui ve 480p
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/480p/index.m3u8
+https://fast-channel-stg.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/480p/index.m3u8
 
 fast-origin-stg.next.vtvdigital.vn
 vtvgo phim vfc hd
@@ -4361,6 +4430,13 @@ vtvgo event 3 720p
 https://fast-origin-stg.next.vtvdigital.vn/playout/channels/auto-hoat-hinh/720p/index.m3u8
 vtvgo event 3 480p
 https://fast-origin-stg.next.vtvdigital.vn/playout/channels/auto-hoat-hinh/480p/index.m3u8
+vtvgo vui ve hd
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/master.m3u8
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/1080p/index.m3u8
+vtvgo vui ve 720p
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/720p/index.m3u8
+vtvgo vui ve 480p
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-vui-ve/480p/index.m3u8
 
 vtvgolive-ott3.vtvdigital.vn
 btv bac ninh 480p
