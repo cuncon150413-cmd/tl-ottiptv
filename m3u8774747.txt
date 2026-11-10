@@ -1,11 +1,14 @@
 --info--
 1440p=2560x1440 
 hd=1920x1080 1080p fullhd
-sd=854x480 480p sd
-qhd=960x540 540p qhd
-720x602= 720x602
-640x360= 640x360 360p sd
 720p=1280x720 720p hd
+576p=1027x576/720x576
+qhd=960x540 540p qhd
+sd=854x480 480p sd
+720x402= 720x402
+640x360= 640x360 360p sd
+270p=480x270
+240p=426x240
 
 --
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1"
@@ -28,7 +31,9 @@ qhd=960x540 540p qhd
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=14
 --
 
---link--
+-- link --
+
+-- m3u8 station --
 
 canthotv.vn
 can tho 1 hd
@@ -9948,7 +9953,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10040
 test
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-tv.close.vn:8122 - udp
+-- udp station --
+tv.close.vn:8122
 vtv1 hd
 http://tv.close.vn:8122/udp/225.1.2.249:30120
 http://tv.close.vn:8122/udp/225.1.3.1:30120
@@ -10255,312 +10261,241 @@ http://tv.close.vn:8122/udp/225.1.1.100:30120
 fpt play event 41
 http://tv.close.vn:8122/udp/225.1.1.101:30120
 
-dinhdong.ddns.net:13579 - udp
+--mpd station--
+
+livesct.vtvprime.vn
 vtv1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.249:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.1:30120
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
 vtv2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.13:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.5:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV2_HD/manifest.mpd
 vtv3 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.247:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.2:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
 vtv4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.20:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.6:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV4_HD/manifest.mpd
 vtv5 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.131:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.4:30120
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV5_HD/manifest.mpd
 vtv5 tay nam bo hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.236:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.42:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TNB/manifest.mpd
 vtv5 tay nguyen hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.108:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.30:30120
-vtv6 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.154:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd
 vtv7 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.96:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV7_HD/manifest.mpd
 vtv8 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.166:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.11:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV8_HD/manifest.mpd
 vtv9 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.128:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.9:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
 vtv10 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.245:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.3:30120
-vietnam today hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.190:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.95:30120
-antv hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.169:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.23:30120
-qpvn hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.217:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.54:30120
-sctv6 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.188:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.34:30120
-htv1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.180:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.125:30120
-htv2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.193:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.13:30120
-htv3 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.178:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.36:30120
-htv4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.177:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.127:30120
-htv5 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.189:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.58:30120
-htv7 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.192:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.8:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV6_HD/manifest.mpd
+
+livebytatm.vtvprime.vn
+vtv3 hd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livebytatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd
+vtv6 hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livezenatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd
+vtv7 hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd
+vtv9 hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livezenatm.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd
+vtv10 hd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
 htv9 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.190:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.12:30120
-htv the thao hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.165:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.25:30120
-htvc du lich va cuoc song
-http://dinhdong.ddns.net:13579/udp/225.1.1.166:30120
-htvc gia dinh hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.170:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.84:30120
-htvc phim hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.184:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.68:30120
-htvc phu nu hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.171:30120
-htvc plus hd
-http://dinhdong.ddns.net:13579/udp/225.1.4.91:30120
-htvc thuan viet hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.186:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.28:30120
-thvl1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.155:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.7:30120
-thvl2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.154:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.19:30120
-thvl3 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.235:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.16:30120
-thvl4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.25:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.20:30120
-thvl5 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.172:30120
-atv1 an giang hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.182:30120
-atv2 an giang hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.173:30120
-btv bac ninh hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.164:30120
-ctv ca mau hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.104:30120
-crtv ca mau hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.102:30120
-can tho 1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.132:30120
-can tho 2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.157:30120
-can tho 3 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.159:30120
-dnrt1 da nang hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.147:30120
-dnrt2 da nang hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.146:30120
-drt dak lak hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.64:30120
-dtv dien bien hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.74:30120
-dnnrtv1 dong nai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.152:30120
-dnnrtv2 dong nai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.151:30120
-dnnrtv3 dong nai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.153:30120
-thdt1 dong thap hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.163:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.24:30120
-mien tay thdt2 dong thap hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.210:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.77:30120
-gtv gia lai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.145:30120
-hanoitv1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.186:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.22:30120
-hanoitv2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.125:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.49:30120
-bhttv ha tinh hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.75:30120
-thp hai phong hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.44:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.80:30120
-thp3 hai phong hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.113:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.46:30120
-huetv hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.161:30120
-hytv hung yen hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.118:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.155:30120
-ktv khanh hoa hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.133:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.74:30120
-ktv1 khanh hoa hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.178:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.113:30120
-ltv lai chau hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.36:30120
-lstv lang son hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.160:30120
-thlc lao cai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.119:30120
-ltv1 lam dong hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.177:30120
-ltv2 lam dong hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.124:30120
-nbtv ninh binh hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.185:30120
-natv nghe an hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.183:30120
-tn tay ninh hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.162:30120
-tn thai nguyen hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.179:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.62:30120
-ptv phu tho hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.165:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.71:30120
-qtv1 quang ninh hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.181:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.32:30120
-qtv3 quang ninh hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.180:30120
-qngtv1 quang ngai hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.174:30120
-qngtv2 quang ngai hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.36:30120
-qttv quang tri hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.117:30120
-stv son la hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.98:30120
-ttv tuyen quang hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.188:30120
-tn thai nguyen hd
-http://dinhdong.ddns.net:13579/udp/225.1.2.179:30120
-ttv thanh hoa 576p
-http://dinhdong.ddns.net:13579/udp/225.1.2.184:30120
-http://dinhdong.ddns.net:13579/udp/225.1.3.165:30120
-http://dinhdong.ddns.net:13579/udp/225.1.4.162:30120
-fpt play channel 1 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.2:30120
-fpt play channel 2 hd
-http://dinhdong.ddns.net:13579/udp/225.1.4.199:30120
-multi screen vtv1 vtv1-vtv2-vtv4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.21:30120
-multi screen vtv2 vtv1-vtv2-vtv4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.22:30120
-multi screen vtv4 vtv1-vtv2-vtv4 hd
-http://dinhdong.ddns.net:13579/udp/225.1.1.23:30120
-fpt play quang cao dolife hospital
-http://dinhdong.ddns.net:13579/udp/225.1.1.127:30120
-fpt play quang cao grand phoenix hotel
-http://dinhdong.ddns.net:13579/udp/225.1.1.66:30120
-fpt play quang cao the mira hotel
-http://dinhdong.ddns.net:13579/udp/225.1.1.123:30120
-fpt play quang cao the ocean resort
-http://dinhdong.ddns.net:13579/udp/225.1.1.121:30120
-fpt play event 1
-http://dinhdong.ddns.net:13579/udp/225.1.1.10:30120
-fpt play event 2
-http://dinhdong.ddns.net:13579/udp/225.1.1.12:30120
-fpt play event 3
-http://dinhdong.ddns.net:13579/udp/225.1.1.15:30120
-fpt play event 4
-http://dinhdong.ddns.net:13579/udp/225.1.1.27:30120
-fpt play event 5
-http://dinhdong.ddns.net:13579/udp/225.1.1.28:30120
-fpt play event 6
-http://dinhdong.ddns.net:13579/udp/225.1.1.30:30120
-fpt play event 7
-http://dinhdong.ddns.net:13579/udp/225.1.1.31:30120
-fpt play event 8
-http://dinhdong.ddns.net:13579/udp/225.1.1.32:30120
-fpt play event 9
-http://dinhdong.ddns.net:13579/udp/225.1.1.33:30120
-fpt play event 10
-http://dinhdong.ddns.net:13579/udp/225.1.1.34:30120
-fpt play event 11
-http://dinhdong.ddns.net:13579/udp/225.1.1.35:30120
-fpt play event 12
-http://dinhdong.ddns.net:13579/udp/225.1.1.37:30120
-fpt play event 13
-http://dinhdong.ddns.net:13579/udp/225.1.1.38:30120
-fpt play event 14
-http://dinhdong.ddns.net:13579/udp/225.1.1.48:30120
-fpt play event 15
-http://dinhdong.ddns.net:13579/udp/225.1.1.49:30120
-fpt play event 16
-http://dinhdong.ddns.net:13579/udp/225.1.1.50:30120
-fpt play event 17
-http://dinhdong.ddns.net:13579/udp/225.1.1.51:30120
-fpt play event 18
-http://dinhdong.ddns.net:13579/udp/225.1.1.52:30120
-fpt play event 19
-http://dinhdong.ddns.net:13579/udp/225.1.1.53:30120
-fpt play event 20
-http://dinhdong.ddns.net:13579/udp/225.1.1.68:30120
-fpt play event 21
-http://dinhdong.ddns.net:13579/udp/225.1.1.69:30120
-fpt play event 22
-http://dinhdong.ddns.net:13579/udp/225.1.1.70:30120
-fpt play event 23
-http://dinhdong.ddns.net:13579/udp/225.1.1.71:30120
-fpt play event 24
-http://dinhdong.ddns.net:13579/udp/225.1.1.72:30120
-fpt play event 25
-http://dinhdong.ddns.net:13579/udp/225.1.1.78:30120
-fpt play event 26
-http://dinhdong.ddns.net:13579/udp/225.1.1.79:30120
-fpt play event 27
-http://dinhdong.ddns.net:13579/udp/225.1.1.80:30120
-fpt play event 28
-http://dinhdong.ddns.net:13579/udp/225.1.1.81:30120
-fpt play event 29
-http://dinhdong.ddns.net:13579/udp/225.1.1.82:30120
-fpt play event 30
-http://dinhdong.ddns.net:13579/udp/225.1.1.83:30120
-fpt play event 31
-http://dinhdong.ddns.net:13579/udp/225.1.1.85:30120
-fpt play event 32
-http://dinhdong.ddns.net:13579/udp/225.1.1.86:30120
-fpt play event 33
-http://dinhdong.ddns.net:13579/udp/225.1.1.88:30120
-fpt play event 34
-http://dinhdong.ddns.net:13579/udp/225.1.1.92:30120
-fpt play event 35
-http://dinhdong.ddns.net:13579/udp/225.1.1.93:30120
-fpt play event 36
-http://dinhdong.ddns.net:13579/udp/225.1.1.94:30120
-fpt play event 37
-http://dinhdong.ddns.net:13579/udp/225.1.1.95:30120
-fpt play event 38
-http://dinhdong.ddns.net:13579/udp/225.1.1.96:30120
-fpt play event 39
-http://dinhdong.ddns.net:13579/udp/225.1.1.97:30120
-fpt play event 40
-http://dinhdong.ddns.net:13579/udp/225.1.1.100:30120
-fpt play event 41
-http://dinhdong.ddns.net:13579/udp/225.1.1.101:30120
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
+vietnam today hd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/VIETNAMTODAY/manifest.mpd
+sctv1 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
+sctv2 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV2/Live_DASHDRM/SCTV2.mpd
+sctv3 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a14522dd463d490e8a43c6b5a3f7fdba:7f02f778be79436bb36293a238d28e30
+https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
+sctv4 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
+sctv5 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
+sctv6 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV6/Live_DASHDRM/SCTV6.mpd
+sctv7 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd
+sctv8 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
+sctv11 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd
+sctv12 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV12/Live_DASHDRM/SCTV12.mpd
+sctv13 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV13/Live_DASHDRM/SCTV13.mpd
+sctv14 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
+sctv15 hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+sctv16 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
+sctv17 hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
+sctv18 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0233f235986e4964b105a6021f911b1d:d7ee829dd37649a488b9558b4dd209e6
+https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd
+sctv19 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08c26f63474f76b4dd91e1afef6b25:03b40f74bf224a1f8d4c7fb9faabcd04
+https://liveatmvng.vtvprime.vn/live/data8/SCTV19/Live_DASHDRM/SCTV19.mpd
+sctv20 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57a515c8bff648f2b6c1286245d784ad:5741ebac27fb4285b0946293cd4be13a
+https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
+sctv21 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25633622dd314f82a35fc1791b0d25c1:73718578146e43e4a9ff6d1f5e56650f
+https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
+sctv22 hd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+sctv phim tong hop 720p
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 
 other
 lo am nhac tiktok sd
