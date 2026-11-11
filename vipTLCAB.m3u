@@ -49,9 +49,28 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/
 #EXTINF:-1 tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261013/2026101304/fb907222-beef-4ca7-9d28-5cb9ecd91828-VTVgo-Thieu-Nhi-THUMBNAIL-KENH-VTVgo-500x281.png&width=320" group-title="VTV",VTVGo Thiếu Nhi
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
 
+#EXTINF:-1 tvg-id="danang1" tvg-yt="@MiuchibiiPlay" tvg-logo="https://yt3.ggpht.com/eWynIP9L9FYM5RX0XQH6s7A3TFearhUivpXcyrfl9E9QhYOMx4LU_Mwi8X3I1gUKvIinbIGO6g=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",Miuz🌷
+https://liveh12.vtvprime.vn/hls/DANANGTV/index.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-yt="@itztwelve_012" tvg-logo="https://yt3.ggpht.com/1lOqPw0WnBs9tGJYbEbbkgopXTg4KY58NNEV9ci5bCqj3pIPVa0HV2sZK4bTntPH8dGnuovWnQ8=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",Twelve_2k14 💤
+https://liveh34.vtvprime.vn/hls/DANANG2/03.m3u8
+#EXTINF:-1 tvg-id="dienbien" tvg-yt="@reyducky09" tvg-logo="https://yt3.ggpht.com/u6co1L3jtDerOf6TmsnAOjeh44lnKAmFHnOOtvcZq82i_tbR0HdFkpgYzMN2DOMPdX8eSFceWg=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",xReyDucky
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
+#EXTINF:-1 tvg-id="dongthap1" tvg-yt="@babikieumypt" tvg-logo="https://yt3.ggpht.com/eAiKkOcNimMhKs3DJaNJEiKRLJ8A1CHH4tQ9arIWaxmZ1tISpxDcXpVtuqpDn9m8ohGUMUJmDQ=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",BabiKiềuMyPT
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+#EXTINF:-1 tvg-id="gialai" tvg-yt="@17th06day" tvg-logo="https://yt3.ggpht.com/1PL8tKiuU62AKAnrxNuHSB1V50O-WPf-ikbGuw51F7udklXtFWLG9j-iseRq6ZXehDBA32aP4Fw=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",Pơ YT
+https://tv.gialaitv.vn/tv.m3u8
+#EXTINF:-1 tvg-id="haiphong" tvg-yt="@daubbi07" tvg-logo="https://yt3.ggpht.com/sCTI8jF7DEYP8Xl4fhOyztcxPI8wMHhw87HqAXx-q32vH6rDr0-jS0bqcbJIu7Qun4NtOGSSpg=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",⭐Đậubbi TV
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/haiphongtv/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphong3" tvg-yt="@TUFCTOGETHER" tvg-logo="https://yt3.ggpht.com/pO9uNqrYbZAErEb44NWOrrpxFtuG7XwBTMaEQGUlJ5bMXCk_Eu8Q1SYPh8HwcO_3q8JTUZXXAps=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",TUFC TOGETHER
+https://1011154949.vnns.net/htvc/haiphongsd.720p.adm.tms/chunks.m3u8
+#EXTINF:-1 tvg-id="nghean" tvg-yt="@bsod999" tvg-logo="https://yt3.ggpht.com/1PRq5bPSqsJaViYwbrJAf3DDe0dWx5cl1prnOMtpSuS3vvS30W9dxGbbbVLPNTkU2vI7LUpNOQ=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",bsod999
+https://liveh12.vtvprime.vn/hls/NGHEANTV/index.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" tvg-yt="@tothanhdz" tvg-logo="https://yt3.ggpht.com/-fA8G2DKun3DyrQW6lKejG06aNk3uATtu5rdvpE-U_lfI4FjW1Y3-b4Loo7nX1i_fmMTB0NFdw=s0" group-title="Events - kênh youtube của bạn theo tỉnh thành - liên hệ discord @bsod999",TOTHANHDZ
+https://liveh34.vtvprime.vn/hls/NINHBINHTV/index.m3u8
+
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh CAND
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
 https://qpvn.vn/live/qpvn/master.m3u8
@@ -479,8 +498,9 @@ https://live.tvon.vn/s1/hls/sctv21/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
-#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_19-01-2023.png/revision/latest?cb=20230323081029&path-prefix=vi" group-title="SCTV",SCTV PHIM
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_19-01-2023.png/revision/latest?cb=20230323081029&path-prefix=vi" group-title="SCTV",SCTV Phim Tổng Hợp
 https://live.tvon.vn/g3/sctvpth/master.m3u8
+
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HTV2_logo_ph%E1%BB%A5_12-2022.png/revision/latest/scale-to-width-down/1000?cb=20260511043728&path-prefix=vi" group-title="HTV",HTV2
@@ -597,7 +617,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/BHTTV_logo.svg/revision/latest/scale-to-width-down/300?cb=20260307142310" group-title="Địa Phương",BHTTV Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="haiphong3" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/HDTV_2023-2025.png/revision/latest/scale-to-width-down/1000?cb=20230925025249&path-prefix=vi" group-title="Địa Phương Cũ",THD Hải Dương
-https://web.archive.org/web/20251231123317oe_/https://cdn.drt.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
+https://web.archive.org/web/20251231123317oe_/https://live.mediatech.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/500px-THP_logo.svg.png" group-title="Địa Phương",THP Hải Phòng
 https://freem3u.xyz/api/live/play.m3u8?vid=60
 #EXTINF:-1 tvg-id="haiphong3" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest/scale-to-width-down/1000?cb=20260101113817&path-prefix=vi" group-title="Địa Phương",THP3 Hải Phòng
@@ -762,7 +782,7 @@ https://live.canthotv.vn/live/radio1.stream/chunklist_w1.m3u8
 #EXTINF:-1 tvg-id="canthoradio2" group-title="FM Radio",Cần Thơ 89,6 mhz
 https://live.canthotv.vn/live/radiocs2/chunklist_w1.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="FM Radio",Đắk Lắk
-https://cdn.drt.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
+https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/playlist.m3u8
 #EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Đà Nãng
 https://cdn.drt.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbienradio" group-title="FM Radio",Điện BIên 98 mhz
@@ -794,7 +814,7 @@ https://luuchieu.truyenhinhso.vn/media/live/CAEF2D87600663654AA4B546/index.m3u8
 #EXTINF:-1 tvg-id="lamdongradio1" group-title="FM Radio",Lâm Đồng 97,0 mhz
 http://sohoa.truyenthanhthongminh.vn/lamdong
 #EXTINF:-1 tvg-id="lamdongradio2" group-title="FM Radio",Lâm Đồng 96,6 mhz
-https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
+https://cfg.truyenhinhdaknong.vn/audio/daknong_radio/playlist.m3u8
 #EXTINF:-1 tvg-id="langsonradio" group-title="FM Radio",Lạng Sơn
 https://cdn.drt.vn/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u8
 #EXTINF:-1 tvg-id="laocairadio" group-title="FM Radio",Lào Cai

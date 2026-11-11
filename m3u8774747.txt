@@ -132,12 +132,14 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/playlist.m3u8
 
 truyenhinhdaknong.vn
 ptd daknong hd
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b3128000_sleng.m3u8
+https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/playlist.m3u8
+https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/chunklist_w657747510_b3128000_sleng.m3u8
 ptd daknong sd
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b964000_sleng.m3u8
+https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/chunklist_w657747510_b964000_sleng.m3u8
 ptd daknong 720p
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b1864000_sleng.m3u8
+https://cfg.truyenhinhdaknong.vn/live/smil:daknong.smil/chunklist_w657747510_b1864000_sleng.m3u8
+lam dong 2 radio
+https://cfg.truyenhinhdaknong.vn/audio/daknong_radio/playlist.m3u8
 
 danangtv.vn
 dnrt1 hd
