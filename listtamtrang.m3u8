@@ -150,7 +150,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/bacninhtv/live/bacninhtv_
 #EXTINF:-1 tvg-id="camau" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/CTV_C%C3%A0_Mau.png/revision/latest/scale-to-width-down/1200?cb=20211209002856&path-prefix=vi" group-title="Địa Phương",CTV Cà Mau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
 #EXTINF:-1 tvg-id="caobang" tvg-logo="https://mediaresources.caobangtv.vn/files/2025/2/19/UZRH25C9Z62W.png" group-title="Địa Phương",CRTV Cao Bằng
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/bacninhtv/live/bacninhtv_720p/chunks.m3u8
+https://vtvgolive-vtclc1.vtvdigital.vn/hls/CAOBANG/tc-p720/index.m3u8?pull=9696a44714021d9f7241771acb4e2c33287299f2a7e4aff8eb56d464a4a92049
 #EXTINF:-1 tvg-id="cantho1" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/C%E1%BA%A7nTh%C6%A11.png/revision/latest?cb=20250912112115&path-prefix=vi" group-title="Địa Phương",Cần Thơ 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest/scale-to-width-down/1000?cb=20250912112238&path-prefix=vi" group-title="Địa Phương",Cần Thơ 2
