@@ -662,7 +662,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=74
 https://freem3u.xyz/api/live/play.m3u8?vid=75
 #EXTINF:-1 tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/NTV_HD_Ninh_Thu%E1%BA%ADn_2024.png/revision/latest/scale-to-width-down/1000?cb=20240526144008&path-prefix=vi" group-title="Địa Phương Cũ",NTV Ninh Thuận
 https://tv.vietanhtv.top/vieon/vieon.php?id=ninh-thuan-1
-#EXTINF:-1 tvg-id="phutho" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/PTV_Ph%C3%BA_Th%E1%BB%8D.png/revision/latest?cb=20231214124447&path-prefix=vi" group-title="Thử Nghiệm",PTV Phú Thọ
+#EXTINF:-1 tvg-id="phutho" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/PTV_Ph%C3%BA_Th%E1%BB%8D.png/revision/latest?cb=20231214124447&path-prefix=vi" group-title="Địa Phương",PTV Phú Thọ
 #EXTVLCOPT:http-referrer=https://phuthotv.vn/
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest/scale-to-width-down/1000?cb=20211202141521&path-prefix=vi" group-title="Địa Phương Cũ",PTP Phú Yên
