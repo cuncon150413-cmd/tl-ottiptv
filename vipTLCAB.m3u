@@ -643,7 +643,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:-1 tvg-id="langson" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/LSTV_logo.png/revision/latest?cb=20220629080800&path-prefix=vi" group-title="Địa Phương",LSTV Lạng Sơn
 https://freem3u.xyz/api/live/play.m3u8?vid=70
 #EXTINF:-1 tvg-id="laocai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest/scale-to-width-down/1200?cb=20211224040641&path-prefix=vi" group-title="Địa Phương",THLC Lào Cai
-https://live.baolaocai.vn/channel2/stream.m3u8?t=1
+https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/LTV_Lam_Dong_logo_09-2025.png/revision/latest/scale-to-width-down/1000?cb=20250927092024&path-prefix=vi" group-title="Địa Phương",LTV Lâm Đồng
 https://live.baolamdong.vn/ltv1/index.m3u8?t=1
 #EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Địa Phương",LTV1 Lâm Đồng
@@ -1141,3 +1141,14 @@ https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/sonla/stv-sonla-fptplay72
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/dongthap/f4randoc-babikieumypt.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi" group-title="Thử Nghiệm",GTV Gia Lai
 https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/gialai/f4-medusa-po-17th06day.m3u8
+#EXTINF:-1 tvg-id="phutho" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/PTV_Ph%C3%BA_Th%E1%BB%8D.png/revision/latest?cb=20231214124447&path-prefix=vi" group-title="Thử Nghiệm",PTV Phú Thọ
+#EXTVLCOPT:http-referrer=https://phuthotv.vn/
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 tvg-id="laocai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest/scale-to-width-down/1200?cb=20211224040641&path-prefix=vi" group-title="Thử Nghiệm",THLC Lào Cai
+#EXTVLCOPT:http-referrer=https://phuthotv.vn/
+https://cdn.3ssoft.vn/live/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 tvg-id="phuthoradio" group-title="Thử Nghiệm",Phú Thọ
+#EXTVLCOPT:http-referrer=https://phuthotv.vn/
+https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh
+https://cuncon150413-cmd.github.io/tldigital-ott3/generator-m3u8/danet/antv-720p.html

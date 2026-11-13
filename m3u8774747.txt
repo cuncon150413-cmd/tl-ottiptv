@@ -317,6 +317,14 @@ vietnam today 240p
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_6669540177728122612.m3u8
 viet nam 360 hd
 http://hoatv001.ddns.net/kfucx2
+thvl phim hd
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8
+thvl giai tri hd
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8
+thvl thieu nhi hd
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
+thvl chuyen de hd
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
 
 fm khac
 quang nam radio
@@ -727,7 +735,7 @@ on style tv (audio-aac)
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 testcard 720p
 http://dvrfl05.bozztv.com/vch_vchannel13/index.m3u8
-viet channel hd
+giong ca de doi hd
 http://dvrfl05.bozztv.com/vch_vchannel15/index.m3u8
  720p
 http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
@@ -779,6 +787,10 @@ http://pk79.io.vn/vieon/play.php?id=30633b83-7885-4372-b65a-0688d2b7175a
 ctrl.laotv.la
 vtv1 hd
 https://ctrl.laotv.la/tokenlive/Vnews/index.m3u8?va=4926710162&token=b3f11e2b2a4b95a753e2
+vtv2 hd
+https://ctrl.laotv.la/tokenlive/K+Sport2/index.m3u8?va=4926710211&token=3322319a6a724f95edae
+vtv3 hd
+https://ctrl.laotv.la/tokenlive/VTV3/index.m3u8?va=4926711725&token=77a3f28cbc4df2b3a391
 vtv4 hd
 https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 vietnam today hd
@@ -10349,15 +10361,15 @@ http://tv.close.vn:8122/udp/225.1.1.101:30120
 
 --mpd station--
 
-livesct.vtvprime.vn
+livevlisctcdnw.seenow.vn
 vtv1 hd
-https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
 vtv2 hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livesct.vtvprime.vn/Live_DASHDRM1/VTV2_HD/manifest.mpd
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV2_HD/manifest.mpd
 vtv3 hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10381,13 +10393,19 @@ vtv5 tay nam bo hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f
-https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TNB/manifest.mpd
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV5_TNB/manifest.mpd
 vtv5 tay nguyen hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
-https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd
+vtv6 hd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+https://livevlisctcdnw.seenow.vn/livesnv2/VTV6/manifest.mpd
 vtv7 hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10419,7 +10437,7 @@ vtv3 hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-https://livebytatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd
+https://livezenatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd
 vtv6 hd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10444,12 +10462,19 @@ vtv10 hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
+
 htv9 hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
+sctv9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
+https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
 vietnam today hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
