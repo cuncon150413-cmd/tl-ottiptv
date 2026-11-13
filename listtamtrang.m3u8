@@ -8,6 +8,8 @@
 
 -- update #4 21:40 8/11/2026 mở 3 hộp bốc thăm khu bệnh viện nhốn nhão đã ra mặt, khôi phục KTV Khánh Hòa và TTV Thanh Hóa về 720p, tăng 720p --> 1080p cho HuếTV xài server của TV360, Đồng thời thêm 1 số kênh VTVCab --
 
+-- update #5 20:30 13/11/2026 lồn thằng nào bảo code giới hạn vài phút ở thứ 7, xem lý do ở thi thể HTV7, giảm 720p --> testcard mytv cho TTV Thanh Hóa --
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV1_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907124651&path-prefix=vi" group-title="VTV",VTV1
 https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV2_logo_%282026-nay%29.png/revision/latest?cb=20260907124810&path-prefix=vi" group-title="VTV",VTV2
@@ -115,7 +117,7 @@ https://1011154949.vnns.net/htvc/htv3.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260424031742&path-prefix=vi" group-title="HTV",HTV4
 https://1011154949.vnns.net/htvc/htv4.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
-https://live.tvon.vn/s2/abr_hls/htv7/720p.m3u8
+https://cuncon150413-cmd.github.io/tldigital-ott1/iptv/thanhhoa/ditmemaythangnoithu7occac.m3u8
 #EXTINF:-1 tvg-id="htv9" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_31-12-2024_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260414043029&path-prefix=vi" group-title="HTV",HTV9
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/live/hcmtv_720p/chunks.m3u8
 
@@ -226,6 +228,6 @@ https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u
 #EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" group-title="Địa Phương",TN Thái Nguyên
 https://liveh34.vtvprime.vn/hls/THAINGUYENTV/02.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
-https://liveh12.vtvprime.vn/hls/THANHHOATV/03.m3u8
+http://123.31.36.68/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
