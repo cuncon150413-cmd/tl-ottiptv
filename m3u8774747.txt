@@ -2,7 +2,8 @@
 1440p=2560x1440 
 hd=1920x1080 1080p fullhd
 720p=1280x720 720p hd
-576p=1027x576/720x576
+576p=1027x576
+576i=720x576
 qhd=960x540 540p qhd
 sd=854x480 480p sd
 720x402= 720x402
@@ -2514,6 +2515,7 @@ https://live.tvon.vn/g6/sctv10/video_hd_compat/playlist.m3u8
 https://live.tvon.vn/g2/sctv10/video_hd/playlist.m3u8
 https://live.tvon.vn/g6/sctv10/video_hd/playlist.m3u8
 sctv10 576p
+https://live.tvon.vn/s1/hls/sctv10/index.m3u8
 https://live.tvon.vn/g2/sctv10/video_ld_compat/playlist.m3u8
 https://live.tvon.vn/g6/sctv10/video_ld_compat/playlist.m3u8
 https://live.tvon.vn/g2/sctv10/video_ld/playlist.m3u8
@@ -2563,7 +2565,6 @@ https://live.tvon.vn/g1/sctv18/video_hd/playlist.m3u8
 https://live.tvon.vn/g5/sctv18/video_hd/playlist.m3u8
 sctv18 576p
 https://live.tvon.vn/s2/hls/vtc1/index.m3u8
-sctv18 576p
 https://live.tvon.vn/g1/sctv18/video_ld_compat/playlist.m3u8
 https://live.tvon.vn/g5/sctv18/video_ld_compat/playlist.m3u8
 https://live.tvon.vn/g1/sctv18/video_ld/playlist.m3u8
@@ -2698,7 +2699,7 @@ on trending tv 720p
 https://live.tvon.vn/s3/hls/vtvcab17/index.m3u8
 on trending tv 576p
 https://live.tvon.vn/s4/hls/vtvcab17/index.m3u8
-on sports + hd
+on sports news hd
 https://live.tvon.vn/s4/hls/vtvcab18/index.m3u8
 on vfamily 540p
 https://live.tvon.vn/s3/hls/vtvcab20/index.m3u8
@@ -4107,11 +4108,11 @@ https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/1411-avc1_1800000
 qpvn hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/1411-avc1_5100000=10002-mp4a_192000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/index.m3u8
-tv360+? 360p
+tv360+7 360p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1422/HLS_Clean_MHL_6s/1422-avc1_500000=10000-mp4a_128000_eng=20000.m3u8
-tv360+? 720p
+tv360+7 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1422/HLS_Clean_MHL_6s/1422-avc1_1500000=10001-mp4a_128000_eng=20000.m3u8
-tv360+? hd
+tv360+7 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1422/HLS_Clean_MHL_6s/1422-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1422/HLS_Clean_MHL_6s/index.m3u8
 tv360+? 480p
@@ -4144,9 +4145,9 @@ tv360+15 clean hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1430/HLS_Clean_MHL_6s/1430-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1430/HLS_Clean_MHL_6s/1430-avc1_4500000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1430/HLS_Clean_MHL_6s/index.m3u8
-mg 480p
+qpvn 480p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1429/HLS_Clean_MHL_6s/1429-avc1_1000000=10000-mp4a_96000_eng=20000.m3u8
-mg hd
+qpvn hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1429/HLS_Clean_MHL_6s/1429-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1429/HLS_Clean_MHL_6s/1429-avc1_4500000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1429/HLS_Clean_MHL_6s/index.m3u8
@@ -4156,11 +4157,11 @@ reyducky09 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1428/HLS_Clean_MHL_6s/1428-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1428/HLS_Clean_MHL_6s/1428-avc1_4500000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1428/HLS_Clean_MHL_6s/index.m3u8
-tv360+? 360p
+tv360+4 360p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1416/HLS_Clean_MHL_6s/1416-avc1_500000=10000-mp4a_128000_eng=20000.m3u8
-tv360+? 720p
+tv360+4 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1416/HLS_Clean_MHL_6s/1416-avc1_1500000=10001-mp4a_128000_eng=20000.m3u8
-tv360+? hd
+tv360+4 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1416/HLS_Clean_MHL_6s/1416-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1416/HLS_Clean_MHL_6s/index.m3u8
 k+? 360p
@@ -4211,11 +4212,11 @@ vtv1 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1544/HLS_Clean_MHL_4s/1544-avc1_3299968=10002-mp4a_206000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1544/HLS_Clean_MHL_4s/1544-avc1_5099968=10003-mp4a_206000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1544/HLS_Clean_MHL_4s/index.m3u8
-tv360+? 360p
+tv360+6 360p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1420/HLS_Clean_MHL_6s/1420-avc1_500000=10000-mp4a_128000_eng=20000.m3u8
-tv360+? 720p
+tv360+6 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1420/HLS_Clean_MHL_6s/1420-avc1_1500000=10001-mp4a_128000_eng=20000.m3u8
-tv360+? hd
+tv360+6 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1420/HLS_Clean_MHL_6s/1420-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1420/HLS_Clean_MHL_6s/index.m3u8
 qpvn 720p
@@ -4240,11 +4241,11 @@ fm96 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/429/HLS_Clean_MHL_6s/429-avc1_3299968=10004-mp4a_131600_eng=20001.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/429/HLS_Clean_MHL_6s/429-avc1_5099968=10005-mp4a_131600_eng=20001.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/429/HLS_Clean_MHL_6s/index.m3u8
-tv360+? 360p
+tv360+5 360p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1418/HLS_Clean_MHL_6s/1418-avc1_500000=10000-mp4a_128000_eng=20000.m3u8
-tv360+? 720p
+tv360+5 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1418/HLS_Clean_MHL_6s/1418-avc1_1500000=10001-mp4a_128000_eng=20000.m3u8
-tv360+? hd
+tv360+5 hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1418/HLS_Clean_MHL_6s/1418-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1418/HLS_Clean_MHL_6s/index.m3u8
 bsod999 720p
