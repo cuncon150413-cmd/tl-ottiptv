@@ -326,6 +326,12 @@ thvl thieu nhi hd
 https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
 thvl chuyen de hd
 https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
+ttv thanh hoa 720p referer=https://baothanhhoa.vn/
+https://d1.dhcn.vn/hls/bth_th/720p/index.m3u8
+ttv thanh hoa 480p referer=https://baothanhhoa.vn/
+https://d1.dhcn.vn/hls/bth_th/480p/index.m3u8
+ptv phu tho hd referer=https://phuthotv.vn/
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 
 fm khac
 quang nam radio
@@ -342,6 +348,8 @@ ha tinh
 http://171.244.133.152:8000/hatinh
 tuyen quang
 https://radio.tuyenquangtv.vn/live/playlist.m3u8
+phu tho referer=https://phuthotv.vn/
+https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
 
 audio-lss.vov.vn
 vov1
@@ -1042,144 +1050,240 @@ qnr2 quang ninh 240p
 https://live.langsontv.vn/qtvlive/qnr2.m3u8
 
 123.31.36.68
+htv2 360p
+http://123.31.36.68/live.m3u8?c=vstv001&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv2 720x406
 http://123.31.36.68/live.m3u8?c=vstv001&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtc7 360p
+http://123.31.36.68/live.m3u8?c=vstv003&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vtc7 720x406
 http://123.31.36.68/live.m3u8?c=vstv003&q=high&type=tv&location=NA&pkg=pkg11.hni
+htv9 360p
+http://123.31.36.68/live.m3u8?c=vstv009&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv9 720x406
 http://123.31.36.68/live.m3u8?c=vstv009&q=high&type=tv&location=NA&pkg=pkg11.hni
+hanoitv1 360p
+http://123.31.36.68/live.m3u8?c=vstv011&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hanoitv1 720x406
 http://123.31.36.68/live.m3u8?c=vstv011&q=high&type=tv&location=NA&pkg=pkg11.hni
+hanoitv2 360p
+http://123.31.36.68/live.m3u8?c=vstv012&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hanoitv2 720x406
 http://123.31.36.68/live.m3u8?c=vstv012&q=high&type=tv&location=NA&pkg=pkg11.hni
+htv7 360p
+http://123.31.36.68/live.m3u8?c=vstv015&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv7 720x406
 http://123.31.36.68/live.m3u8?c=vstv015&q=high&type=tv&location=NA&pkg=pkg11.hni
+dtv dien bien 360p
+http://123.31.36.68/live.m3u8?c=vstv362&q=medium&type=tv&location=NA&pkg=pkg11.hni
 dtv dien bien 720x406
 http://123.31.36.68/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
 dtv dien bien 720p
 http://123.31.36.68/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ltv lai chau 360p
+http://123.31.36.68/live.m3u8?c=vstv361&q=medium&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720x406
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720p
 http://123.31.36.68/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg31.hni
+thd hai duong 360p
+http://123.31.36.68/live.m3u8?c=vstv369&q=medium&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720x406
-http://123.31.36.68/live.m3u8?c=vstv369&q=hig&type=tv&location=NA&pkg=pkg11.hni
+http://123.31.36.68/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720p
 http://123.31.36.68/live.m3u8?c=vstv369&q=sd&type=tv&location=NA&pkg=pkg11.hni
+tbk bac kan 360p
+http://123.31.36.68/live.m3u8?c=vstv360&q=medium&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720x406
 http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720p
 http://123.31.36.68/live.m3u8?c=vstv360&q=sd&type=tv&location=NA&pkg=pkg11.hni
+hgtv ha giang 360p
+http://123.31.36.68/live.m3u8?c=vstv365&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720x406
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720p
 http://123.31.36.68/live.m3u8?c=vstv365&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ttv thanh hoa 360p
+http://123.31.36.68/live.m3u8?c=vstv525&q=medium&type=tv&location=NA&pkg=pkg12.hni
 ttv thanh hoa 720x406
 http://123.31.36.68/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg12.hni
 http://123.31.36.68/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
 ttv thanh hoa 720p
 http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+ptp phu yen 360p
+http://123.31.36.68/live.m3u8?c=vstv372&q=medium&type=tv&location=NA&pkg=pkg11.hni
 ptp phu yen 720x406
 http://123.31.36.68/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
+ptp phu yen 720p
+http://123.31.36.68/live.m3u8?c=vstv372&q=sd&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 360p
+http://123.31.36.68/live.m3u8?c=vstv372&q=medium&type=tv&location=NA&pkg=pkg11.hni
 thp hai phong 720x406
 http://123.31.36.68/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
+natv nghe an 360p
+http://123.31.36.68/live.m3u8?c=vstv221&q=medium&type=tv&location=NA&pkg=pkg11.hni
 natv nghe an 720x406
 http://123.31.36.68/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 360p
+http://123.31.36.68/live.m3u8?c=vstv227&q=medium&type=tv&location=NA&pkg=pkg11.hni
 qtv1 quang ninh 720x406
 http://123.31.36.68/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv3 360p
+http://123.31.36.68/live.m3u8?c=vstv262&q=medium&type=tv&location=NA&pkg=pkg12.hni
 vtv3 720x406
 http://123.31.36.68/live.m3u8?c=vstv262&q=high&type=tv&location=NA&pkg=pkg12.hni
 vtv3 720p
 http://123.31.36.68/live.m3u8?c=vstv262&q=sd&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 360p
+http://123.31.36.68/live.m3u8?c=vstv480&q=medium&type=tv&location=NA&pkg=pkg12.hni
 tn thai nguyen 720x406
 http://123.31.36.68/live.m3u8?c=vstv480&q=high&type=tv&location=NA&pkg=pkg12.hni
 tn thai nguyen 720p
 http://123.31.36.68/live.m3u8?c=vstv480&q=sd&type=tv&location=NA&pkg=pkg12.hni
+antv 360p
+http://123.31.36.68/live.m3u8?c=vstv053&q=medium&type=tv&location=NA&pkg=pkg11.hni
 antv 720x406
 http://123.31.36.68/live.m3u8?c=vstv053&q=high&type=tv&location=NA&pkg=pkg11.hni
 antv 720p
 http://123.31.36.68/live.m3u8?c=vstv053&q=sd&type=tv&location=NA&pkg=pkg11.hni
+nbtv ninh binh 360p
+http://123.31.36.68/live.m3u8?c=vstv257&q=medium&type=tv&location=NA&pkg=pkg33.hni
 nbtv ninh binh 720p
 http://123.31.36.68/live.m3u8?c=vstv257&q=sd&type=tv&location=NA&pkg=pkg33.hni
 nbtv ninh binh 720x406
 http://123.31.36.68/live.m3u8?c=vstv257&q=high&type=tv&location=NA&pkg=pkg33.hni
+ltv1 lam dong 360p
+http://123.31.36.68/live.m3u8?c=vstv238&q=medium&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 720p
 http://123.31.36.68/live.m3u8?c=vstv238&q=sd&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 406p
 http://123.31.36.68/live.m3u8?c=vstv238&q=high&type=tv&location=NA&pkg=pkg11.hni
+vnews 360p
+http://123.31.36.68/live.m3u8?c=vstv396&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vnews 720x406
 http://123.31.36.68/live.m3u8?c=vstv396&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv1 360p
+http://123.31.36.68/live.m3u8?c=vstv002&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vtv1 720x406
 http://123.31.36.68/live.m3u8?c=vstv002&q=high&type=tv&location=NA&pkg=pkg11.hni
 
 vnptvas-mytv-tl2819302-tldigital.duckdns.org
+htv2 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv001&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv2 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv001&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtc7 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv003&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vtc7 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv003&q=high&type=tv&location=NA&pkg=pkg11.hni
+htv9 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv009&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv9 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv009&q=high&type=tv&location=NA&pkg=pkg11.hni
+hanoitv1 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv011&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hanoitv1 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv011&q=high&type=tv&location=NA&pkg=pkg11.hni
+hanoitv2 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv012&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hanoitv2 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv012&q=high&type=tv&location=NA&pkg=pkg11.hni
+htv7 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv015&q=medium&type=tv&location=NA&pkg=pkg11.hni
 htv7 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv015&q=high&type=tv&location=NA&pkg=pkg11.hni
+dtv dien bien 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv362&q=medium&type=tv&location=NA&pkg=pkg11.hni
 dtv dien bien 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
 dtv dien bien 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv362&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ltv lai chau 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv361&q=medium&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 ltv lai chau 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv361&q=sd&type=tv&location=NA&pkg=pkg31.hni
+thd hai duong 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv369&q=medium&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720x406
-http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv369&q=hig&type=tv&location=NA&pkg=pkg11.hni
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
 thd hai duong 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv369&q=sd&type=tv&location=NA&pkg=pkg11.hni
+tbk bac kan 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv360&q=medium&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
 tbk bac kan 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv360&q=sd&type=tv&location=NA&pkg=pkg11.hni
+hgtv ha giang 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv365&q=medium&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 hgtv ha giang 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv365&q=sd&type=tv&location=NA&pkg=pkg11.hni
+ttv thanh hoa 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv525&q=medium&type=tv&location=NA&pkg=pkg12.hni
 ttv thanh hoa 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv525&q=high&type=tv&location=NA&pkg=pkg12.hni
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv208&q=high&type=tv&location=NA&pkg=pkg11.hni
 ttv thanh hoa 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+ptp phu yen 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv372&q=medium&type=tv&location=NA&pkg=pkg11.hni
 ptp phu yen 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv372&q=high&type=tv&location=NA&pkg=pkg11.hni
+ptp phu yen 720p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv372&q=sd&type=tv&location=NA&pkg=pkg11.hni
+thp hai phong 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv372&q=medium&type=tv&location=NA&pkg=pkg11.hni
 thp hai phong 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv202&q=high&type=tv&location=NA&pkg=pkg11.hni
+natv nghe an 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv221&q=medium&type=tv&location=NA&pkg=pkg11.hni
 natv nghe an 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv221&q=high&type=tv&location=NA&pkg=pkg11.hni
+qtv1 quang ninh 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv227&q=medium&type=tv&location=NA&pkg=pkg11.hni
 qtv1 quang ninh 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv227&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv3 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv262&q=medium&type=tv&location=NA&pkg=pkg12.hni
 vtv3 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv262&q=high&type=tv&location=NA&pkg=pkg12.hni
 vtv3 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv262&q=sd&type=tv&location=NA&pkg=pkg12.hni
+tn thai nguyen 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv480&q=medium&type=tv&location=NA&pkg=pkg12.hni
 tn thai nguyen 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv480&q=high&type=tv&location=NA&pkg=pkg12.hni
 tn thai nguyen 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv480&q=sd&type=tv&location=NA&pkg=pkg12.hni
+antv 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv053&q=medium&type=tv&location=NA&pkg=pkg11.hni
 antv 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv053&q=high&type=tv&location=NA&pkg=pkg11.hni
 antv 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv053&q=sd&type=tv&location=NA&pkg=pkg11.hni
+nbtv ninh binh 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv257&q=medium&type=tv&location=NA&pkg=pkg33.hni
 nbtv ninh binh 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv257&q=sd&type=tv&location=NA&pkg=pkg33.hni
 nbtv ninh binh 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv257&q=high&type=tv&location=NA&pkg=pkg33.hni
+ltv1 lam dong 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv238&q=medium&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 720p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv238&q=sd&type=tv&location=NA&pkg=pkg33.hni
 ltv1 lam dong 406p
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv238&q=high&type=tv&location=NA&pkg=pkg11.hni
+vnews 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv396&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vnews 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv396&q=high&type=tv&location=NA&pkg=pkg11.hni
+vtv1 360p
+http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv002&q=medium&type=tv&location=NA&pkg=pkg11.hni
 vtv1 720x406
 http://vnptvas-mytv-tl2819302-tldigital.duckdns.org/live.m3u8?c=vstv002&q=high&type=tv&location=NA&pkg=pkg11.hni
 
@@ -1288,6 +1392,9 @@ https://live.mediatech.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
 thai nguyen radio 720p
 https://live.mediatech.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://live.mediatech.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://live.mediatech.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://live.mediatech.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.drt.vn
 stv son la hd
@@ -1394,6 +1501,9 @@ https://cdn.drt.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
 thai nguyen radio 720p
 https://cdn.drt.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.drt.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.drt.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.drt.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.sonlatv.vn
 stv son la hd
@@ -1500,6 +1610,9 @@ https://cdn.sonlatv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
 thai nguyen radio 720p
 https://cdn.sonlatv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.sonlatv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.sonlatv.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.sonlatv.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 
 stream.langsontv.vn
@@ -1607,6 +1720,9 @@ https://stream.langsontv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3
 thai nguyen radio 720p
 https://stream.langsontv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://stream.langsontv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://stream.langsontv.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://stream.langsontv.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.baobinhphuoc.com.vn
 stv son la hd
@@ -1713,6 +1829,9 @@ https://cdn.baobinhphuoc.com.vn/live/285743a79dd21fd4a838894125ec17fd168/playlis
 thai nguyen radio 720p
 https://cdn.baobinhphuoc.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.baobinhphuoc.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.baobinhphuoc.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.baobinhphuoc.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 live-hq.evgcdn.net
 stv son la hd
@@ -1819,6 +1938,9 @@ https://live-hq.evgcdn.net/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u
 thai nguyen radio 720p
 https://live-hq.evgcdn.net/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://live-hq.evgcdn.net/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://live-hq.evgcdn.net/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://live-hq.evgcdn.net/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.thhp.vn
 stv son la hd
@@ -1925,6 +2047,9 @@ https://cdn.thhp.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
 thai nguyen radio 720p
 https://cdn.thhp.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.thhp.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.thhp.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.thhp.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 live.haiduongtv.vn
 stv son la hd
@@ -2031,6 +2156,9 @@ https://live.haiduongtv.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u
 thai nguyen radio 720p
 https://live.haiduongtv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://live.haiduongtv.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://live.haiduongtv.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://live.haiduongtv.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.la34.com.vn
 stv son la hd
@@ -2137,6 +2265,9 @@ https://cdn.la34.com.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8
 thai nguyen radio 720p
 https://cdn.la34.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.la34.com.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.la34.com.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.la34.com.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 cdn.baoquangninh.vn
 stv son la hd
@@ -2243,6 +2374,9 @@ https://cdn.baoquangninh.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3
 thai nguyen radio 720p
 https://cdn.baoquangninh.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8
+phat thanh phu tho
+https://cdn.baoquangninh.vn/live/285fefa087a85b14ba3b213abc1f8681950/chunklist.m3u8
+https://cdn.baoquangninh.vn/live/285fefa087a85b14ba3b213abc1f8681950/playlist.m3u8
 
 118.107.85.4:1935
 dnnrtv1 dong nai 480p
@@ -4059,15 +4193,15 @@ tv360 no signal hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1438/HLS_Clean_MHL_6s/1438-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1438/HLS_Clean_MHL_6s/1438-avc1_4800000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1438/HLS_Clean_MHL_6s/index.m3u8
-tv360 no signal 480p
+tv360 + test event live (01) 480p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1437/HLS_Clean_MHL_6s/1437-avc1_1000000=10000-mp4a_96000_eng=20000.m3u8
-tv360 no signal hd
+tv360 + test event live (01) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1437/HLS_Clean_MHL_6s/1437-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1437/HLS_Clean_MHL_6s/1437-avc1_4800000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1437/HLS_Clean_MHL_6s/index.m3u8
-tv360 no signal 480p
+tv360 + test event live (01) 480p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1436/HLS_Clean_MHL_6s/1436-avc1_1000000=10000-mp4a_96000_eng=20000.m3u8
-tv360 no signal hd
+tv360 + test event live (01) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1436/HLS_Clean_MHL_6s/1436-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1436/HLS_Clean_MHL_6s/1436-avc1_4800000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1436/HLS_Clean_MHL_6s/index.m3u8
@@ -4095,17 +4229,17 @@ qpvn hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1409/HLS_Clean_MHL_6s/1409-avc1_3300000=10001-mp4a_192000_vie=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1409/HLS_Clean_MHL_6s/1409-avc1_5100000=10002-mp4a_192000_vie=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1409/HLS_Clean_MHL_6s/index.m3u8
-reyducky09 720p
+tv360 + test event live (04) 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1408/HLS_Clean_MHL_6s/1408-avc1_1500000=10000-mp4a_128000_eng=20000.m3u8
-reyducky09 hd
+tv360 + test event live (04) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1408/HLS_Clean_MHL_6s/1408-avc1_3000000=10001-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1408/HLS_Clean_MHL_6s/1408-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1408/HLS_Clean_MHL_6s/index.m3u8
-qpvn 480p
+qpvn 480p + test event live (01)
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/1411-avc1_1000000=10000-mp4a_192000_eng=20000.m3u8
-qpvn 720p
+qpvn 720p + test event live (01)
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/1411-avc1_1800000=10001-mp4a_192000_eng=20000.m3u8
-qpvn hd
+qpvn hd + test event live (01)
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/1411-avc1_5100000=10002-mp4a_192000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1411/HLS_Clean_MHL_6s/index.m3u8
 tv360+7 360p
@@ -4127,9 +4261,9 @@ qpvn hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1433/HLS_Clean_MHL_6s/1433-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1433/HLS_Clean_MHL_6s/1433-avc1_4500000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1433/HLS_Clean_MHL_6s/index.m3u8
-tv360 no signal 480p
+tv360 + test event live (03) 480p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1432/HLS_Clean_MHL_6s/1432-avc1_1000000=10000-mp4a_96000_eng=20000.m3u8
-tv360 no signal hd
+tv360 + test event live (03) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1432/HLS_Clean_MHL_6s/1432-avc1_3300000=10001-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1432/HLS_Clean_MHL_6s/1432-avc1_4500000=10002-mp4a_96000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1432/HLS_Clean_MHL_6s/index.m3u8
@@ -4171,9 +4305,9 @@ https://pop1-ec3-ateme.tv360.vn/live/eds/1426/HLS_Clean_MHL_6s/1426-avc1_1500000
 k+? hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1426/HLS_Clean_MHL_6s/1426-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1426/HLS_Clean_MHL_6s/index.m3u8
-qpvn 720p
+qpvn + test event live (01) 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1425/HLS_Clean_MHL_6s/1425-avc1_1500000=10000-mp4a_128000_eng=20000.m3u8
-qpvn hd
+qpvn + test event live (01) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1425/HLS_Clean_MHL_6s/1425-avc1_3000000=10001-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1425/HLS_Clean_MHL_6s/1425-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1425/HLS_Clean_MHL_6s/index.m3u8
@@ -4186,13 +4320,13 @@ https://pop1-ec3-ateme.tv360.vn/live/eds/1424/HLS_Clean_MHL_6s/1424-avc1_4500000
 https://pop1-ec3-ateme.tv360.vn/live/eds/1424/HLS_Clean_MHL_6s/index.m3u8
 qpvn 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1423/HLS_Clean_MHL_6s/1423-avc1_1500000=10000-mp4a_128000_eng=20000.m3u8
-qpvn hd
+qpvn + test event live (02) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1423/HLS_Clean_MHL_6s/1423-avc1_3000000=10001-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1423/HLS_Clean_MHL_6s/1423-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1423/HLS_Clean_MHL_6s/index.m3u8
-qpvn 720p
+qpvn + test event live (02) 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1421/HLS_Clean_MHL_6s/1421-avc1_1500000=10000-mp4a_128000_eng=20000.m3u8
-qpvn hd
+qpvn + test event live (02) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1421/HLS_Clean_MHL_6s/1421-avc1_3000000=10001-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1421/HLS_Clean_MHL_6s/1421-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1421/HLS_Clean_MHL_6s/index.m3u8
@@ -4267,9 +4401,9 @@ https://pop1-ec3-ateme.tv360.vn/live/eds/1414/HLS_Clean_MHL_6s/1414-avc1_1500000
 tv360+? hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1414/HLS_Clean_MHL_6s/1414-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1414/HLS_Clean_MHL_6s/index.m3u8
-qpvn 720p
+qpvn + test event live (02) 720p
 https://pop1-ec3-ateme.tv360.vn/live/eds/1406/HLS_Clean_MHL_6s/1406-avc1_1500000=10000-mp4a_128000_eng=20000.m3u8
-qpvn hd
+qpvn + test event live (02) hd
 https://pop1-ec3-ateme.tv360.vn/live/eds/1406/HLS_Clean_MHL_6s/1406-avc1_3000000=10001-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1406/HLS_Clean_MHL_6s/1406-avc1_4500000=10002-mp4a_128000_eng=20000.m3u8
 https://pop1-ec3-ateme.tv360.vn/live/eds/1406/HLS_Clean_MHL_6s/index.m3u8
@@ -7327,12 +7461,12 @@ ttv thanh hoa 480p
 https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://cmcdp3.vtvdigital.vn/hls/QPTV/index.m3u8
 https://cmcdp3.vtvdigital.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://cmcdp3.vtvdigital.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://cmcdp3.vtvdigital.vn/hls/QPTV/02.m3u8
+QPVN 270p
 https://cmcdp3.vtvdigital.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://cmcdp3.vtvdigital.vn/hls/ANNINHTV/index.m3u8
@@ -7544,12 +7678,12 @@ ttv thanh hoa 480p
 https://67tz1gnwrvxic.cmccdn.net/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://67tz1gnwrvxic.cmccdn.net/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://67tz1gnwrvxic.cmccdn.net/hls/QPTV/index.m3u8
 https://67tz1gnwrvxic.cmccdn.net/hls/QPTV/03.m3u8
-QPVN 480p
-https://67tz1gnwrvxic.cmccdn.net/hls/QPTV/02.m3u8
 QPVN 360p
+https://67tz1gnwrvxic.cmccdn.net/hls/QPTV/02.m3u8
+QPVN 270p
 https://67tz1gnwrvxic.cmccdn.net/hls/QPTV/01.m3u8
 ANTV hd
 https://67tz1gnwrvxic.cmccdn.net/hls/ANNINHTV/index.m3u8
@@ -7761,12 +7895,12 @@ ttv thanh hoa 480p
 https://n5uc9f51njliv.vcdn.cloud/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://n5uc9f51njliv.vcdn.cloud/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://n5uc9f51njliv.vcdn.cloud/hls/QPTV/index.m3u8
 https://n5uc9f51njliv.vcdn.cloud/hls/QPTV/03.m3u8
-QPVN 480p
-https://n5uc9f51njliv.vcdn.cloud/hls/QPTV/02.m3u8
 QPVN 360p
+https://n5uc9f51njliv.vcdn.cloud/hls/QPTV/02.m3u8
+QPVN 270p
 https://n5uc9f51njliv.vcdn.cloud/hls/QPTV/01.m3u8
 ANTV hd
 https://n5uc9f51njliv.vcdn.cloud/hls/ANNINHTV/index.m3u8
@@ -7978,12 +8112,12 @@ ttv thanh hoa 480p
 https://liveh12.seenow.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://liveh12.seenow.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://liveh12.seenow.vn/hls/QPTV/index.m3u8
 https://liveh12.seenow.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://liveh12.seenow.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://liveh12.seenow.vn/hls/QPTV/02.m3u8
+QPVN 270p
 https://liveh12.seenow.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://liveh12.seenow.vn/hls/ANNINHTV/index.m3u8
@@ -8195,12 +8329,12 @@ ttv thanh hoa 480p
 https://liveh12.vtvprime.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://liveh12.vtvprime.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 https://liveh12.vtvprime.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://liveh12.vtvprime.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://liveh12.vtvprime.vn/hls/QPTV/02.m3u8
+QPVN 240p
 https://liveh12.vtvprime.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
@@ -8412,12 +8546,12 @@ ttv thanh hoa 480p
 https://liveh12vng.vtvprime.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://liveh12vng.vtvprime.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://liveh12vng.vtvprime.vn/hls/QPTV/index.m3u8
 https://liveh12vng.vtvprime.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://liveh12vng.vtvprime.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://liveh12vng.vtvprime.vn/hls/QPTV/02.m3u8
+QPVN 270p
 https://liveh12vng.vtvprime.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://liveh12vng.vtvprime.vn/hls/ANNINHTV/index.m3u8
@@ -8629,12 +8763,12 @@ ttv thanh hoa 480p
 https://liveh12byt.vtvprime.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://liveh12byt.vtvprime.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://liveh12byt.vtvprime.vn/hls/QPTV/index.m3u8
 https://liveh12byt.vtvprime.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://liveh12byt.vtvprime.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://liveh12byt.vtvprime.vn/hls/QPTV/02.m3u8
+QPVN 270p
 https://liveh12byt.vtvprime.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://liveh12byt.vtvprime.vn/hls/ANNINHTV/index.m3u8
@@ -8846,12 +8980,12 @@ ttv thanh hoa 480p
 https://cdnet-cdn-02.onsports.vn/hls/THANHHOATV/02.m3u8
 ttv thanh hoa 360p
 https://cdnet-cdn-02.onsports.vn/hls/THANHHOATV/01.m3u8
-QPVN 720p
+QPVN 540p
 https://cdnet-cdn-02.onsports.vn/hls/QPTV/index.m3u8
 https://cdnet-cdn-02.onsports.vn/hls/QPTV/03.m3u8
-QPVN 480p
-https://cdnet-cdn-02.onsports.vn/hls/QPTV/02.m3u8
 QPVN 360p
+https://cdnet-cdn-02.onsports.vn/hls/QPTV/02.m3u8
+QPVN 270p
 https://cdnet-cdn-02.onsports.vn/hls/QPTV/01.m3u8
 ANTV hd
 https://cdnet-cdn-02.onsports.vn/hls/ANNINHTV/index.m3u8
@@ -11304,7 +11438,7 @@ https://1011154949.vnns.net/htvc/VOH-AM610.adm.tms/chunks.m3u8
 vtcplay.vn
 vtv1 720p
 https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
-atv1 an giang 720p
+atv1 an giang 576p
 https://luuchieu.truyenhinhso.vn/media/live/EC0F7C1B237EB60327827853/index.m3u8
 thp hai phong 720p
 https://luuchieu.truyenhinhso.vn/media/live/92B1DFD1EC042E0358662585/index.m3u8
