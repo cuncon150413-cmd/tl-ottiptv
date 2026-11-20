@@ -332,6 +332,8 @@ ttv thanh hoa 480p referer=https://baothanhhoa.vn/
 https://d1.dhcn.vn/hls/bth_th/480p/index.m3u8
 ptv phu tho hd referer=https://phuthotv.vn/
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+dnnrtv1 dong nai 720p
+https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
 
 fm khac
 quang nam radio
@@ -2916,12 +2918,12 @@ vtv3 hd
 https://dethich.pw/vtv3/index.m3u8
 vtv4 hd
 https://dethich.pw/vtv4/index.m3u8
+vtv5 hd
+https://dethich.pw/vtv5/index.m3u8
 vtv5 tay nam bo hd
 https://dethich.pw/vtv5tnb/index.m3u8
 vtv5 tay nguyen hd
 https://dethich.pw/vtv5tn/index.m3u8
-vtv5 hd
-https://dethich.pw/vtv5/index.m3u8
 vtv6 hd
 https://dethich.pw/vtv6/index.m3u8
 vtv7 hd
@@ -6361,7 +6363,7 @@ https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 events.vtvdigital.vn
 ctv ca mau 720p
@@ -6405,7 +6407,7 @@ https://events.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://events.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://events.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
+https://events.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
 ctv ca mau 720p
@@ -6449,7 +6451,7 @@ https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 vtvgolive-qt.vtvdigital.vn
 ctv ca mau 720p
@@ -6493,7 +6495,7 @@ https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-3680p50fps.m3u8
+https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 vtvgolivesmarttv2-aws-tn.vtvdigital.vn
 vtvgo event 1 hd
@@ -6516,7 +6518,7 @@ https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-3680p50fps.m3u8
+https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-360p50fps.m3u8
 
 d2msoi9s9viefm.cloudfront.net
 vtvgo event 1 hd
@@ -6539,7 +6541,7 @@ https://d2msoi9s9viefm.cloudfront.net/wildlife-720p50fps.m3u8
 vtvgo event 4 480p
 https://d2msoi9s9viefm.cloudfront.net/wildlife-480p50fps.m3u8
 vtvgo event 4 360p
-https://d2msoi9s9viefm.cloudfront.net/wildlife-3680p50fps.m3u8
+https://d2msoi9s9viefm.cloudfront.net/wildlife-360p50fps.m3u8
 
 vtvgolive-vtclc1.vtvdigital.vn
 crtv cao bang 720p
@@ -6558,7 +6560,7 @@ thlc lao cai 360p
 https://vtvgolive-vtclc1.vtvdigital.vn/hls/LAOCAI/tc-p360/index.m3u8?pull=f99d409444141f69b8dfc49115ca1649b56a920213515a3e7a2106b54e906e9a
 ttv tuyen quang 720p
 https://vtvgolive-vtclc1.vtvdigital.vn/api/hls/TUYENQUANG/master.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
-https://vtvgolive-vtclc1.vtvdigital.vn/hls/TUYENQUANG/master.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
+https://vtvgolive-vtclc1.vtvdigital.vn/hls/TUYENQUANG/tc-p720/index.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
 ttv tuyen quang 480p
 https://vtvgolive-vtclc1.vtvdigital.vn/hls/TUYENQUANG/tc-p480/index.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
 ttv tuyen quang 360p
@@ -6581,7 +6583,7 @@ thlc lao cai 360p
 https://luuchieu1.vtcplay.vn/hls/LAOCAI/tc-p360/index.m3u8?pull=f99d409444141f69b8dfc49115ca1649b56a920213515a3e7a2106b54e906e9a
 ttv tuyen quang 720p
 https://luuchieu1.vtcplay.vn/api/hls/TUYENQUANG/master.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
-https://luuchieu1.vtcplay.vn/hls/TUYENQUANG/master.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
+https://luuchieu1.vtcplay.vn/hls/TUYENQUANG/tc-p720/index.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
 ttv tuyen quang 480p
 https://luuchieu1.vtcplay.vn/hls/TUYENQUANG/tc-p480/index.m3u8?pull=ebf60d3c6d27beaa17dcbbe7d1ef066a19246f5410c139ecd06eaf1780698068
 ttv tuyen quang 360p
