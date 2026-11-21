@@ -851,20 +851,14 @@ https://dethich.pw/thvlaudio/index.m3u8
 https://sohoa-tttm.mobifone.vn/ninhthanhloi
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Hòa Xuân, Tỉnh Đắk Lắk
 https://sohoa-tttm.mobifone.vn/xahoaxuan
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Sơn Hòa, Tỉnh Đắk Lắk
-https://sohoa-tttm.mobifone.vn/xasonhoa
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Phường Cao Lãnh, Tỉnh Đồng Tháp
 https://sohoa-tttm.mobifone.vn/daiphuongcaolanh
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Phường Cao Lãnh, Tỉnh Đồng Tháp
 https://sohoa-tttm.mobifone.vn/phuongcaolanh
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã An Nhơn, Tỉnh Gia Lai
 http://sh.truyenthanhthongminh.vn/txannhon_str1
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Bình Điền, Thành Phố Huế
-https://sohoa-tttm.mobifone.vn/xabinhdien
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Phú Vinh, Thành Phố Huế
 https://sohoa-tttm.mobifone.vn/xaphuvinh
-#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Trung Sơn, TỈnh Thanh Hóa
-https://sohoa-tttm.mobifone.vn/xatrungson
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã An Nghiệp, TỈnh Đắk Lắk
 http://sohoa.truyenthanhthongminh.vn/annghiep
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Bình Hàng Tây, Huyện Cao Lãnh, Tỉnh Đồng Tháp
@@ -928,9 +922,219 @@ http://sohoa.truyenthanhthongminh.vn/xatanhoi
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Thanh Bình, Tỉnh Ninh Bình
 http://sohoa.truyenthanhthongminh.vn/xathanhbinh
 
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 1
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/df938213/198a97/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 2
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/0f9078fd/25d610/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 3
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/3ec02975/2a8983/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 4
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/ac553fcc/e35531/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 5
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/9ed6bc54/7a4dd3/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 6
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/84953e62/e60090/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 7
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/a0fc8cec/cba0c5/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 8
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/5f0c2736/104d58/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 9
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/b20f1c71/4f1e16/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 10
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/e90e6120/c4bab6/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 11
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/9a21ab84/934f99/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 12
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/629ebf38/05dc57/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 13
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/6c24d73b/54c164/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 14
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/58c48495/de943b/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 15
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/91856ed2/2bcd10/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 16
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/bc79f06a/8aefe5/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 17
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/a1910b1d/36ae79/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 18
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/632037f5/4e225e/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 19
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/aed2fab7/4ee59b/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 20
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/5517ee49/1da14c/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 21
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/a55e5af1/15cd36/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 22
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/bfef318b/820495/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 23
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/9571c58c/e35a53/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 24
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/fbd82c00/7c63b6/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 25
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/f653b374/a2f8ef/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 26
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/ad180774/8f8374/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 27
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/4d42e268/e9e2a4/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 28
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/f72ce55b/5bdc22/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 29
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/ba9f13aa/407ac5/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 30
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/58ebafde/0c925c/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 31
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/b419b8a9/52523f/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 32
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/a2c65c2a/f99dd2/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 33
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/66404a99/2397e7/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 34
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/e00355e4/ba60e4/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 35
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/d15fd019/943c7d/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 36
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/71a027b9/de5a38/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 37
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/1397a826/c55f27/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 38
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/2703aa29/6f5de0/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 39
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/16c6be76/b8bc2d/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 40
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/52ab46a8/7e6535/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 41
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/6c59156f/8444c5/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 42
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/bcf5b685/782a47/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 43
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/94eb4834/238676/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 44
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/2df69a25/bef60e/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 45
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/b019da3e/28be5a/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 46
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/72d549fc/87d344/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 47
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/e1a1abf7/08e1fc/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 48
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/217fc2ec/a7a6b3/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 49
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/fb50099f/2f3140/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 50
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/76163f70/bae857/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 51 
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/98cb2be5/26a4dc/h264/master.m3u8
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 52
+https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/fc7c6362/bcf83e/h264/master.m3u8
+
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 1
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 2
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 3
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 4
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 5
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 6
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 7
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 8
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 9
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 10
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 11
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 12
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 13
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 14
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 15
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 16
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 17
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 18
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 19
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 20
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 21
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 22
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 23
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 24
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 25
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 26
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 27
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 28
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 29
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 30
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 31
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 32
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 33
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 34
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 35
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 36
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 37
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 38
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 39
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 40
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 41
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 42
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 43
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 44
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 45
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 46
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 47
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 48
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 49
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 50
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 51 
+https://pop1-ec3-ateme.tv360.vn/
+#EXTINF:1 tvg-id="doraemon" group-title="Doraemon S13",Doraemon tập 52
+https://pop1-ec3-ateme.tv360.vn/
+
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_asian-food-channel_165649221342.png", AFN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-htt://freem3u.xyz/api/live/play.m3u8?vid=215
+https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/axn.png" group-title="Quốc Tế",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
