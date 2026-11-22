@@ -352,6 +352,40 @@ tuyen quang
 https://radio.tuyenquangtv.vn/live/playlist.m3u8
 phu tho referer=https://phuthotv.vn/
 https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
+vov1
+http://truyenthanhip.vov.link:8000/VOV1
+lao cai
+https://sohoa-tttm.mobifone.vn/sohoadaitinhlaocai
+an giang 99,4 mhz
+media.kythuatvov.vn:port
+vov1
+http://media.kythuatvov.vn:7001/;
+vov2
+http://media.kythuatvov.vn:7003/;
+vov3
+http://media.kythuatvov.vn:7005/;
+vov5
+http://media.kythuatvov.vn:7007/;
+vov5 247
+http://media.kythuatvov.vn:7009/;
+vov giao thong hcm
+http://media.kythuatvov.vn:7023/;
+vov giao thong ha noi
+http://media.kythuatvov.vn:7025/;
+vov4 dong bac or dong bang song cuu long
+http://media.kythuatvov.vn:7031/;
+vov
+http://media.kythuatvov.vn:7033/;
+vov
+http://media.kythuatvov.vn:7037/;
+vov4 tay nguyen
+http://media.kythuatvov.vn:7039/;
+vov giao thong
+http://media.kythuatvov.vn:7043/;
+vov giao thong
+http://media.kythuatvov.vn:7045/;
+vov giao thong
+http://media.kythuatvov.vn:7059/;
 
 audio-lss.vov.vn
 vov1
@@ -500,7 +534,7 @@ http://sh.truyenthanhthongminh.vn/binhphuocvov
 http://sh.truyenthanhthongminh.vn/vov1
 http://sh.truyenthanhthongminh.vn/vov1_ctkv7
 http://sh.truyenthanhthongminh.vn/vov1iot
-http://sh.truyenthanhthongminh.vn/vov1live
+http://sh.truyenthanhthongminh.vn/vov1live (no sound)
 hung yen
 http://sh.truyenthanhthongminh.vn/hungyen_sohoastr123
 vov giao thong ha noi
@@ -532,11 +566,11 @@ sh-tttm.mobifone.vn
 vov1
 https://sh-tttm.mobifone.vn/MBFVOV1
 https://sh-tttm.mobifone.vn/binhphuocvov
-https://sh-tttm.mobifone.vn/smatecvov1s
 https://sh-tttm.mobifone.vn/vov1
-https://sh-tttm.mobifone.vn/vov1-2-restream
 https://sh-tttm.mobifone.vn/vov1_ctkv7
 https://sh-tttm.mobifone.vn/vov1iot
+vov4
+https://sh-tttm.mobifone.vn/vov1-2-restream
 bac ninh
 https://sh-tttm.mobifone.vn/bacninh2026
 binh dinh
@@ -607,20 +641,28 @@ vtv1 bi nhiem phong xa ogg
 https://device-stream.truyenthanhso.com/vtv1
 
 stream.zeno.fm
-Cherry Radio Nhạc Trẻ
-https://stream.zeno.fm/umt5gqmg3reuv.aac
 Bài Hát Lạng Sơn
 https://stream.zeno.fm/xsct365wra0uv
 Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
+Cherry Radio Nhạc Trẻ
+https://stream.zeno.fm/umt5gqmg3reuv
+M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
 Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
 Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
 Radio Nhạc Vàng Xưa
 https://stream.zeno.fm/x2z45v7d84zuv
+Radio Nhạc Xuân
+https://stream.zeno.fm/hvtxgd85rm0uv
 Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
+THE BUDDHIST RADIO
+https://stream.zeno.fm/8456uy0bcm0uv
+FOLK DM
+https://stream.zeno.fm/a2dbs2tq1p8uv
 
 Quoc te link khac
 France24 hd
@@ -1314,7 +1356,7 @@ natv nghe an hd
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1423,7 +1465,7 @@ natv nghe an hd
 https://cdn.drt.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.drt.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.drt.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.drt.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.drt.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.drt.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1532,7 +1574,7 @@ natv nghe an hd
 https://cdn.sonlatv.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.sonlatv.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.sonlatv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.sonlatv.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.sonlatv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.sonlatv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1642,7 +1684,7 @@ natv nghe an hd
 https://stream.langsontv.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://stream.langsontv.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://stream.langsontv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://stream.langsontv.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://stream.langsontv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1751,7 +1793,7 @@ natv nghe an hd
 https://cdn.baobinhphuoc.com.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.baobinhphuoc.com.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.baobinhphuoc.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.baobinhphuoc.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.baobinhphuoc.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.baobinhphuoc.com.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1860,7 +1902,7 @@ natv nghe an hd
 https://live-hq.evgcdn.net/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://live-hq.evgcdn.net/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://live-hq.evgcdn.net/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://live-hq.evgcdn.net/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://live-hq.evgcdn.net/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://live-hq.evgcdn.net/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -1969,7 +2011,7 @@ natv nghe an hd
 https://cdn.thhp.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.thhp.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.thhp.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.thhp.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.thhp.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.thhp.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -2078,7 +2120,7 @@ natv nghe an hd
 https://live.haiduongtv.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://live.haiduongtv.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://live.haiduongtv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://live.haiduongtv.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://live.haiduongtv.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://live.haiduongtv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -2187,7 +2229,7 @@ natv nghe an hd
 https://cdn.la34.com.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.la34.com.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.la34.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.la34.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.la34.com.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.la34.com.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -2296,7 +2338,7 @@ natv nghe an hd
 https://cdn.baoquangninh.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 von nghe an radio
-https://cdn.baoquangninh.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
+https://cdn.baoquangninh.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 https://cdn.baoquangninh.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8
 lstv lang son hd
 https://cdn.baoquangninh.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -6535,7 +6577,7 @@ vtvgo event 2 720p
 https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
 vtvgo event 4 hd
 https://d2msoi9s9viefm.cloudfront.net/wildlife-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
+https://d2msoi9s9viefm.cloudfront.net/livestream/wildlife-1080p50fps2.m3u8
 vtvgo event 4 720p
 https://d2msoi9s9viefm.cloudfront.net/wildlife-720p50fps.m3u8
 vtvgo event 4 480p

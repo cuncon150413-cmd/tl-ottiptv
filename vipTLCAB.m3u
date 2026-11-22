@@ -741,9 +741,11 @@ https://rdu985fm-gecko.radioca.st/stream
 #EXTINF:-1 tvg-id="clvn" group-title="FM Radio",Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:-1 tvg-id="CRNT" group-title="FM Radio",Cherry Radio Nhạc Trẻ
-https://stream.zeno.fm/umt5gqmg3reuv.aac
+https://stream.zeno.fm/umt5gqmg3reuv
 #EXTINF:-1 tvg-id="CRVN" group-title="FM Radio",Cherry Radio Việt Nam
 https://a11.asurahosting.com:6750/radio.mp3
+#EXTINF:-1 tvg-id="MRVN" group-title="FM Radio",M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
 #EXTINF:-1 tvg-id="RDJ" group-title="FM Radio",Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
 #EXTINF:-1 tvg-id="RNDC" group-title="FM Radio",Radio Nhạc Dân Ca
@@ -774,7 +776,7 @@ https://live.canthotv.vn/live/radio1.stream/chunklist_w1.m3u8
 https://live.canthotv.vn/live/radiocs2/chunklist_w1.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="FM Radio",Đắk Lắk
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/playlist.m3u8
-#EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Đà Nãng
+#EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Đà Nẵ]ng
 https://cdn.drt.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbienradio" group-title="FM Radio",Điện BIên 98 mhz
 https://cdn.drt.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
