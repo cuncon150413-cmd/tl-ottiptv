@@ -330,8 +330,6 @@ ttv thanh hoa 720p referer=https://baothanhhoa.vn/
 https://d1.dhcn.vn/hls/bth_th/720p/index.m3u8
 ttv thanh hoa 480p referer=https://baothanhhoa.vn/
 https://d1.dhcn.vn/hls/bth_th/480p/index.m3u8
-ptv phu tho hd referer=https://phuthotv.vn/
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 dnnrtv1 dong nai 720p
 https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
 
@@ -350,13 +348,9 @@ ha tinh
 http://171.244.133.152:8000/hatinh
 tuyen quang
 https://radio.tuyenquangtv.vn/live/playlist.m3u8
-phu tho referer=https://phuthotv.vn/
-https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
 vov1
 http://truyenthanhip.vov.link:8000/VOV1
-lao cai
-https://sohoa-tttm.mobifone.vn/sohoadaitinhlaocai
-an giang 99,4 mhz
+
 media.kythuatvov.vn:port
 vov1
 http://media.kythuatvov.vn:7001/;
@@ -372,19 +366,19 @@ vov giao thong hcm
 http://media.kythuatvov.vn:7023/;
 vov giao thong ha noi
 http://media.kythuatvov.vn:7025/;
-vov4 dong bac or dong bang song cuu long
+vov4 dong bang song cuu long
 http://media.kythuatvov.vn:7031/;
-vov
+vov4 ho chi minh
 http://media.kythuatvov.vn:7033/;
-vov
+vov4 tay bac
 http://media.kythuatvov.vn:7037/;
 vov4 tay nguyen
 http://media.kythuatvov.vn:7039/;
-vov giao thong
+vov giao thong hcm
 http://media.kythuatvov.vn:7043/;
-vov giao thong
+vov giao thong ha noi
 http://media.kythuatvov.vn:7045/;
-vov giao thong
+vov giao thong mekong
 http://media.kythuatvov.vn:7059/;
 
 audio-lss.vov.vn
@@ -490,7 +484,7 @@ vov giao thong hcm
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 vov giao thong me kong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-vov giao tohng duyen hai
+vov giao thong duyen hai
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
 media01.dxtgroup.vn:8000
@@ -512,19 +506,19 @@ thvl audio
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 voh 92,5
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-ha nam radio
+ha nam
 http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam
-binh phuoc radio
+binh phuoc
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
-nam dinh radio
+nam dinh
 http://sohoa.truyenthanhthongminh.vn/sohoanamdinh
 vov1
 http://sohoa.truyenthanhthongminh.vn/BinhPhuoc-VOV1
-dong thap radio
+dong thap
 http://sohoa.truyenthanhthongminh.vn/fmdongthap
-tra vinh radio
+tra vinh
 http://sohoa.truyenthanhthongminh.vn/tinhtravinh
-can tho radio
+can tho
 http://sohoa.truyenthanhthongminh.vn/tpcantho
 
 sh.truyenthanhthongminh.vn
@@ -534,11 +528,14 @@ http://sh.truyenthanhthongminh.vn/binhphuocvov
 http://sh.truyenthanhthongminh.vn/vov1
 http://sh.truyenthanhthongminh.vn/vov1_ctkv7
 http://sh.truyenthanhthongminh.vn/vov1iot
-http://sh.truyenthanhthongminh.vn/vov1live (no sound)
+vov4
+http://sh.truyenthanhthongminh.vn/vov1live
 hung yen
 http://sh.truyenthanhthongminh.vn/hungyen_sohoastr123
 vov giao thong ha noi
 http://sh.truyenthanhthongminh.vn/VOVHN
+an giang 93,1mhz
+http://sh.truyenthanhthongminh.vn/490
 binh dinh
 http://sh.truyenthanhthongminh.vn/binhdinh_sh
 dak lak
@@ -559,8 +556,12 @@ thai nguyen
 http://sh.truyenthanhthongminh.vn/thainguyen123_str
 hue
 http://sh.truyenthanhthongminh.vn/thuathienhue
+
+sohoa-tttm.mobifone.vn
 lao cai
-http://sh.truyenthanhthongminh.vn/vanban_laocai
+https://sohoa-tttm.mobifone.vn/sohoadaitinhlaocai
+an giang 93,1 mhz
+https://sohoa-tttm.mobifone.vn/angiangmobi
 
 sh-tttm.mobifone.vn
 vov1
@@ -569,6 +570,11 @@ https://sh-tttm.mobifone.vn/binhphuocvov
 https://sh-tttm.mobifone.vn/vov1
 https://sh-tttm.mobifone.vn/vov1_ctkv7
 https://sh-tttm.mobifone.vn/vov1iot
+https://sh-tttm.mobifone.vn/vov1_khanhhoa
+https://sh-tttm.mobifone.vn/smatecvov1
+https://sh-tttm.mobifone.vn/mbfvov1ctkv7
+vov3
+https://sh-tttm.mobifone.vn/vov31
 vov4
 https://sh-tttm.mobifone.vn/vov1-2-restream
 bac ninh
@@ -616,29 +622,47 @@ thai nguyen
 https://sh-tttm.mobifone.vn/thainguyen123_str
 hue
 https://sh-tttm.mobifone.vn/thuathienhue
-lao cai
-https://sh-tttm.mobifone.vn/vanban_laocai
 
-icecast.vov.link:8000
+icecast.vov.link:8000 - net-radio.vov.link:8000
 vov1
 http://icecast.vov.link:8000/VOV1
 http://icecast.vov.link:8000/VOV1_DEMO
+vov2
+http://icecast.vov.link:8000/VOV2
 bac giang
 http://icecast.vov.link:8000/TBacGiang_PT
 da nang
 http://icecast.vov.link:8000/DaNang
 dien bien
 http://icecast.vov.link:8000/DienBien
+khanh hoa
+http://icecast.vov.link:8000/Khanhhoa
 ninh binh
 http://icecast.vov.link:8000/TNinhBinh
 lam dong
 http://icecast.vov.link:8000/TinhLamDong
+thai nguyen
+http://icecast.vov.link:8000/ThaiNguyen
 thanh hoa
 http://icecast.vov.link:8000/Thanhhoa
 
-device-stream.truyenthanhso.com
+103.179.172.206:8001
+dak lak
+http://103.179.172.206:8001/sohoadrt
+gia lai
+http://103.179.172.206:8001/sohoagtv
+khanh hoa
+http://103.179.172.206:8001/sohoaktv
+quang ngai
+http://103.179.172.206:8001/sohoaptq
+
+stream.truyenthanhso.com:3001 - device-stream.truyenthanhso.com
 vtv1 bi nhiem phong xa ogg
-https://device-stream.truyenthanhso.com/vtv1
+http://stream.truyenthanhso.com:3001/vtv1
+thanh hoa
+http://stream.truyenthanhso.com:3001/860262050131932
+vov1
+http://stream.truyenthanhso.com:3001/vov1_xuan_truong_80
 
 stream.zeno.fm
 Bài Hát Lạng Sơn
@@ -844,6 +868,12 @@ vtv4 hd
 https://ctrl.laotv.la/tokenlive/VTV4/index.m3u8?va=4926708102&token=0c5fc93b2446f0906217
 vietnam today hd
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
+
+cdn.3ssoft.vn referer=https://phuthotv.vn/
+ptv phu tho hd
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+radio phu tho
+https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
 
 live.baohatinh.vn
 bhttv ha tinh 720p

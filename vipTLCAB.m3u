@@ -263,7 +263,7 @@ http://tv.close.vn:8122/udp/225.1.1.101:30120
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
+#EXTINF:-1 tvg-id="vtvprime2" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -275,7 +275,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
+#EXTINF:-1 tvg-id="vtvprime4" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -287,13 +287,13 @@ https://livevlisctcdnw.seenow.vn/mean/ONSPORT4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
+#EXTINF:-1 tvg-id="vtvprime6" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
+#EXTINF:-1 tvg-id="vtvprime7" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -311,7 +311,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
+#EXTINF:-1 tvg-id="vtvprime10" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,13 +415,13 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 #EXTINF:-1 tvg-id="vnptpromo" tvg-logo="https://s935.cdn.mytvnet.vn/vimages/85/52/2c/cd/d8/8f/852cd-pknh0-channel-unkn.png" group-title="MyTV",VNPT PROMO
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 
-#EXTINF:-1 tvg-id="thethao247" group-title="SCTV Online",Thể Thao 24/7
+#EXTINF:-1 tvg-id="sctv-fast_the-thao-24-7" group-title="SCTV Online",Thể Thao 24/7
 https://tv.vietanhtv.top/sctv/tv.php?id=the-thao-24-7
-#EXTINF:-1 tvg-id="vietnam360" group-title="SCTV Online",Việt Nam 360
+#EXTINF:-1 tvg-id="sctv-fast_viet-nam-360" group-title="SCTV Online",Việt Nam 360
 https://tv.vietanhtv.top/sctv/tv.php?id=viet-nam-360
-#EXTINF:-1 tvg-id="phimviet247" group-title="SCTV Online",Phim Việt 24/7
+#EXTINF:-1 tvg-id="sctv-fast_man-anh-viet" group-title="SCTV Online",Phim Việt 24/7
 https://tv.vietanhtv.top/sctv/tv.php?id=man-anh-viet
-#EXTINF:-1 tvg-id="vutruhai" group-title="SCTV Online",Vũ Trụ Hài
+#EXTINF:-1 tvg-id="sctv-fast_cuoi-lien-luc-dia" group-title="SCTV Online",Vũ Trụ Hài
 https://tv.vietanhtv.top/sctv/tv.php?id=cuoi-lien-luc-dia
 
 #EXTINF:-1 tvg-id="sctv1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi" group-title="SCTV",SCTV1
@@ -691,7 +691,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=tra-vinh-1
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
 #EXTINF:-1 tvg-id="vov1" group-title="FM Radio",VOV1
-https://audio-lss.vov.vn/live/vov1.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/370CC0DC3538A7A8102A3884/index.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="FM Radio",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="FM Radio",VOV3
@@ -760,6 +760,11 @@ https://stream.zeno.fm/xsct365wra0uv
 https://dethich.pw/fm90/index.m3u8
 #EXTINF:-1 tvg-id="hanoi96" group-title="FM Radio",FM96 Thời Sự Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
+#EXTINF:-1 tvg-id="angiangradio" group-title="FM Radio",An Giang 93,1 mhz
+https://sohoa-tttm.mobifone.vn/angiangmobi
+#EXTINF:-1 tvg-id="angiangradio" group-title="FM Radio",An Giang 99,4 mhz
+#EXTVLCOPT:http-referrer=
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="bacninhradio" group-title="FM Radio",Bắc Ninh
 https://cdn.drt.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
 #EXTINF:-1 tvg-id="voh925" group-title="FM Radio",Bình Dương
@@ -776,7 +781,7 @@ https://live.canthotv.vn/live/radio1.stream/chunklist_w1.m3u8
 https://live.canthotv.vn/live/radiocs2/chunklist_w1.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="FM Radio",Đắk Lắk
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/playlist.m3u8
-#EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Đà Nẵ]ng
+#EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Đà Nẵng
 https://cdn.drt.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbienradio" group-title="FM Radio",Điện BIên 98 mhz
 https://cdn.drt.vn/live/28535437e79046746c1bf9787970a876038/playlist.m3u8
@@ -812,8 +817,6 @@ https://cfg.truyenhinhdaknong.vn/audio/daknong_radio/playlist.m3u8
 https://cdn.drt.vn/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u8
 #EXTINF:-1 tvg-id="laocairadio" group-title="FM Radio",Lào Cai
 https://luuchieu.truyenhinhso.vn/media/live/0183E110869F11DED7E12F49/index.m3u8
-#EXTINF:-1 tvg-id="laocaidantocradio" group-title="FM Radio",Lào Cai Dân Tộc
-https://luuchieu.truyenhinhso.vn/media/live/EB3679E0A4EB1DD7FE8FB626/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinhradio" group-title="FM Radio",Nam Định
 http://sohoa.truyenthanhthongminh.vn/sohoanamdinh
 #EXTINF:-1 tvg-id="ngheanradio" group-title="FM Radio",Nghệ An
@@ -851,6 +854,8 @@ https://radio.tuyenquangtv.vn/live/playlist.m3u8
 https://dethich.pw/thvlaudio/index.m3u8
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Ninh Thạnh Lợi, Tỉnh Cà Mau
 https://sohoa-tttm.mobifone.vn/ninhthanhloi
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",TTVH&TT Huyện Bảo Lạc, Tỉnh Cao Bằng
+https://live.ksdg.vn:1443/micro/04366B/playlist.m3u8
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Hòa Xuân, Tỉnh Đắk Lắk
 https://sohoa-tttm.mobifone.vn/xahoaxuan
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Phường Cao Lãnh, Tỉnh Đồng Tháp
@@ -923,6 +928,16 @@ http://sohoa.truyenthanhthongminh.vn/xacamvan.thanhhoa
 http://sohoa.truyenthanhthongminh.vn/xatanhoi
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Thanh Bình, Tỉnh Ninh Bình
 http://sohoa.truyenthanhthongminh.vn/xathanhbinh
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Tiền Hải, Tỉnh Hưng Yên
+http://sohoa.truyenthanhthongminh.vn/tienhai
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Nam Sách, Thành Phố Hải Phòng
+https://live.ksdg.vn:1443/micro/02B03C/playlist.m3u8
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Hạ Lang, Tỉnh Cao Bằng
+http://115.79.46.164:1935/phatthanh/halang/playlist.m3u8
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Tân Trụ, Tỉnh Tây Ninh
+http://115.79.46.164:1935/phatthanh/tantru/playlist.m3u8
+#EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Phát thanh nội thành Huế
+http://stream.radiotech.vn:3000/863462063245623
 
 #EXTINF:-1 tvg-id="doraemon" group-title="Doraemon S12",Doraemon tập 1
 https://pop1-ec3-ateme.tv360.vn/video1/2026/01/07/14/df938213/198a97/h264/master.m3u8
@@ -1351,4 +1366,7 @@ https://cuncon150413-cmd.github.io/tldigital-ott3/generator-m3u8/danet/antv-720p
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/ATV3_logo_07-2025.png/revision/latest/scale-to-width-down/1000?cb=20251018044550&path-prefix=vi" group-title="Thử Nghiệm",ATV3 An Giang
 #EXTVLCOPT:http-referrer=https:/angiangtv.vn/
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/ATV3_logo_07-2025.png/revision/latest/scale-to-width-down/1000?cb=20251018044550&path-prefix=vi" group-title="Thử Nghiệm",ATV3 An Giang
+#EXTVLCOPT:http-referrer=
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
