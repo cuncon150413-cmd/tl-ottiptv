@@ -326,10 +326,6 @@ thvl thieu nhi hd
 https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
 thvl chuyen de hd
 https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
-ttv thanh hoa 720p referer=https://baothanhhoa.vn/
-https://d1.dhcn.vn/hls/bth_th/720p/index.m3u8
-ttv thanh hoa 480p referer=https://baothanhhoa.vn/
-https://d1.dhcn.vn/hls/bth_th/480p/index.m3u8
 dnnrtv1 dong nai 720p
 https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
 
@@ -370,7 +366,7 @@ vov4 dong bang song cuu long
 http://media.kythuatvov.vn:7031/;
 vov4 ho chi minh
 http://media.kythuatvov.vn:7033/;
-vov4 tay bac
+vov4 tay bac - dong bac
 http://media.kythuatvov.vn:7037/;
 vov4 tay nguyen
 http://media.kythuatvov.vn:7039/;
@@ -462,7 +458,7 @@ vov4 dong bang song cuu long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
 vov4 tay nguyen
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/playlist.m3u8
-vov4 tay bac
+vov4 tay bac - dong bac
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/playlist.m3u8
 vov4 hcm
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/playlist.m3u8
@@ -683,10 +679,6 @@ Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
 Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
-THE BUDDHIST RADIO
-https://stream.zeno.fm/8456uy0bcm0uv
-FOLK DM
-https://stream.zeno.fm/a2dbs2tq1p8uv
 
 Quoc te link khac
 France24 hd
@@ -916,6 +908,14 @@ ctv 720p
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 ctv radio
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
+
+d1.dhcn.vn referer=https://baothanhhoa.vn/
+ttv thanh hoa 720p
+https://d1.dhcn.vn/hls/bth_th/720p/index.m3u8
+ttv thanh hoa 480p
+https://d1.dhcn.vn/hls/bth_th/480p/index.m3u8
+thanh hoa radio
+https://d4.dhcn.vn/hls/bth_pt/audio/index.m3u8
 
 trtlive.f77de468.cdnviet.com
 hue radio

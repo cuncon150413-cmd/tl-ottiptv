@@ -70,9 +70,9 @@ https://liveh34.vtvprime.vn/hls/NINHBINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
 https://ctrl.laotv.la/tokenlive/VietNamTodayUnitel/index.m3u8?va=4926708047&token=9be800e44ec4e4002dd5
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="qpvn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Thiết Yếu",HITV
 https://vmttv.dpdns.org/tv360/?id=32
@@ -504,7 +504,7 @@ https://live.tvon.vn/s2/hls/htv9/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=11
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ Nữ
 https://freem3u.xyz/api/live/play.m3u8?vid=12
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="HTVC",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="HTVC",HTVC Thuần Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://htvc.vn/uploads/channel/2024/03/08/3409130-091-htvc-phim.png" group-title="HTVC",HTVC Phim
 https://freem3u.xyz/api/live/play.m3u8?vid=15
@@ -589,7 +589,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest/scale-to-width-down/1000?cb=20250902053524&path-prefix=vi" group-title="Địa Phương",ĐNNRTV2 Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="dongnai3" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/%C4%90NNRTV3.png/revision/latest/scale-to-width-down/1000?cb=20250902053453&path-prefix=vi" group-title="Địa Phương",ĐNNRTV3 Đồng Nai
-https://dethich.pw/dongnai3/index.m3u8
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="dongthap1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TH%C4%90T1_31-07-2023.png/revision/latest/scale-to-width-down/1200?cb=20250729103122&path-prefix=vi" group-title="Địa Phương",THĐT1 Đồng Tháp
 https://live.tvon.vn/g5/thdt1/master.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest?cb=20260222061035&path-prefix=vi" group-title="Địa Phương",THĐT2 Đồng Tháp
@@ -685,7 +685,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=88
 https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 tvg-id="vinhlong5" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/THTV_HD_logo_2018-2025.png/revision/latest/scale-to-width-down/1000?cb=20220403052316&path-prefix=vi" group-title="Địa Phương Cũ",THTV Trà Vinh
+#EXTINF:-1 tvg-id="vinhlong5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/THTV_HD_logo_2018-2025.png/revision/latest/scale-to-width-down/1000?cb=20220403052316&path-prefix=vi" group-title="Địa Phương Cũ",THTV Trà Vinh
 https://tv.vietanhtv.top/vieon/vieon.php?id=tra-vinh-1
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
@@ -704,7 +704,7 @@ http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/chunklist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4scl" group-title="FM Radio",VOV4 Đồng Bằng Sông Cửu Long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4tb" group-title="FM Radio",VOV4 Tây Bắc
+#EXTINF:-1 tvg-id="vov4tb" group-title="FM Radio",VOV4 Tây Bắc - Đông Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4tn" group-title="FM Radio",VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
@@ -724,18 +724,18 @@ https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgt" group-title="FM Radio",VOV Giao Thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" group-title="FM Radio",VOV Giao Thông Hà Nội
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 #EXTINF:-1 tvg-id="voh999" group-title="FM Radio",VOH 9,99 mhz
-https://freem3u.xyz/api/live/play.m3u8?vid=10037
+https://tv.vietanhtv.top/vieon/vieon.php?id=voh-fm-99-9-mhz
 #EXTINF:-1 tvg-id="voh956" group-title="FM Radio",VOH 95,6 mhz
-https://freem3u.xyz/api/live/play.m3u8?vid=10039
+https://tv.vietanhtv.top/vieon/vieon.php?id=voh-fm-95-6-mhz
 #EXTINF:-1 tvg-id="voh610" group-title="FM Radio",VOH 610 khz
-https://freem3u.xyz/api/live/play.m3u8?vid=10036
+https://tv.vietanhtv.top/vieon/vieon.php?id=voh-am-610-mhz
 #EXTINF:-1 tvg-id="voh877" group-title="FM Radio",VOH 87,7 mhz
-https://freem3u.xyz/api/live/play.m3u8?vid=10038
+https://tv.vietanhtv.top/vieon/vieon.php?id=voh-fm-87-7-mhz
 #EXTINF:-1 tvg-id="voh925" group-title="FM Radio",VOH 92,5 mhz
-https://freem3u.xyz/api/live/play.m3u8?vid=10040
+https://tv.vietanhtv.top/vieon/vieon.php?id=vohm-fm-92-92-5-mhz
 #EXTINF:-1 tvg-id="joyfm" group-title="FM Radio",Joy FM
 https://rdu985fm-gecko.radioca.st/stream
 #EXTINF:-1 tvg-id="clvn" group-title="FM Radio",Cải Lương Việt Nam
@@ -757,9 +757,9 @@ https://stream.zeno.fm/8456uy0bcm0uv
 #EXTINF:-1 tvg-id="RBHLS" group-title="FM Radio",Radio Bài Hát Lạng Sơn
 https://stream.zeno.fm/xsct365wra0uv
 #EXTINF:-1 tvg-id="hanoi90" group-title="FM Radio",FM90 Tin tức Giao Thông Hà Nội
-https://dethich.pw/fm90/index.m3u8
+https://tv.vietanhtv.top/vieon/vieon.php?id=fm90-tin-tuc-giao-thong-ha-noi
 #EXTINF:-1 tvg-id="hanoi96" group-title="FM Radio",FM96 Thời Sự Hà Nội
-https://freem3u.xyz/api/live/play.m3u8?vid=9906
+https://tv.vietanhtv.top/vieon/vieon.php?id=fm96-thoi-su-ha-noi
 #EXTINF:-1 tvg-id="angiangradio" group-title="FM Radio",An Giang 93,1 mhz
 https://sohoa-tttm.mobifone.vn/angiangmobi
 #EXTINF:-1 tvg-id="angiangradio" group-title="FM Radio",An Giang 99,4 mhz
@@ -770,7 +770,7 @@ https://cdn.drt.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
 #EXTINF:-1 tvg-id="voh925" group-title="FM Radio",Bình Dương
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
 #EXTINF:-1 tvg-id="gialairadio" group-title="FM Radio",Bình Định
-http://14.224.130.186:8000/binhdinh
+https://sh-tttm.mobifone.vn/binhdinh_sh
 #EXTINF:-1 tvg-id="dongnairadio" group-title="FM Radio",Bình Phước
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
 #EXTINF:-1 tvg-id="camauradio" group-title="FM Radio",Cà Mau
@@ -795,9 +795,9 @@ https://tv.gialaitv.vn/radio.m3u8
 https://live.baohatinh.vn/voht/index.m3u8?_t=1
 #EXTINF:-1 tvg-id="ninhbinhradio" group-title="FM Radio",Hà Nam
 http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam
-#EXTINF:-1 tvg-id="haiphongradio937" group-title="FM Radio",Hải Phòng 93,7 mhz
+#EXTINF:-1 tvg-id="haiphong937" group-title="FM Radio",Hải Phòng 93,7 mhz
 https://cdn.drt.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 tvg-id="haiphongradio1022" group-title="FM Radio",Hải Phòng 102,2 mhz
+#EXTINF:-1 tvg-id="haiphong1022" group-title="FM Radio",Hải Phòng 102,2 mhz
 https://cdn.drt.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 tvg-id="hueradio" group-title="FM Radio",Huế 93 mhz
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
@@ -829,7 +829,7 @@ https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 tvg-id="quangtriradio" group-title="FM Radio",Quảng Bình
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 #EXTINF:-1 tvg-id="danangradio" group-title="FM Radio",Quảng Nam
-http://113.161.6.157:8085/phatthanh/QRT.m3u8
+https://sh-tttm.mobifone.vn/quangnam
 #EXTINF:-1 tvg-id="quangngairadio" group-title="FM Radio",Quảng Ngãi 102,9 mhz
 https://cdn.drt.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninhradio1" group-title="FM Radio",QNR1
@@ -846,12 +846,12 @@ https://cdn.drt.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="thanhhoaradio" group-title="FM Radio",Thanh Hóa
 http://icecast.vov.link:8000/Thanhhoa
-#EXTINF:-1 tvg-id="vinhlongaudio" group-title="FM Radio",Trà Vinh
+#EXTINF:-1 tvg-id="vinhlongradio" group-title="FM Radio",Trà Vinh
 http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 #EXTINF:-1 tvg-id="tuyenquangradio" group-title="FM Radio",Tuyên Quang 95,6 mhz
 https://radio.tuyenquangtv.vn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlongaudio" group-title="FM Radio",Vĩnh Long Audio
-https://dethich.pw/thvlaudio/index.m3u8
+#EXTINF:-1 tvg-id="vinhlongradio" group-title="FM Radio",Vĩnh Long Audio
+https://tv.vietanhtv.top/vieon/vieon.php?id=vinh-long-audio
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",Xã Ninh Thạnh Lợi, Tỉnh Cà Mau
 https://sohoa-tttm.mobifone.vn/ninhthanhloi
 #EXTINF:-1 tvg-id="huyenthixaxaphuongtp" group-title="FM Radio",TTVH&TT Huyện Bảo Lạc, Tỉnh Cao Bằng
