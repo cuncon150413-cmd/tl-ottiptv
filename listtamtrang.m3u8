@@ -8,7 +8,7 @@
 
 -- update #4 21:40 8/11/2026 mở 3 hộp bốc thăm khu bệnh viện nhốn nhão đã ra mặt, khôi phục KTV Khánh Hòa và TTV Thanh Hóa về 720p, tăng 720p --> 1080p cho HuếTV xài server của TV360, Đồng thời thêm 1 số kênh VTVCab --
 
--- update #5 20:30 13/11/2026 lồn thằng nào bảo code giới hạn vài phút ở thứ 7, xem lý do ở thi thể HTV7, giảm 720p --> testcard mytv cho TTV Thanh Hóa --
+-- update #5 20:30 13/11/2026 thằng nào bảo code giới hạn vài phút ở thứ 7, xem lý do ở HTV7, giảm 720p --> testcard mytv cho TTV Thanh Hóa --
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV1_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20260907124651&path-prefix=vi" group-title="VTV",VTV1
 https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
@@ -156,7 +156,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/cantho1tv/live/cantho1tv_
 #EXTINF:-1 tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest/scale-to-width-down/1000?cb=20250912112238&path-prefix=vi" group-title="Địa Phương",Cần Thơ 2
 https://dethich.pw/cantho2/index.m3u8
 #EXTINF:-1 tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest/scale-to-width-down/1000?cb=20250912112412&path-prefix=vi" group-title="Địa Phương",Cần Thơ 3
-https://dethich.pw/cantho3/index.m3u8
+https://dethich.pw/cantho3/index.m3u8 
 #EXTINF:-1 tvg-id="danang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/DNRT1_logo.png/revision/latest?cb=20260212223625&path-prefix=vi" group-title="Địa Phương",DNRT1 Đà Nẵng
 https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 #EXTINF:-1 tvg-id="danang2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/DNRT2_logo.png/revision/latest?cb=20260212223711&path-prefix=vi" group-title="Địa Phương",DNRT2 Đà Nẵng
