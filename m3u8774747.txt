@@ -326,8 +326,6 @@ thvl thieu nhi hd
 https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
 thvl chuyen de hd
 https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
-dnnrtv1 dong nai 720p
-https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
 
 fm khac
 quang nam radio
@@ -344,38 +342,46 @@ ha tinh
 http://171.244.133.152:8000/hatinh
 tuyen quang
 https://radio.tuyenquangtv.vn/live/playlist.m3u8
+https://27.72.164.157/live/playlist.m3u8
 vov1
 http://truyenthanhip.vov.link:8000/VOV1
+http://103.77.166.106:8000/VOV1
+http://stream.radiotech.vn:3000/860262050136071
+http://27.71.226.192:3000/860262050136071
 
-media.kythuatvov.vn:port
+media.kythuatvov.vn:port - 113.164.229.226:port
 vov1
-http://media.kythuatvov.vn:7001/;
+http://media.kythuatvov.vn:7001/.m3u8
 vov2
-http://media.kythuatvov.vn:7003/;
+http://media.kythuatvov.vn:7003/.m3u8
 vov3
-http://media.kythuatvov.vn:7005/;
+http://media.kythuatvov.vn:7005/.m3u8
 vov5
-http://media.kythuatvov.vn:7007/;
+http://media.kythuatvov.vn:7007/.m3u8
 vov5 247
-http://media.kythuatvov.vn:7009/;
+http://media.kythuatvov.vn:7009/.m3u8
 vov giao thong hcm
-http://media.kythuatvov.vn:7023/;
+http://media.kythuatvov.vn:7023/.m3u8
 vov giao thong ha noi
-http://media.kythuatvov.vn:7025/;
+http://media.kythuatvov.vn:7025/.m3u8
 vov4 dong bang song cuu long
-http://media.kythuatvov.vn:7031/;
+http://media.kythuatvov.vn:7031/.m3u8
 vov4 ho chi minh
-http://media.kythuatvov.vn:7033/;
+http://media.kythuatvov.vn:7033/.m3u8
 vov4 tay bac - dong bac
-http://media.kythuatvov.vn:7037/;
+http://media.kythuatvov.vn:7037/.m3u8
 vov4 tay nguyen
-http://media.kythuatvov.vn:7039/;
+http://media.kythuatvov.vn:7039/.m3u8
 vov giao thong hcm
-http://media.kythuatvov.vn:7043/;
+http://media.kythuatvov.vn:7043/.m3u8
 vov giao thong ha noi
-http://media.kythuatvov.vn:7045/;
+http://media.kythuatvov.vn:7045/.m3u8
 vov giao thong mekong
-http://media.kythuatvov.vn:7059/;
+http://media.kythuatvov.vn:7059/.m3u8
+vov1
+http://media.kythuatvov.vn:7101/.m3u8
+vov2
+http://media.kythuatvov.vn:7203/.m3u8
 
 audio-lss.vov.vn
 vov1
@@ -395,7 +401,7 @@ https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 vov sonata
 https://audio-lss.vov.vn/live/sonata.m3u8
 
-str.vov.gov.vn
+str.vov.gov.vn - stream.vovlive.vn
 vov1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 vov2
@@ -419,31 +425,7 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
 vov giao thong mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
 
-stream.vovlive.vn
-vov1
-https://stream.vovlive.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-vov2
-https://stream.vovlive.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-vov3
-https://stream.vovlive.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-vov4 tay nguyen
-https://stream.vovlive.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-vov5
-https://stream.vovlive.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-vov5 247
-https://stream.vovlive.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
-vov5 sgf
-https://stream.vovlive.vn/vovlive/vov5.SpanishGermanFrench.sdp_aac/playlist.m3u8
-vov5 rc
-https://stream.vovlive.vn/vovlive/vov5.RussianChinese.sdp_aac/playlist.m3u8
-vov giao thong ha noi
-https://stream.vovlive.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
-vov giao thong hcm
-https://stream.vovlive.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
-vov giao thong mekong
-https://stream.vovlive.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-
-media.kythuatvov.vn:1936
+media.kythuatvov.vn:1936 - media.kythuatvov.vn:1935 - stream.kythuatvov.vn:1936 - stream.kythuatvov.vn:1935 - 113.164.229.226:1936 - 113.164.229.226:1935
 vov1
 http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
 vov2
@@ -483,7 +465,7 @@ https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 vov giao thong duyen hai
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
-media01.dxtgroup.vn:8000
+media01.dxtgroup.vn:8000 - 103.129.127.125
 quang ngai
 http://media01.dxtgroup.vn:8000/quangngai
 vov1
@@ -517,7 +499,7 @@ http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 can tho
 http://sohoa.truyenthanhthongminh.vn/tpcantho
 
-sh.truyenthanhthongminh.vn
+sh.truyenthanhthongminh.vn - 42.1.64.42
 vov1
 http://sh.truyenthanhthongminh.vn/MBFVOV1
 http://sh.truyenthanhthongminh.vn/binhphuocvov
@@ -553,13 +535,13 @@ http://sh.truyenthanhthongminh.vn/thainguyen123_str
 hue
 http://sh.truyenthanhthongminh.vn/thuathienhue
 
-sohoa-tttm.mobifone.vn
+sohoa-tttm.mobifone.vn - 42.1.110.208
 lao cai
 https://sohoa-tttm.mobifone.vn/sohoadaitinhlaocai
 an giang 93,1 mhz
 https://sohoa-tttm.mobifone.vn/angiangmobi
 
-sh-tttm.mobifone.vn
+sh-tttm.mobifone.vn - 42.1.110.208:443
 vov1
 https://sh-tttm.mobifone.vn/MBFVOV1
 https://sh-tttm.mobifone.vn/binhphuocvov
@@ -569,7 +551,34 @@ https://sh-tttm.mobifone.vn/vov1iot
 https://sh-tttm.mobifone.vn/vov1_khanhhoa
 https://sh-tttm.mobifone.vn/smatecvov1
 https://sh-tttm.mobifone.vn/mbfvov1ctkv7
+https://sh-tttm.mobifone.vn/MBF2988
+https://sh-tttm.mobifone.vn/MBF3588
+https://sh-tttm.mobifone.vn/MBF3628
+https://sh-tttm.mobifone.vn/MBF3635
+https://sh-tttm.mobifone.vn/MBF4088
+https://sh-tttm.mobifone.vn/MBF4096
+https://sh-tttm.mobifone.vn/MBF4728
+https://sh-tttm.mobifone.vn/MBF5138
+https://sh-tttm.mobifone.vn/MBF_-156
+https://sh-tttm.mobifone.vn/MBF_-397
+https://sh-tttm.mobifone.vn/MBF_-728
+https://sh-tttm.mobifone.vn/MBF_-858
+https://sh-tttm.mobifone.vn/MBF_-925
+https://sh-tttm.mobifone.vn/MBF_-933
+https://sh-tttm.mobifone.vn/MBF_187
+https://sh-tttm.mobifone.vn/MBF_287
+https://sh-tttm.mobifone.vn/MBF_433
+https://sh-tttm.mobifone.vn/MBF_453
+https://sh-tttm.mobifone.vn/MBF_51
+https://sh-tttm.mobifone.vn/MBF_610
+https://sh-tttm.mobifone.vn/MBF_703
+https://sh-tttm.mobifone.vn/MBF_739
+https://sh-tttm.mobifone.vn/MBF_852
+vov giao thong hcm
+https://sh-tttm.mobifone.vn/MBF_-999
 vov3
+https://sh-tttm.mobifone.vn/MBF5144
+https://sh-tttm.mobifone.vn/MBF4090
 https://sh-tttm.mobifone.vn/vov31
 vov4
 https://sh-tttm.mobifone.vn/vov1-2-restream
@@ -585,11 +594,15 @@ https://sh-tttm.mobifone.vn/cantho
 dak lak
 https://sh-tttm.mobifone.vn/daklak_sohoa1
 da nang
+https://sh-tttm.mobifone.vn/MBF_-689
+https://sh-tttm.mobifone.vn/MBF2229
 https://sh-tttm.mobifone.vn/dnrt
 https://sh-tttm.mobifone.vn/dnrt123
 dong thap
 https://sh-tttm.mobifone.vn/dongthap02
 https://sh-tttm.mobifone.vn/dongthapnew
+tien giang
+https://sh-tttm.mobifone.vn/MBF2008
 ha tinh
 https://sh-tttm.mobifone.vn/fmhatinh1
 gia lai
@@ -604,6 +617,7 @@ https://sh-tttm.mobifone.vn/%C4%90TTHaiphong
 hung yen
 https://sh-tttm.mobifone.vn/hungyen_sohoastr123
 nghe an
+https://sh-tttm.mobifone.vn/MBF2728
 https://sh-tttm.mobifone.vn/nghean3
 qunag binh
 https://sh-tttm.mobifone.vn/quangbinh1
@@ -618,8 +632,21 @@ thai nguyen
 https://sh-tttm.mobifone.vn/thainguyen123_str
 hue
 https://sh-tttm.mobifone.vn/thuathienhue
+lao cai
+https://sh-tttm.mobifone.vn/MBF_-795
+binh phuoc
+https://sh-tttm.mobifone.vn/MBF4128
+dit me kenh gi ma nhieu the
+https://sh-tttm.mobifone.vn/MBF4373
+kenh dang tat song nen deo xac dinh duoc hoac chac la kien giang 99,4mhz
+https://sh-tttm.mobifone.vn/MBF5132
+https://sh-tttm.mobifone.vn/MBF_-523
+quang cao giong ai
+https://sh-tttm.mobifone.vn/MBF_-325
+kenh gi vay moi nguoi
+https://sh-tttm.mobifone.vn/MBF_198
 
-icecast.vov.link:8000 - net-radio.vov.link:8000
+icecast.vov.link:8000 - net-radio.vov.link:8000 - 103.97.132.8:8000
 vov1
 http://icecast.vov.link:8000/VOV1
 http://icecast.vov.link:8000/VOV1_DEMO
@@ -652,7 +679,7 @@ http://103.179.172.206:8001/sohoaktv
 quang ngai
 http://103.179.172.206:8001/sohoaptq
 
-stream.truyenthanhso.com:3001 - device-stream.truyenthanhso.com
+stream.truyenthanhso.com:3001 - device-stream.truyenthanhso.com - 42.96.43.198:3001
 vtv1 bi nhiem phong xa ogg
 http://stream.truyenthanhso.com:3001/vtv1
 thanh hoa
@@ -921,7 +948,7 @@ trtlive.f77de468.cdnviet.com
 hue radio
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/Radio-online/chunklist.m3u8
-huetv
+huetv hd
 http://trtlive.f77de468.cdnviet.com/TRT-online/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/TRT-online/chunklist.m3u8
 
@@ -929,7 +956,7 @@ huetvlive.f77de468.cdnviet.com
 hue radio
 http://huetvlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 http://huetvlive.f77de468.cdnviet.com/Radio-online/chunklist.m3u8
-huetv
+huetv hd
 http://huetvlive.f77de468.cdnviet.com/TRT-online/playlist.m3u8
 http://huetvlive.f77de468.cdnviet.com/TRT-online/chunklist.m3u8
 
@@ -937,7 +964,7 @@ live.trt.com.vn
 hue radio
 http://live.trt.com.vn/Radio-online/playlist.m3u8
 http://live.trt.com.vn/Radio-online/chunklist.m3u8
-huetv
+huetv hd
 http://live.trt.com.vn/TRT-online/playlist.m3u8
 http://live.trt.com.vn/TRT-online/chunklist.m3u8
 
@@ -945,7 +972,7 @@ live.huetv.com.vn
 hue radio
 https://live.huetv.com.vn/Radio-online/playlist.m3u8
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
-huetv
+huetv hd
 https://live.huetv.com.vn/TRT-online/playlist.m3u8
 https://live.huetv.com.vn/TRT-online/chunklist.m3u8
 
@@ -997,13 +1024,15 @@ lang son radio
 https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
 https://media.bacgiangtv.vn/live/langsonradio_aac/chunklist_w1228469779.m3u8
 
-cdn.mediatech.vn
+cdn-hls.mediatech.vn
 dnnrtv1 dong nai 720p
-https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
+https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv1live/source.m3u8
 dnnrtv2 dong nai 720p
-https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
+https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/tv2live/source.m3u8
 dong nai radio
-https://cdn.mediatech.vn/dongnai/radio-transmux.m3u8
+https://cdn-hls.mediatech.vn/hls/raventiger-1578/dongnai/radio/source.m3u8
+
+cdn.mediatech.vn
 qtv3 quang ninh 720p
 https://cdn.mediatech.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1012,12 +1041,6 @@ qnr2 quang ninh 240p
 https://cdn.mediatech.vn/qtvlive/qnr2.m3u8
 
 live.baoquangninh.vn
-dnnrtv1 dong nai 720p
-https://live.baoquangninh.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://live.baoquangninh.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://live.baoquangninh.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh 720p
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1026,12 +1049,6 @@ qnr2 quang ninh 240p
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 
 103.90.220.236
-dnnrtv1 dong nai 720p
-http://103.90.220.236/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-http://103.90.220.236/dongnai/tv2live-transmux.m3u8
-dong nai radio
-http://103.90.220.236/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 http://103.90.220.236/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1040,12 +1057,6 @@ qnr2 quang ninh 240p
 http://103.90.220.236/qtvlive/qnr2.m3u8
 
 qtv.vncdn.vn
-dnnrtv1 dong nai 720p
-https://qtv.vncdn.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://qtv.vncdn.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://qtv.vncdn.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 https://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1054,12 +1065,6 @@ qnr2 quang ninh 240p
 https://qtv.vncdn.vn/qtvlive/qnr2.m3u8
 
 live.sonlatv.vn
-dnnrtv1 dong nai 720p
-https://live.sonlatv.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://live.sonlatv.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://live.sonlatv.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 https://live.sonlatv.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1068,12 +1073,6 @@ qnr2 quang ninh 240p
 https://live.sonlatv.vn/qtvlive/qnr2.m3u8
 
 live.drt.vn
-dnnrtv1 dong nai 720p
-https://live.drt.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://live.drt.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://live.drt.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 https://live.drt.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1082,12 +1081,6 @@ qnr2 quang ninh 240p
 https://live.drt.vn/qtvlive/qnr2.m3u8
 
 live.drt.vn
-dnnrtv1 dong nai 720p
-https://on.thhp.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://on.thhp.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://on.thhp.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 https://on.thhp.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1095,13 +1088,7 @@ https://on.thhp.vn/qtvlive/qnr1.m3u8
 qnr2 quang ninh 240p
 https://on.thhp.vn/qtvlive/qnr2.m3u8
 
-live.drt.vn
-dnnrtv1 dong nai 720p
-https://live.hungyentv.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://live.hungyentv.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://live.hungyentv.vn/dongnai/radio-transmux.m3u8
+live.hungyentv.vn
 qtv3 quang ninh hd
 https://live.hungyentv.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -1110,12 +1097,6 @@ qnr2 quang ninh 240p
 https://live.hungyentv.vn/qtvlive/qnr2.m3u8
 
 live.langsontv.vn
-dnnrtv1 dong nai 720p
-https://live.langsontv.vn/dongnai/tv1live-transmux.m3u8
-dnnrtv2 dong nai 720p
-https://live.langsontv.vn/dongnai/tv2live-transmux.m3u8
-dong nai radio
-https://live.langsontv.vn/dongnai/radio-transmux.m3u8
 qtv3 quang ninh hd
 https://live.langsontv.vn/qtvlive/tv3live.m3u8
 qnr1 quang ninh 240p
@@ -11301,6 +11282,9 @@ https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/chunks.m3u8
 vtv3 hd
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/chunks.m3u8
+vtv5 hd
+https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/chunks.m3u8
 htv1 hd
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/chunks.m3u8
@@ -11564,10 +11548,6 @@ tuyen quang radio
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 vov1
 https://luuchieu.truyenhinhso.vn/media/live/370CC0DC3538A7A8102A3884/index.m3u8
-vov2
-https://luuchieu.truyenhinhso.vn/media/live/C8A57BB400170C263E73A5E1/index.m3u8
-vov3
-https://luuchieu.truyenhinhso.vn/media/live/243410071B24D57B0C280184/index.m3u8
 
 vmttv.dpdns.org
 vtv1 hd
@@ -12492,6 +12472,7 @@ http://tv.close.vn:8122/udp/225.1.1.152:30120
 dnnrtv2 dong nai hd
 http://tv.close.vn:8122/udp/225.1.1.151:30120
 dnnrtv3 dong nai hd
+http://tv.close.vn:8122/udp/225.1.1.153:30120
 thdt1 dong thap hd
 http://tv.close.vn:8122/udp/225.1.1.163:30120
 http://tv.close.vn:8122/udp/225.1.3.24:30120
