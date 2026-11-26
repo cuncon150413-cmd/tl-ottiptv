@@ -327,6 +327,12 @@ thvl thieu nhi hd
 https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
 thvl chuyen de hd
 https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
+vtvgo event 3 hd
+https://sgai-us.vimai.io/v1/media/6c95112c-d94f-4d9b-bab5-f6bbad538f84/1080p.m3u8
+vtvgo event 3 720p
+https://sgai-us.vimai.io/v1/media/6c95112c-d94f-4d9b-bab5-f6bbad538f84/720p.m3u8
+vtvgo event 3 480p
+https://sgai-us.vimai.io/v1/media/6c95112c-d94f-4d9b-bab5-f6bbad538f84/480p.m3u8
 
 fm khac
 quang nam radio
@@ -5190,38 +5196,38 @@ https://livestream-evg7.tv360.vn/manifest/livestream-06/playlist_480p.m3u8
 vtv1 hd
 https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/vtv1-720p/chunklist.m3u8
-vtv1 hd
+vtv1 720p
 https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/vtv1-480p/chunklist.m3u8
 vtv2 hd
 https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/vtv2-720p/chunklist.m3u8
-vtv2 hd
+vtv2 720p
 https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/vtv2-480p/chunklist.m3u8
 vtv3 hd
 https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/vtv3-720p/chunklist.m3u8
-vtv3 hd
+vtv3 720p
 https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/vtv3-480p/chunklist.m3u8
 vtv4 hd
 https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/vtv4-480p/chunklist.m3u8
-vtv4 hd
+vtv4 720p
 https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/vtv4-360p/chunklist.m3u8
 vtv5 hd
 https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/vtv5-720p/chunklist.m3u8
-vtv5 hd
+vtv5 720p
 https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/vtv5-480p/chunklist.m3u8
 vtv5 tay nam bo hd
 https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-1080p/chunklist.m3u8
-vtv5 tay nam bo hd
+vtv5 tay nam bo 720p
 https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-720p/chunklist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-480p/chunklist.m3u8
 vtv5 tay nguyen hd
 https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/vtv5tn-720p/chunklist.m3u8
-vtv5 tay nguyen hd
+vtv5 tay nguyen 720p
 https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/vtv5tn-480p/chunklist.m3u8
 vtv6 hd
 https://vtv-live-push.akamaized.net/hls/live/2125536/vtv6tt/playlist.m3u8
@@ -5231,22 +5237,22 @@ https://vtv-live-push.akamaized.net/hls/live/2125536/vtv6tt/vtv6tt-480p/chunklis
 vtv7 hd
 https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/vtv7-720p/chunklist.m3u8
-vtv7 hd
+vtv7 720p
 https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/vtv7-480p/chunklist.m3u8
 vtv8 hd
 https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/vtv8-480p/chunklist.m3u8
-vtv8 hd
+vtv8 720p
 https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/vtv8-360p/chunklist.m3u8
 vtv9 hd
 https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/vtv9-720p/chunklist.m3u8
-vtv9 hd
+vtv9 720p
 https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/vtv9-480p/chunklist.m3u8
 vtv10 hd
 https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8
 https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/vtv6-720p/chunklist.m3u8
-vtv10 hd
+vtv10 720p
 https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/vtv6-480p/chunklist.m3u8
 
 d3006k9ptxe2oq.cloudfront.net
@@ -6452,11 +6458,6 @@ dtv dien bien 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-vtvgo event 1 hd
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-1080p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/eplus-720p.m3u8
 stv son la 720p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -6464,22 +6465,6 @@ stv son la 480p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtvgo event 2 hd
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
-vtvgo event 2 480p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-manifest.m3u8
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://kenhdp-vtvgo.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 events.vtvdigital.vn
 ctv ca mau 720p
@@ -6496,11 +6481,6 @@ dtv dien bien 480p
 https://events.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://events.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-vtvgo event 1 hd
-https://events.vtvdigital.vn/livestream/eplus-1080p.m3u8
-https://events.vtvdigital.vn/livestream/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://events.vtvdigital.vn/livestream/eplus-720p.m3u8
 stv son la 720p
 https://events.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://events.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -6508,22 +6488,6 @@ stv son la 480p
 https://events.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://events.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtvgo event 2 hd
-https://events.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
-https://events.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://events.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
-vtvgo event 2 480p
-https://events.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://events.vtvdigital.vn/livestream/wildlife-manifest.m3u8
-https://events.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://events.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://events.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://events.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 vtvgolive-vtv.vtvdigital.vn
 ctv ca mau 720p
@@ -6540,11 +6504,6 @@ dtv dien bien 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-vtvgo event 1 hd
-https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-1080p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/eplus-720p.m3u8
 stv son la 720p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -6552,22 +6511,6 @@ stv son la 480p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://vtvgolive-vtv.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtvgo event 2 hd
-https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
-vtvgo event 2 480p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-manifest.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://vtvgolive-vtv.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
 
 vtvgolive-qt.vtvdigital.vn
 ctv ca mau 720p
@@ -6584,11 +6527,6 @@ dtv dien bien 480p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/dienbientv-480p.m3u8
 dtv dien bien 360p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/dienbientv-360p.m3u8
-vtvgo event 1 hd
-https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-1080p.m3u8
-https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://vtvgolive-qt.vtvdigital.vn/livestream/eplus-720p.m3u8
 stv son la 720p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
@@ -6596,68 +6534,6 @@ stv son la 480p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-480p.m3u8
 stv son la 360p
 https://vtvgolive-qt.vtvdigital.vn/kenhdp/sonla-360p.m3u8
-vtvgo event 2 hd
-https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-1080p.m3u8
-https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-720p.m3u8
-vtvgo event 2 480p
-https://vtvgolive-qt.vtvdigital.vn/livestream/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-manifest.m3u8
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://vtvgolive-qt.vtvdigital.vn/livestream/wildlife-360p50fps.m3u8
-
-vtvgolivesmarttv2-aws-tn.vtvdigital.vn
-vtvgo event 1 hd
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-1080p.m3u8
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/eplus-720p.m3u8
-vtvgo event 2 hd
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-1080p.m3u8
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-720p.m3u8
-vtvgo event 2 480p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-manifest.m3u8
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://vtvgolivesmarttv2-aws-tn.vtvdigital.vn/wildlife-360p50fps.m3u8
-
-d2msoi9s9viefm.cloudfront.net
-vtvgo event 1 hd
-https://d2msoi9s9viefm.cloudfront.net/eplus-1080p.m3u8
-https://d2msoi9s9viefm.cloudfront.net/eplus-manifest.m3u8
-vtvgo event 1 720p
-https://d2msoi9s9viefm.cloudfront.net/eplus-720p.m3u8
-vtvgo event 2 hd
-https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-1080p.m3u8
-https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-manifest.m3u8
-vtvgo event 2 720p
-https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
-vtvgo event 2 720p
-https://d2msoi9s9viefm.cloudfront.net/thoisu_vnvccs-480p.m3u8
-vtvgo event 4 hd
-https://d2msoi9s9viefm.cloudfront.net/wildlife-manifest.m3u8
-https://d2msoi9s9viefm.cloudfront.net/livestream/wildlife-1080p50fps2.m3u8
-vtvgo event 4 720p
-https://d2msoi9s9viefm.cloudfront.net/wildlife-720p50fps.m3u8
-vtvgo event 4 480p
-https://d2msoi9s9viefm.cloudfront.net/wildlife-480p50fps.m3u8
-vtvgo event 4 360p
-https://d2msoi9s9viefm.cloudfront.net/wildlife-360p50fps.m3u8
 
 vtvgolive-vtclc1.vtvdigital.vn
 crtv cao bang 720p
