@@ -2469,7 +2469,7 @@ crtv cao bang 360p
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_b584000.m3u8
 
 125hvt.ddns.net:21585
-vtv2 hd
+vtv2 576p
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 http://125hvt.ddns.net:21585/vtv2/tracks-v1a1/mono.m3u8
 vtv6 576p
@@ -2489,7 +2489,7 @@ http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
 
 live247.freem3u.xyz:21585
-vtv2 hd
+vtv2 576p
 http://live247.freem3u.xyz:21585/vtv2/playlist.m3u8
 http://live247.freem3u.xyz:21585/vtv2/tracks-v1a1/mono.m3u8
 vtv6 576p
@@ -5186,6 +5186,68 @@ tv360 live stream 6 720p
 https://livestream-evg7.tv360.vn/manifest/livestream-06/playlist_720p.m3u8
 tv360 live stream 6 480p
 https://livestream-evg7.tv360.vn/manifest/livestream-06/playlist_480p.m3u8
+
+vtv1 hd
+https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/vtv1-720p/chunklist.m3u8
+vtv1 hd
+https://vtv-live-push.akamaized.net/hls/live/2029307/vtv1/vtv1-480p/chunklist.m3u8
+vtv2 hd
+https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/vtv2-720p/chunklist.m3u8
+vtv2 hd
+https://vtv-live-push.akamaized.net/hls/live/2029308/vtv2/vtv2-480p/chunklist.m3u8
+vtv3 hd
+https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/vtv3-720p/chunklist.m3u8
+vtv3 hd
+https://vtv-live-push.akamaized.net/hls/live/2029309/vtv3/vtv3-480p/chunklist.m3u8
+vtv4 hd
+https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/vtv4-480p/chunklist.m3u8
+vtv4 hd
+https://vtv-live-push.akamaized.net/hls/live/2029310/vtv4/vtv4-360p/chunklist.m3u8
+vtv5 hd
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/vtv5-720p/chunklist.m3u8
+vtv5 hd
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/vtv5-480p/chunklist.m3u8
+vtv5 tay nam bo hd
+https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-1080p/chunklist.m3u8
+vtv5 tay nam bo hd
+https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-720p/chunklist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029313/vtv5tnb/vtv5tnb-480p/chunklist.m3u8
+vtv5 tay nguyen hd
+https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/vtv5tn-720p/chunklist.m3u8
+vtv5 tay nguyen hd
+https://vtv-live-push.akamaized.net/hls/live/2029312/vtv5tn/vtv5tn-480p/chunklist.m3u8
+vtv6 hd
+https://vtv-live-push.akamaized.net/hls/live/2125536/vtv6tt/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2125536/vtv6tt/vtv6tt-720p/chunklist.m3u8
+vtv6 720p
+https://vtv-live-push.akamaized.net/hls/live/2125536/vtv6tt/vtv6tt-480p/chunklist.m3u8
+vtv7 hd
+https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/vtv7-720p/chunklist.m3u8
+vtv7 hd
+https://vtv-live-push.akamaized.net/hls/live/2029315/vtv7/vtv7-480p/chunklist.m3u8
+vtv8 hd
+https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/vtv8-480p/chunklist.m3u8
+vtv8 hd
+https://vtv-live-push.akamaized.net/hls/live/2029316/vtv8/vtv8-360p/chunklist.m3u8
+vtv9 hd
+https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/vtv9-720p/chunklist.m3u8
+vtv9 hd
+https://vtv-live-push.akamaized.net/hls/live/2029317/vtv9/vtv9-480p/chunklist.m3u8
+vtv10 hd
+https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8
+https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/vtv6-720p/chunklist.m3u8
+vtv10 hd
+https://vtv-live-push.akamaized.net/hls/live/2029314/vtv6/vtv6-480p/chunklist.m3u8
 
 d3006k9ptxe2oq.cloudfront.net
 vtv1 hd
