@@ -46,7 +46,6 @@ https://live.canthotv.vn/cs3/tv/chunklist_w.m3u8
 
 hd.xemtv.net
 qngtv1 quangngai hd
-https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=81
@@ -267,8 +266,6 @@ radio
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 
 baoquangninh.vn
-qtv1 hd
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 qtv3 720p
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
@@ -297,7 +294,7 @@ https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 m3u8 khac
 tvb viet nam hd
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-antv 720x576
+antv 406p
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 tn1 thai nguyen 720p
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
@@ -1005,6 +1002,17 @@ thdt radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 
+118.69.83.22
+thdt1 720p
+https://118.69.83.22/THDT/thdttv/chunklist_w281265982.m3u8
+https://118.69.83.22/THDT/thdttv/playlist.m3u8
+thdt2 qhd 960x540
+https://118.69.83.22/THDT2/thdttv2/playlist.m3u8
+https://118.69.83.22/THDT2/thdttv2/chunklist_w1481168679.m3u8
+thdt radio
+https://118.69.83.22/THDTR/thdtradio/chunklist_w1754694215.m3u8
+https://118.69.83.22/THDTR/thdtradio/playlist.m3u8
+
 live.canthotv.vn
 can tho 1 hd
 https://live.canthotv.vn/live/tv/chunklist_w9439.m3u8
@@ -1012,6 +1020,14 @@ can tho 2 hd
 https://live.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
 can tho 3 hd
 https://live.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
+
+s1.canthotv.vn
+can tho 1 hd
+https://s1.canthotv.vn/live/tv/chunklist_w9439.m3u8
+can tho 2 hd
+https://s1.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
+can tho 3 hd
+https://s1.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
 
 tv.canthotv.vn
 can tho 1 hd
@@ -1021,10 +1037,30 @@ https://tv.canthotv.vn/cs2/live.stream/chunklist_w4575.m3u8
 can tho 3 hd
 https://tv.canthotv.vn/cs3/tv/chunklist_w6262.m3u8
 
-media.mediatech.vn:1935
+s1.canthotv.vn:8443
+can tho 1 hd
+https://s1.canthotv.vn:8443/abr/ct1/v0/playlist.m3u8
+can tho 1 720p
+https://s1.canthotv.vn:8443/abr/ct1/v1/playlist.m3u8
+can tho 1 480p
+https://s1.canthotv.vn:8443/abr/ct1/v2/playlist.m3u8
+can tho 2 hd
+https://s1.canthotv.vn:8443/abr/ct2/v0/playlist.m3u8
+can tho 2 720p
+https://s1.canthotv.vn:8443/abr/ct2/v1/playlist.m3u8
+can tho 2 480p
+https://s1.canthotv.vn:8443/abr/ct2/v2/playlist.m3u8
+can tho 3 hd
+https://s1.canthotv.vn:8443/abr/ct3/v0/playlist.m3u8
+can tho 3 720p
+https://s1.canthotv.vn:8443/abr/ct3/v1/playlist.m3u8
+can tho 3 480p
+https://s1.canthotv.vn:8443/abr/ct3/v2/playlist.m3u8
+
+210.245.94.137:1935
 lang son radio
-https://media.mediatech.vn:1935/live/langsonradio_aac/playlist.m3u8
-https://media.mediatech.vn:1935/live/langsonradio_aac/chunklist_w1228469779.m3u8
+https://210.245.94.137:1935/live/langsonradio_aac/playlist.m3u8
+https://210.245.94.137:1935/live/langsonradio_aac/chunklist_w1228469779.m3u8
 
 media.bacgiangtv.vn
 lang son radio
